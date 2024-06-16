@@ -147,6 +147,7 @@
 
 <!-- Certificate Transcript -->
 <div align="center">
+  <!-- Grade -->
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=60&repeat=false&lines=4.08+%2F+4.5" alt="Typing SVG" />
   </div>
@@ -179,7 +180,7 @@
     <img src="https://img.shields.io/badge/컴퓨터구조:A-C7E0FF?style=flat&logoColor=black" />
     <img src="https://img.shields.io/badge/이산수학:A-CFCFFF?style=flat&logoColor=black" />
   </div>
-</div><br />
+</div>
 
 <!-- Hits -->
 <h2></h2>
