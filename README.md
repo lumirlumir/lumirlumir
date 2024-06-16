@@ -145,6 +145,42 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false" />
 </div><br />
 
+<!-- Certificate Transcript -->
+<div align="center">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=60&repeat=false&lines=4.08+%2F+4.5" alt="Typing SVG" />
+  </div>
+  <!-- Certificate -->
+  <div>
+    <img src="https://img.shields.io/badge/정보처리기사-EFFFDF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/컴퓨터활용능력1급-CEFFC4?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/정보처리기능사-B3F9FF?style=flat&logoColor=black" />
+  </div>
+  <!-- A+ -->
+  <div>
+    <img src="https://img.shields.io/badge/C언어기초:A+-EDC9D4?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/컴퓨터프로그래밍의기초:A+-FFD3C9?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/컴퓨터공학총론:A+-FFF7CF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/알고리즘:A+-E4F0C9?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/운영체제:A+-C7E0FF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/프로그래밍언어론:A+-CFCFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/자료구조:A+-BAC3FF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/리눅스프로그래밍:A+-EDC9D4?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/컴퓨터네트워크:A+-FFD3C9?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/소프트웨어공학:A+-FFF7CF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/산학실전캡스톤:A+-E4F0C9?style=flat&logoColor=black" />
+  </div>
+  <!-- A -->
+  <div>
+    <img src="https://img.shields.io/badge/C++프로그래밍:A-EDC9D4?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/머신러닝개론:A-FFD3C9?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/객체지향프로그래밍:A-FFF7CF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/데이터베이스:A-E4F0C9?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/컴퓨터구조:A-C7E0FF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/이산수학:A-CFCFFF?style=flat&logoColor=black" />
+  </div>
+</div><br />
+
 <!-- Hits -->
 <h2></h2>
 <div align="center">
