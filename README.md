@@ -74,6 +74,8 @@
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" />
     <img src="https://img.shields.io/badge/EditorConfig-FEFEFE?style=flat&logo=editorconfig&logoColor=black" />
+    <img src="https://img.shields.io/badge/Markdownlint-000000?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/Textlint-000000?style=flat&logoColor=black" />
   </div>
   <!-- Editor -->
   <div>
