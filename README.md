@@ -14,8 +14,8 @@
   
   <!-- Stats 1st line -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" height=200 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=c%23,Python&username=lumirlumir&langs_count=8&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" height=200 />
+    <img src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" height=220 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" height=220 />
   </div><br />
 
   <!-- Stats 2nd line -->
@@ -151,7 +151,11 @@
 <div align="center">
   <!-- Grade -->
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=60&repeat=false&lines=4.08+%2F+4.5" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/예술융합창작:부전공-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black" />
   </div>
   <!-- Certificate -->
   <div>
