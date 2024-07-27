@@ -35,16 +35,16 @@
 <!-- Contributions -->
 <div align="center">
   <a href="https://github.com/pronist/hello">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="pronist/hello"/>
   </a>
   <a href="https://github.com/reactjs/ko.react.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="reactjs/ko.react.dev" />  
   </a>
   <a href="https://github.com/tidory/tidory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" />  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory"/>  
   </a>
   <a href="https://github.com/tidory/tidory.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory.github.io"/>  
   </a>
 </div><br/>
 
