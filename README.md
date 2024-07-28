@@ -97,8 +97,9 @@
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" />
     <img src="https://img.shields.io/badge/EditorConfig-FEFEFE?style=flat&logo=editorconfig&logoColor=black" />
-    <img src="https://img.shields.io/badge/Markdownlint-000000?style=flat&logoColor=black" />
-    <img src="https://img.shields.io/badge/Textlint-000000?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/Markdownlint-000000?style=flat&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Textlint-42FFFF?style=flat&logo=markdown&logoColor=black" />
+    <img src="https://img.shields.io/badge/ClangFormat-3B637A?style=flat&logo=cplusplus&logoColor=white" />
   </div>
   <!-- Editor -->
   <div>
@@ -123,7 +124,7 @@
     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white" />
   </div>
-  <!-- Cloud Platform -->
+  <!-- MicroSoft Hancom -->
   <div>
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=googlesheets&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=googleslides&logoColor=white" />
