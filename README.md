@@ -180,6 +180,8 @@
     <img src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black" />
     <img src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black" />
     <img src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/작품경진대회:동상-FFFFFF?style=flat&logoColor=black" />
+    <img src="https://img.shields.io/badge/캡스톤디자인:장려상-FFFFFF?style=flat&logoColor=black" />
   </div>
   <!-- Certificate -->
   <div>
