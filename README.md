@@ -9,7 +9,7 @@
 <div>
   <!-- Contribution Graph -->
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=161B22&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10" height=300vw alt="루밀LuMir's Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=161B22&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600" height=410vw alt="루밀LuMir's Contribution Graph"/>
   </div><br />
   
   <!-- Stats 1st line -->
