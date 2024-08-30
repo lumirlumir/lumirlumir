@@ -34,17 +34,17 @@
 
 <!-- Contributions -->
 <div align="center">
-  <a href="https://github.com/pronist/hello">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="pronist/hello"/>
-  </a>
   <a href="https://github.com/reactjs/ko.react.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="reactjs/ko.react.dev" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" alt="reactjs/ko.react.dev" title="Collaborator"/>  
+  </a>
+  <a href="https://github.com/pronist/hello">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="pronist/hello" title="Contributor"/>
   </a>
   <a href="https://github.com/tidory/tidory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory"/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory" title="Contributor"/>  
   </a>
   <a href="https://github.com/tidory/tidory.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory.github.io"/>  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory.github.io" title="Contributor"/>  
   </a>
 </div><br/>
 
@@ -219,5 +219,3 @@
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flumirlumir&count_bg=%23D6BBF2&title_bg=%23161B22&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Visitors" />
 </div>
-
-
