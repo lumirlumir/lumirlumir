@@ -37,18 +37,21 @@
   <a href="https://github.com/reactjs/ko.react.dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10" alt="reactjs/ko.react.dev" title="Collaborator"/>  
   </a>
+  <a href="https://github.com/vercel/next.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="vercel/next.js" title="Contributor"/>
+  </a>
   <a href="https://github.com/material-extensions/vscode-material-icon-theme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="material-extensions/vscode-material-icon-theme" title="Contributor"/>
   </a>
   <a href="https://github.com/pronist/hello">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="pronist/hello" title="Contributor"/>
   </a>
-  <a href="https://github.com/tidory/tidory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory" title="Contributor"/>  
-  </a>
 
   <details>
     <summary>And more...</summary>
+    <a href="https://github.com/tidory/tidory">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory" title="Contributor"/>  
+    </a>
     <a href="https://github.com/tidory/tidory.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory.github.io" title="Contributor"/>  
     </a>
