@@ -55,8 +55,7 @@
     <a href="https://github.com/tidory/tidory.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true" alt="tidory/tidory.github.io" title="Contributor"/>  
     </a>
-  </details>
-  
+  </details>  
 </div><br/>
 
 <!-- Title -->
@@ -73,12 +72,13 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" alt="Pug" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />  
+    <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white" alt="MDX" />  
   </div>
   <!-- Style -->
   <div>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />  
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   </div>
   <!-- Language -->
   <div>
@@ -93,7 +93,7 @@
   <!-- Library -->
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Alpinejs-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black" alt="Alpinejs" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />    
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
   </div>
   <!-- Node.js -->
@@ -106,11 +106,17 @@
   <!-- Convention -->
   <div>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+    <img src="https://img.shields.io/badge/Stylelint-263238?style=flat&logo=stylelint&logoColor=white" alt="Stylelint" />
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
     <img src="https://img.shields.io/badge/EditorConfig-FEFEFE?style=flat&logo=editorconfig&logoColor=black" alt="EditorConfig" />
     <img src="https://img.shields.io/badge/Markdownlint-000000?style=flat&logo=markdown&logoColor=white" alt="Markdownlint" />
     <img src="https://img.shields.io/badge/Textlint-42FFFF?style=flat&logo=markdown&logoColor=black" alt="Textlint" />
-    <img src="https://img.shields.io/badge/ClangFormat-3B637A?style=flat&logo=cplusplus&logoColor=white" alt="ClangFormat" />
+    <img src="https://img.shields.io/badge/ClangFormat-262D3A?style=flat&logo=llvm&logoColor=white" alt="ClangFormat" />
+  </div>
+  <!-- Testing-->
+  <div>
+    <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" />
+    <img src="https://img.shields.io/badge/Codecov-F01F7A?style=flat&logo=codecov&logoColor=white" alt="Codecov" />
   </div>
   <!-- Editor -->
   <div>
@@ -129,9 +135,11 @@
     <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   </div>
   <!-- Cloud Platform -->
   <div>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white" alt="NCP" />
   </div>
