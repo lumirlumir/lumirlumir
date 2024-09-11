@@ -141,225 +141,225 @@
   <!-- Markup -->
   <div>
     <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"
-      alt="HTML5"
+      src="https://img.shields.io/badge/Markdown🏆-000000?style=flat&logo=markdown&logoColor=white"
+      alt="Markdown🏆"
     />
     <img
-      src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white"
-      alt="Pug"
+      src="https://img.shields.io/badge/HTML5🥇-E34F26?style=flat&logo=html5&logoColor=white"
+      alt="HTML5🥇"
     />
     <img
-      src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"
-      alt="Markdown"
+      src="https://img.shields.io/badge/Pug🥉-A86454?style=flat&logo=pug&logoColor=white"
+      alt="Pug🥉"
     />
     <img
-      src="https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white"
-      alt="MDX"
+      src="https://img.shields.io/badge/MDX🥉-1B1F24?style=flat&logo=mdx&logoColor=white"
+      alt="MDX🥉"
     />
   </div>
   <!-- Style -->
   <div>
     <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"
-      alt="CSS3"
+      src="https://img.shields.io/badge/CSS3🥇-1572B6?style=flat&logo=css3&logoColor=white"
+      alt="CSS3🥇"
     />
     <img
-      src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"
-      alt="SCSS"
+      src="https://img.shields.io/badge/SCSS🥇-CC6699?style=flat&logo=sass&logoColor=white"
+      alt="SCSS🥇"
     />
     <img
-      src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"
-      alt="TailwindCSS"
+      src="https://img.shields.io/badge/TailwindCSS🥉-06B6D4?style=flat&logo=tailwindcss&logoColor=white"
+      alt="TailwindCSS🥉"
     />
   </div>
   <!-- Language -->
   <div>
     <img
-      src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"
-      alt="C"
+      src="https://img.shields.io/badge/C🥇-A8B9CC?style=flat&logo=c&logoColor=black"
+      alt="C🥇"
     />
     <img
-      src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=cplusplus&logoColor=white"
-      alt="Cpp"
+      src="https://img.shields.io/badge/Cpp🥇-00599C?style=flat&logo=cplusplus&logoColor=white"
+      alt="Cpp🥇"
     />
     <img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
-      alt="JavaScript"
+      src="https://img.shields.io/badge/JavaScript🥇-F7DF1E?style=flat&logo=javascript&logoColor=black"
+      alt="JavaScript🥇"
     />
     <img
-      src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"
-      alt="Java"
+      src="https://img.shields.io/badge/Java🥈-007396?style=flat&logo=coffeescript&logoColor=white"
+      alt="Java🥈"
     />
     <img
-      src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
-      alt="Python"
+      src="https://img.shields.io/badge/Python🥈-3776AB?style=flat&logo=python&logoColor=white"
+      alt="Python🥈"
     />
     <img
-      src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"
-      alt="JSON"
+      src="https://img.shields.io/badge/JSON🥈-000000?style=flat&logo=json&logoColor=white"
+      alt="JSON🥈"
     />
     <img
-      src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"
-      alt="YAML"
+      src="https://img.shields.io/badge/YAML🥈-CB171E?style=flat&logo=yaml&logoColor=white"
+      alt="YAML🥈"
     />
   </div>
   <!-- Library -->
   <div>
     <img
-      src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"
-      alt="React"
+      src="https://img.shields.io/badge/React🥇-61DAFB?style=flat&logo=react&logoColor=black"
+      alt="React🥇"
     />
     <img
-      src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"
-      alt="Next.js"
+      src="https://img.shields.io/badge/Next.js🥈-000000?style=flat&logo=nextdotjs"
+      alt="Next.js🥈"
     />
     <img
-      src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"
-      alt="OpenAI"
+      src="https://img.shields.io/badge/OpenAI🥈-412991?style=flat&logo=openai&logoColor=white"
+      alt="OpenAI🥈"
     />
   </div>
   <!-- Node.js -->
   <div>
     <img
-      src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"
-      alt="Node.js"
+      src="https://img.shields.io/badge/Node.js🥇-5FA04E?style=flat&logo=nodedotjs&logoColor=white"
+      alt="Node.js🥇"
     />
     <img
-      src="https://img.shields.io/badge/Dotenv-ECD53F?style=flat&logo=dotenv&logoColor=black"
-      alt="Dotenv"
+      src="https://img.shields.io/badge/Dotenv🥈-ECD53F?style=flat&logo=dotenv&logoColor=black"
+      alt="Dotenv🥈"
     />
     <img
-      src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"
-      alt="Webpack"
+      src="https://img.shields.io/badge/Webpack🥈-8DD6F9?style=flat&logo=webpack&logoColor=black"
+      alt="Webpack🥈"
     />
     <img
-      src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black"
-      alt="Babel"
+      src="https://img.shields.io/badge/Babel🥈-F9DC3E?style=flat&logo=babel&logoColor=black"
+      alt="Babel🥈"
     />
   </div>
   <!-- Convention -->
   <div>
     <img
-      src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"
-      alt="ESLint"
+      src="https://img.shields.io/badge/Textlint🏆-42FFFF?style=flat&logo=markdown&logoColor=black"
+      alt="Textlint🏆"
     />
     <img
-      src="https://img.shields.io/badge/Stylelint-263238?style=flat&logo=stylelint&logoColor=white"
-      alt="Stylelint"
+      src="https://img.shields.io/badge/ESLint🥇-4B32C3?style=flat&logo=eslint&logoColor=white"
+      alt="ESLint🥇"
     />
     <img
-      src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"
-      alt="Prettier"
+      src="https://img.shields.io/badge/Stylelint🥇-263238?style=flat&logo=stylelint&logoColor=white"
+      alt="Stylelint🥇"
     />
     <img
-      src="https://img.shields.io/badge/EditorConfig-FEFEFE?style=flat&logo=editorconfig&logoColor=black"
-      alt="EditorConfig"
+      src="https://img.shields.io/badge/Prettier🥇-F7B93E?style=flat&logo=prettier&logoColor=black"
+      alt="Prettier🥇"
     />
     <img
-      src="https://img.shields.io/badge/Markdownlint-000000?style=flat&logo=markdown&logoColor=white"
-      alt="Markdownlint"
+      src="https://img.shields.io/badge/EditorConfig🥇-FEFEFE?style=flat&logo=editorconfig&logoColor=black"
+      alt="EditorConfig🥇"
     />
     <img
-      src="https://img.shields.io/badge/Textlint-42FFFF?style=flat&logo=markdown&logoColor=black"
-      alt="Textlint"
+      src="https://img.shields.io/badge/Markdownlint🥇-000000?style=flat&logo=markdown&logoColor=white"
+      alt="Markdownlint🥇"
     />
     <img
-      src="https://img.shields.io/badge/ClangFormat-262D3A?style=flat&logo=llvm&logoColor=white"
-      alt="ClangFormat"
+      src="https://img.shields.io/badge/ClangFormat🥇-262D3A?style=flat&logo=llvm&logoColor=white"
+      alt="ClangFormat🥇"
     />
   </div>
   <!-- Testing-->
   <div>
     <img
-      src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"
-      alt="Mocha"
+      src="https://img.shields.io/badge/Mocha🥈-8D6748?style=flat&logo=mocha&logoColor=white"
+      alt="Mocha🥈"
     />
     <img
-      src="https://img.shields.io/badge/Codecov-F01F7A?style=flat&logo=codecov&logoColor=white"
-      alt="Codecov"
+      src="https://img.shields.io/badge/Codecov🥈-F01F7A?style=flat&logo=codecov&logoColor=white"
+      alt="Codecov🥈"
     />
   </div>
   <!-- Editor -->
   <div>
     <img
-      src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"
-      alt="VScode"
+      src="https://img.shields.io/badge/VScode🥇-007ACC?style=flat&logo=visualstudiocode&logoColor=white"
+      alt="VScode🥇"
     />
     <img
-      src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"
-      alt="VisualStudio"
+      src="https://img.shields.io/badge/VisualStudio🥈-5C2D91?style=flat&logo=visualstudio&logoColor=white"
+      alt="VisualStudio🥈"
     />
   </div>
   <!-- Git -->
   <div>
     <img
-      src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"
-      alt="Git"
+      src="https://img.shields.io/badge/Git🥇-F05032?style=flat&logo=git&logoColor=white"
+      alt="Git🥇"
     />
     <img
-      src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"
-      alt="Github"
+      src="https://img.shields.io/badge/Github🥇-181717?style=flat&logo=github&logoColor=white"
+      alt="Github🥇"
     />
     <img
-      src="https://img.shields.io/badge/GithubPages-222222?style=flat&logo=githubpages&logoColor=white"
-      alt="GithubPages"
+      src="https://img.shields.io/badge/GithubPages🥇-222222?style=flat&logo=githubpages&logoColor=white"
+      alt="GithubPages🥇"
     />
     <img
-      src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white"
-      alt="GithubActions"
+      src="https://img.shields.io/badge/GithubActions🥇-2088FF?style=flat&logo=githubactions&logoColor=white"
+      alt="GithubActions🥇"
     />
   </div>
   <!-- OS --->
   <div>
     <img
-      src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white"
-      alt="Windows"
+      src="https://img.shields.io/badge/Windows🥇-0078D4?style=flat&logo=windows11&logoColor=white"
+      alt="Windows🥇"
     />
     <img
-      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
-      alt="Linux"
+      src="https://img.shields.io/badge/Linux🥇-FCC624?style=flat&logo=linux&logoColor=black"
+      alt="Linux🥇"
     />
     <img
-      src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"
-      alt="Ubuntu"
+      src="https://img.shields.io/badge/Ubuntu🥇-E95420?style=flat&logo=ubuntu&logoColor=white"
+      alt="Ubuntu🥇"
     />
     <img
-      src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"
-      alt="Docker"
+      src="https://img.shields.io/badge/Docker🥈-2496ED?style=flat&logo=docker&logoColor=white"
+      alt="Docker🥈"
     />
   </div>
   <!-- Cloud Platform -->
   <div>
     <img
-      src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"
-      alt="Vercel"
+      src="https://img.shields.io/badge/Vercel🥇-000000?style=flat&logo=vercel&logoColor=white"
+      alt="Vercel🥇"
     />
     <img
-      src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"
-      alt="GCP"
+      src="https://img.shields.io/badge/GCP🥈-4285F4?style=flat&logo=googlecloud&logoColor=white"
+      alt="GCP🥈"
     />
     <img
-      src="https://img.shields.io/badge/NCP-03C75A?style=flat&logo=naver&logoColor=white"
-      alt="NCP"
+      src="https://img.shields.io/badge/NCP🥉-03C75A?style=flat&logo=naver&logoColor=white"
+      alt="NCP🥉"
     />
   </div>
   <!-- MicroSoft Hancom -->
   <div>
     <img
-      src="https://img.shields.io/badge/Excel-217346?style=flat&logo=googlesheets&logoColor=white"
-      alt="Excel"
+      src="https://img.shields.io/badge/Excel🥇-217346?style=flat&logo=googlesheets&logoColor=white"
+      alt="Excel🥇"
     />
     <img
-      src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=googleslides&logoColor=white"
-      alt="PowerPoint"
+      src="https://img.shields.io/badge/PowerPoint🥇-B7472A?style=flat&logo=googleslides&logoColor=white"
+      alt="PowerPoint🥇"
     />
     <img
-      src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=googledocs&logoColor=white"
-      alt="Word"
+      src="https://img.shields.io/badge/Hancom🥇-2B579A?style=flat&logo=googledocs&logoColor=white"
+      alt="Hancom🥇"
     />
     <img
-      src="https://img.shields.io/badge/Hancom-2B579A?style=flat&logo=googledocs&logoColor=white"
-      alt="Hancom"
+      src="https://img.shields.io/badge/Word🥈-2B579A?style=flat&logo=googledocs&logoColor=white"
+      alt="Word🥈"
     />
   </div>
 </div>
