@@ -88,11 +88,18 @@
   </a>
 
   <details>
-    <summary><kbd>A</kbd><kbd>N</kbd><kbd>D</kbd><kbd> </kbd><kbd>M</kbd><kbd>O</kbd><kbd>R</kbd><kbd>E</kbd></summary>
+    <summary><kbd>M</kbd><kbd>O</kbd><kbd>R</kbd><kbd>E</kbd></summary>
     <a href="https://github.com/reactjs/react.dev"></a>
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
         alt="reactjs/react.dev"
+        title="Contributor"
+      />
+    </a>
+    <a href="https://github.com/actions/runner-images"></a>
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="actions/runner-images"
         title="Contributor"
       />
     </a>
