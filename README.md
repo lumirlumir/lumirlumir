@@ -74,45 +74,59 @@
 <div align="center">
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&description_lines_count=1"
       alt="reactjs/ko.react.dev"
       title="Collaborator"
     />
   </a>
   <a href="https://github.com/vercel/next.js">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
       alt="vercel/next.js"
-      title="Contributor"
-    />
-  </a>
-  <a href="https://github.com/material-extensions/vscode-material-icon-theme">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true"
-      alt="material-extensions/vscode-material-icon-theme"
-      title="Contributor"
-    />
-  </a>
-  <a href="https://github.com/pronist/hello">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true"
-      alt="pronist/hello"
       title="Contributor"
     />
   </a>
 
   <details>
-    <summary>And more...</summary>
+    <summary><kbd>A</kbd><kbd>N</kbd><kbd>D</kbd><kbd> </kbd><kbd>M</kbd><kbd>O</kbd><kbd>R</kbd><kbd>E</kbd></summary>
+    <a href="https://github.com/reactjs/react.dev"></a>
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="reactjs/react.dev"
+        title="Contributor"
+      />
+    </a>
+    <a href="https://github.com/textlint/textlint"></a>
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="textlint/textlint"
+        title="Contributor"
+      />
+    </a>
+    <a href="https://github.com/material-extensions/vscode-material-icon-theme">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="material-extensions/vscode-material-icon-theme"
+        title="Contributor"
+      />
+    </a>
+    <a href="https://github.com/pronist/hello">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="pronist/hello"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/tidory/tidory">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
         alt="tidory/tidory"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/tidory/tidory.github.io">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
         alt="tidory/tidory.github.io"
         title="Contributor"
       />
@@ -457,8 +471,8 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=45&repeat=false&lines=Certificate+%26+Transcript"
-    alt="Certificate and Transcript"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=45&repeat=false&lines=Transcript+%26+Certificate"
+    alt="Transcript and Certificate"
   />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
@@ -466,9 +480,9 @@
 </div>
 <br />
 
-<!-- Certificate Transcript -->
+<!-- Transcript Certificate -->
 <div align="center">
-  <!-- Grade -->
+  <!-- Transcript -->
   <div>
     <img
       src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black"
@@ -514,81 +528,85 @@
       alt="정보처리기능사"
     />
   </div>
-  <!-- A+ -->
-  <div>
-    <img
-      src="https://img.shields.io/badge/C언어기초:A+-EDC9D4?style=flat&logoColor=black"
-      alt="C언어기초:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/컴퓨터프로그래밍의기초:A+-FFD3C9?style=flat&logoColor=black"
-      alt="컴퓨터프로그래밍의기초:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/컴퓨터공학총론:A+-FFF7CF?style=flat&logoColor=black"
-      alt="컴퓨터공학총론:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/알고리즘:A+-E4F0C9?style=flat&logoColor=black"
-      alt="알고리즘:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/운영체제:A+-C7E0FF?style=flat&logoColor=black"
-      alt="운영체제:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/프로그래밍언어론:A+-CFCFFF?style=flat&logoColor=black"
-      alt="프로그래밍언어론:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/자료구조:A+-BAC3FF?style=flat&logoColor=black"
-      alt="자료구조:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/리눅스프로그래밍:A+-EDC9D4?style=flat&logoColor=black"
-      alt="리눅스프로그래밍:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/컴퓨터네트워크:A+-FFD3C9?style=flat&logoColor=black"
-      alt="컴퓨터네트워크:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/소프트웨어공학:A+-FFF7CF?style=flat&logoColor=black"
-      alt="소프트웨어공학:A+"
-    />
-    <img
-      src="https://img.shields.io/badge/산학실전캡스톤:A+-E4F0C9?style=flat&logoColor=black"
-      alt="산학실전캡스톤:A+"
-    />
+  <details>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
+    <!-- A+ -->
+    <div>
+      <img
+        src="https://img.shields.io/badge/C언어기초:A+-EDC9D4?style=flat&logoColor=black"
+        alt="C언어기초:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/컴퓨터프로그래밍의기초:A+-FFD3C9?style=flat&logoColor=black"
+        alt="컴퓨터프로그래밍의기초:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/컴퓨터공학총론:A+-FFF7CF?style=flat&logoColor=black"
+        alt="컴퓨터공학총론:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/알고리즘:A+-E4F0C9?style=flat&logoColor=black"
+        alt="알고리즘:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/운영체제:A+-C7E0FF?style=flat&logoColor=black"
+        alt="운영체제:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/프로그래밍언어론:A+-CFCFFF?style=flat&logoColor=black"
+        alt="프로그래밍언어론:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/자료구조:A+-BAC3FF?style=flat&logoColor=black"
+        alt="자료구조:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/리눅스프로그래밍:A+-EDC9D4?style=flat&logoColor=black"
+        alt="리눅스프로그래밍:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/컴퓨터네트워크:A+-FFD3C9?style=flat&logoColor=black"
+        alt="컴퓨터네트워크:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/소프트웨어공학:A+-FFF7CF?style=flat&logoColor=black"
+        alt="소프트웨어공학:A+"
+      />
+      <img
+        src="https://img.shields.io/badge/산학실전캡스톤:A+-E4F0C9?style=flat&logoColor=black"
+        alt="산학실전캡스톤:A+"
+      />
+    </div>
+    <!-- A -->
+    <div>
+      <img
+        src="https://img.shields.io/badge/C++프로그래밍:A-EDC9D4?style=flat&logoColor=black"
+        alt="C++프로그래밍:A"
+      />
+      <img
+        src="https://img.shields.io/badge/머신러닝개론:A-FFD3C9?style=flat&logoColor=black"
+        alt="머신러닝개론:A"
+      />
+      <img
+        src="https://img.shields.io/badge/객체지향프로그래밍:A-FFF7CF?style=flat&logoColor=black"
+        alt="객체지향프로그래밍:A"
+      />
+      <img
+        src="https://img.shields.io/badge/데이터베이스:A-E4F0C9?style=flat&logoColor=black"
+        alt="데이터베이스:A"
+      />
+      <img
+        src="https://img.shields.io/badge/컴퓨터구조:A-C7E0FF?style=flat&logoColor=black"
+        alt="컴퓨터구조:A"
+      />
+      <img
+        src="https://img.shields.io/badge/이산수학:A-CFCFFF?style=flat&logoColor=black"
+        alt="이산수학:A"
+      />
+    </div>
   </div>
-  <!-- A -->
-  <div>
-    <img
-      src="https://img.shields.io/badge/C++프로그래밍:A-EDC9D4?style=flat&logoColor=black"
-      alt="C++프로그래밍:A"
-    />
-    <img
-      src="https://img.shields.io/badge/머신러닝개론:A-FFD3C9?style=flat&logoColor=black"
-      alt="머신러닝개론:A"
-    />
-    <img
-      src="https://img.shields.io/badge/객체지향프로그래밍:A-FFF7CF?style=flat&logoColor=black"
-      alt="객체지향프로그래밍:A"
-    />
-    <img
-      src="https://img.shields.io/badge/데이터베이스:A-E4F0C9?style=flat&logoColor=black"
-      alt="데이터베이스:A"
-    />
-    <img
-      src="https://img.shields.io/badge/컴퓨터구조:A-C7E0FF?style=flat&logoColor=black"
-      alt="컴퓨터구조:A"
-    />
-    <img
-      src="https://img.shields.io/badge/이산수학:A-CFCFFF?style=flat&logoColor=black"
-      alt="이산수학:A"
-    />
-  </div>
-</div>
+  </details>
+
 
 <!-- Hits -->
 <h2></h2>
