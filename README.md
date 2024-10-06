@@ -88,7 +88,7 @@
   </a>
 
   <details>
-    <summary><kbd>M</kbd><kbd>O</kbd><kbd>R</kbd><kbd>E</kbd></summary>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
     <a href="https://github.com/reactjs/react.dev"></a>
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
@@ -489,54 +489,54 @@
 
 <!-- Transcript Certificate -->
 <div align="center">
-  <!-- Transcript -->
-  <div>
-    <img
-      src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black"
-      alt="컴퓨터공학부:전공"
-    />
-    <img
-      src="https://img.shields.io/badge/예술융합창작:부전공-FFFFFF?style=flat&logoColor=black"
-      alt="예술융합창작:부전공"
-    />
-    <img
-      src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black"
-      alt="학점평균:4.08/4.5"
-    />
-    <img
-      src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black"
-      alt="전공평균:4.06/4.5"
-    />
-    <img
-      src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black"
-      alt="부전공평균:4.36/4.5"
-    />
-    <img
-      src="https://img.shields.io/badge/작품경진대회:동상-FFFFFF?style=flat&logoColor=black"
-      alt="작품경진대회:동상"
-    />
-    <img
-      src="https://img.shields.io/badge/캡스톤디자인:장려상-FFFFFF?style=flat&logoColor=black"
-      alt="캡스톤디자인:장려상"
-    />
-  </div>
-  <!-- Certificate -->
-  <div>
-    <img
-      src="https://img.shields.io/badge/정보처리기사-EFFFDF?style=flat&logoColor=black"
-      alt="정보처리기사"
-    />
-    <img
-      src="https://img.shields.io/badge/컴퓨터활용능력1급-CEFFC4?style=flat&logoColor=black"
-      alt="컴퓨터활용능력1급"
-    />
-    <img
-      src="https://img.shields.io/badge/정보처리기능사-B3F9FF?style=flat&logoColor=black"
-      alt="정보처리기능사"
-    />
-  </div>
   <details>
-    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
+    <!-- Transcript -->
+    <div>
+      <img
+        src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black"
+        alt="컴퓨터공학부:전공"
+      />
+      <img
+        src="https://img.shields.io/badge/예술융합창작:부전공-FFFFFF?style=flat&logoColor=black"
+        alt="예술융합창작:부전공"
+      />
+      <img
+        src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black"
+        alt="학점평균:4.08/4.5"
+      />
+      <img
+        src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black"
+        alt="전공평균:4.06/4.5"
+      />
+      <img
+        src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black"
+        alt="부전공평균:4.36/4.5"
+      />
+      <img
+        src="https://img.shields.io/badge/작품경진대회:동상-FFFFFF?style=flat&logoColor=black"
+        alt="작품경진대회:동상"
+      />
+      <img
+        src="https://img.shields.io/badge/캡스톤디자인:장려상-FFFFFF?style=flat&logoColor=black"
+        alt="캡스톤디자인:장려상"
+      />
+    </div>
+    <!-- Certificate -->
+    <div>
+      <img
+        src="https://img.shields.io/badge/정보처리기사-EFFFDF?style=flat&logoColor=black"
+        alt="정보처리기사"
+      />
+      <img
+        src="https://img.shields.io/badge/컴퓨터활용능력1급-CEFFC4?style=flat&logoColor=black"
+        alt="컴퓨터활용능력1급"
+      />
+      <img
+        src="https://img.shields.io/badge/정보처리기능사-B3F9FF?style=flat&logoColor=black"
+        alt="정보처리기능사"
+      />
+    </div>
     <!-- A+ -->
     <div>
       <img
@@ -613,7 +613,6 @@
     </div>
   </div>
   </details>
-
 
 <!-- Hits -->
 <h2></h2>
