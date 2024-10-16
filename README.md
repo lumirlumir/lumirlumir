@@ -1,3 +1,8 @@
+<!--
+  --fgColor-accent: #D6BBF2
+  --bgColor-muted: #151b23;
+-->
+
 <!-- Title -->
 <div align="center">
   <img
@@ -18,7 +23,7 @@
   <!-- Contribution Graph -->
   <div align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=161B22&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
       height="410vw"
       alt="루밀LuMir's Contribution Graph"
     />
@@ -28,12 +33,12 @@
   <!-- Stats 1st line -->
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="220"
       alt="루밀LuMir's GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="220"
       alt="루밀LuMir's Most Used Languages"
     />
@@ -43,7 +48,7 @@
   <!-- Stats 2nd line -->
   <div align="center">
     <img
-      src="https://streak-stats.demolab.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=161B22&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      src="https://streak-stats.demolab.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       alt="루밀LuMir's GitHub Streak"
     />
     <img
@@ -74,14 +79,14 @@
 <div align="center">
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&description_lines_count=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
       alt="reactjs/ko.react.dev"
       title="Collaborator"
     />
   </a>
   <a href="https://github.com/vercel/next.js">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
       alt="vercel/next.js"
       title="Contributor"
     />
@@ -91,49 +96,49 @@
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
     <a href="https://github.com/reactjs/react.dev"></a>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="reactjs/react.dev"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/actions/runner-images"></a>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="actions/runner-images"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/textlint/textlint"></a>
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="textlint/textlint"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/material-extensions/vscode-material-icon-theme">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="material-extensions/vscode-material-icon-theme"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/pronist/hello">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="pronist/hello"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/tidory/tidory">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="tidory/tidory"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/tidory/tidory.github.io">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=161B22&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="tidory/tidory.github.io"
         title="Contributor"
       />
