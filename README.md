@@ -94,21 +94,21 @@
 
   <details>
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
-    <a href="https://github.com/reactjs/react.dev"></a>
+    <a href="https://github.com/reactjs/react.dev">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="reactjs/react.dev"
         title="Contributor"
       />
     </a>
-    <a href="https://github.com/actions/runner-images"></a>
+    <a href="https://github.com/actions/runner-images">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="actions/runner-images"
         title="Contributor"
       />
     </a>
-    <a href="https://github.com/textlint/textlint"></a>
+    <a href="https://github.com/textlint/textlint">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="textlint/textlint"
