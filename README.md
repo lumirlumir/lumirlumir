@@ -115,6 +115,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/algolia/docsearch">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="algolia/docsearch"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/textlint/textlint">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
