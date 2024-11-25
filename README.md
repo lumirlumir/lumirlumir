@@ -101,6 +101,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/eslint/eslint">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="eslint/eslint"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/reactjs/react.dev">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
