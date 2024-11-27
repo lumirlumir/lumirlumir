@@ -101,6 +101,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/llvm/llvm-project">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="llvm/llvm-project"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/eslint/eslint">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
