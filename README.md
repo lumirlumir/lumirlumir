@@ -171,11 +171,11 @@
         title="Contributor"
       />
     </a>
-    <a href="https://github.com/tidory/tidory.github.io">
+    <a href="https://github.com/lumirlumir/fork-tidory.github.io">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        alt="tidory/tidory.github.io"
-        title="Contributor"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="lumirlumir/fork-tidory.github.io"
+        title="Contributor(This repository was deleted so I replaced it with a forked version)"
       />
     </a>
   </details>
