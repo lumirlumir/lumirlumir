@@ -164,6 +164,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/sindresorhus/yocto-spinner">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=yocto-spinner&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="sindresorhus/yocto-spinner"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/tidory/tidory">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
