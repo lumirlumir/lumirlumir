@@ -346,6 +346,10 @@
       src="https://img.shields.io/badge/Codecov🥈-F01F7A?style=flat&logo=codecov&logoColor=white"
       alt="Codecov🥈"
     />
+    <img
+      src="https://img.shields.io/badge/Istanbuljs/nyc🥉-F7DF1E?style=flat&logoColor=white"
+      alt="Istanbuljs/nyc🥉"
+    />
   </div>
   <!-- Editor -->
   <div>
