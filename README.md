@@ -178,6 +178,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/xvzc/boj-cli">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="xvzc/boj-cli"
+        title="Contributor"
+      />
+    </a>    
     <a href="https://github.com/lumirlumir/fork-tidory.github.io">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
