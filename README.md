@@ -48,7 +48,7 @@
   <!-- Stats 2nd line -->
   <div align="center">
     <img
-      src="https://streak-stats.demolab.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       alt="루밀LuMir's GitHub Streak"
     />
     <img
