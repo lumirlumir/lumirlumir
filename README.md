@@ -157,6 +157,13 @@
         title="Contributor"
       />
     </a>
+    <a href="https://github.com/mdn/translated-content">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="mdn/translated-content"
+        title="Contributor"
+      />
+    </a>
     <a href="https://github.com/toss/es-hangul">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=toss&repo=es-hangul&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
