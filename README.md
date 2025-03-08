@@ -178,10 +178,10 @@
         title="Contributor"
       />
     </a>
-    <a href="https://github.com/tidory/tidory">
+    <a href="https://github.com/pronist/tidory">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=tidory&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        alt="tidory/tidory"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="pronist/tidory"
         title="Contributor"
       />
     </a>
