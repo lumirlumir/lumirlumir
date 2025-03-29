@@ -1,3 +1,5 @@
+<!-- markdownlint-disable -->
+
 <!--
   --fgColor-accent: #D6BBF2
   --bgColor-muted: #151b23;
@@ -135,7 +137,7 @@
         alt="nodejs/nodejs.org"
         title="Contributor"
       />
-    </a>    
+    </a>
     <a href="https://github.com/algolia/docsearch">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
@@ -198,7 +200,7 @@
         alt="yuyinws/vitepress-plugin-group-icons"
         title="Contributor"
       />
-    </a>    
+    </a>
     <a href="https://github.com/xvzc/boj-cli">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
