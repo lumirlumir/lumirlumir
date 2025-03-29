@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 5 | 3 | 3 |
+| 7 | 5 | 5 |
 
 ## How to Read This Document
 
@@ -47,3 +47,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. [clang-format] fix: add missing `default_extensions` values to `git-clang-format` [#117730](https://github.com/llvm/llvm-project/pull/117730) :purple_heart:
+## [`actions`](https://github.com/actions)
+
+### [`runner-images`](https://github.com/actions/runner-images) ![GitHub Repo stars](https://img.shields.io/github/stars/actions/runner-images)
+
+#### :memo: Documentation
+
+1. docs(typo): fix typo in README.md [#10689](https://github.com/actions/runner-images/pull/10689) :purple_heart:
+## [`editorconfig-checker`](https://github.com/editorconfig-checker)
+
+### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
+
+#### :bug: Bug Fixes
+
+1. fix: add support for `.zip` files in binary download [#417](https://github.com/editorconfig-checker/editorconfig-checker.javascript/pull/417) :purple_heart:

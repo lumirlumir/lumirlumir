@@ -82,4 +82,39 @@ export default [
       },
     ],
   },
+
+  {
+    name: 'actions',
+    repositories: [
+      {
+        name: 'runner-images',
+        pullRequests: [
+          {
+            number: 10689,
+            type: 'docs',
+            title: 'docs(typo): fix typo in README.md',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'editorconfig-checker',
+    repositories: [
+      {
+        name: 'editorconfig-checker.javascript',
+        pullRequests: [
+          {
+            number: 417,
+            type: 'fix',
+            title: 'fix: add support for `.zip` files in binary download',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
 ];
