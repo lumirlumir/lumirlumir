@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "prepare": "husky",
-    "build": "echo build",
+    "build": "node src/index.mjs",
+    "watch": "node --watch src/index.mjs",
     "fix": "concurrently \"npm:fix:*\"",
     "fix:eslint": "npx eslint --fix",
     "fix:prettier": "npx prettier . --write --ignore-unknown",
