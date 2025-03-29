@@ -51,7 +51,7 @@ organizations.forEach(organization => {
   markdown += `## [\`${organization.name}\`](${URL_GITHUB_ORGANIZATION(organization.name)})\n\n`;
 
   organization.repositories.forEach(repository => {
-    markdown += `### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)})\n\n`;
+    markdown += `### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ![GitHub Repo stars](https://img.shields.io/github/stars/${organization.name}/${repository.name})\n\n`;
 
     sortContributions(repository.pullRequests).forEach(
       (

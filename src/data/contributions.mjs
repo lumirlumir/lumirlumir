@@ -47,6 +47,18 @@ export default [
             title: 'docs: fixed some typos',
             merged: true,
           },
+          {
+            number: 4107,
+            type: 'docs',
+            title: 'docs: fix broken links and add some links in `distribute-tasks.md`',
+            merged: true,
+          },
+          {
+            number: 4115,
+            type: 'docs',
+            title: 'docs: fix simple typos in `import/README.md`',
+            merged: true,
+          },
         ],
       },
     ],
