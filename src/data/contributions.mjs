@@ -101,6 +101,50 @@ export default [
   },
 
   {
+    name: 'material-extensions',
+    repositories: [
+      {
+        name: 'vscode-material-icon-theme',
+        pullRequests: [
+          {
+            number: 2565,
+            type: 'feat',
+            title: 'feat: ✨ .markdownlintignore file icon',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 2580,
+            type: 'feat',
+            title: 'feat: ✨ .clang-format-ignore file icon',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 2665,
+            type: 'feat',
+            title: 'feat: ✨ `.editorconfig-checker.json` and `.ecrc` file icon',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 2825,
+            type: 'feat',
+            title: 'feat: add `websites` folder icon',
+            merged: true,
+          },
+          {
+            number: 2566,
+            type: 'docs',
+            title: 'docs: 📝 fix broken links in pull_request_template',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'editorconfig-checker',
     repositories: [
       {

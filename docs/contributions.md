@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 7 | 5 | 5 |
+| 12 | 6 | 6 |
 
 ## How to Read This Document
 
@@ -54,6 +54,19 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs(typo): fix typo in README.md [#10689](https://github.com/actions/runner-images/pull/10689) :purple_heart:
+## [`material-extensions`](https://github.com/material-extensions)
+
+### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
+
+#### :sparkles: Features
+
+1. feat: ✨ .markdownlintignore file icon [#2565](https://github.com/material-extensions/vscode-material-icon-theme/pull/2565) :purple_heart:
+1. feat: ✨ .clang-format-ignore file icon [#2580](https://github.com/material-extensions/vscode-material-icon-theme/pull/2580) :purple_heart:
+1. feat: ✨ `.editorconfig-checker.json` and `.ecrc` file icon [#2665](https://github.com/material-extensions/vscode-material-icon-theme/pull/2665) :purple_heart:
+1. feat: add `websites` folder icon [#2825](https://github.com/material-extensions/vscode-material-icon-theme/pull/2825) :purple_heart:
+#### :memo: Documentation
+
+1. docs: 📝 fix broken links in pull_request_template [#2566](https://github.com/material-extensions/vscode-material-icon-theme/pull/2566) :purple_heart:
 ## [`editorconfig-checker`](https://github.com/editorconfig-checker)
 
 ### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
