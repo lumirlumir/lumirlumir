@@ -1,3 +1,4 @@
+import sortContributions from './sort-contributions.mjs';
 import typeToTitle from './type-to-title.mjs';
 
-export { typeToTitle };
+export { sortContributions, typeToTitle };
