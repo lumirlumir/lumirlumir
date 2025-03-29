@@ -1,4 +1,5 @@
 <!-- markdownlint-disable -->
+<!-- eslint-disable -->
 
 <!--
   --fgColor-accent: #D6BBF2
