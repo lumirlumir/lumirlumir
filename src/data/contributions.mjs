@@ -177,6 +177,25 @@ export default [
   },
 
   {
+    name: 'textlint',
+    repositories: [
+      {
+        name: 'textlint',
+        pullRequests: [
+          {
+            number: 1459,
+            type: 'feat',
+            title:
+              'feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'material-extensions',
     repositories: [
       {

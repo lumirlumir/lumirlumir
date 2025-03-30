@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 27 | 15 | 14 |
+| 28 | 16 | 15 |
 
 ## How to Read This Document
 
@@ -81,6 +81,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :art: Styles
 
 1. refactor: improve readability of `_variables.css` [#2359](https://github.com/algolia/docsearch/pull/2359) :purple_heart:
+## [`textlint`](https://github.com/textlint)
+
+### [`textlint`](https://github.com/textlint/textlint) ![GitHub Repo stars](https://img.shields.io/github/stars/textlint/textlint)
+
+#### :sparkles: Features
+
+1. feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types [#1459](https://github.com/textlint/textlint/pull/1459) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
