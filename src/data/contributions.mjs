@@ -102,15 +102,15 @@ export default [
             merged: true,
           },
           {
-            number: 72218,
-            type: 'docs',
-            title: 'docs(typo): fix typos in `04-cypress.mdx`',
-            merged: true,
-          },
-          {
             number: 72182,
             type: 'docs',
             title: 'docs(typo): fix typos in `03-playwright.mdx`',
+            merged: true,
+          },
+          {
+            number: 72218,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `04-cypress.mdx`',
             merged: true,
           },
         ],

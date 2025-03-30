@@ -45,8 +45,8 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs(javascript): fix wrong javascript code and a typo in `link.mdx` [#71143](https://github.com/vercel/next.js/pull/71143) :purple_heart:
 1. docs(terminal): fix wrong terminal command and add missing hash symbols [#71180](https://github.com/vercel/next.js/pull/71180) :purple_heart:
 1. docs: add missing punctuation in `developing-using-local-app.md` [#73163](https://github.com/vercel/next.js/pull/73163) :purple_heart:
-1. docs(typo): fix typos in `04-cypress.mdx` [#72218](https://github.com/vercel/next.js/pull/72218) :purple_heart:
 1. docs(typo): fix typos in `03-playwright.mdx` [#72182](https://github.com/vercel/next.js/pull/72182) :purple_heart:
+1. docs(typo): fix typos in `04-cypress.mdx` [#72218](https://github.com/vercel/next.js/pull/72218) :purple_heart:
 
 ## [`lerna`](https://github.com/lerna)
 
