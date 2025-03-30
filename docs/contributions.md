@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 67 | 18 | 17 |
+| 68 | 19 | 17 |
 
 ## How to Read This Document
 
@@ -92,6 +92,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: add `related_rules` front matter to `no-eq-null.md` [#19310](https://github.com/eslint/eslint/pull/19310) :purple_heart:
 1. docs: add missing backticks to `default-case-last.js` [#19311](https://github.com/eslint/eslint/pull/19311) :purple_heart:
 1. docs: add missing backticks to `no-void.md` [#19313](https://github.com/eslint/eslint/pull/19313) :purple_heart:
+### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/markdown)
+
+#### :test_tube: Tests
+
+1. test: create tests for `MarkdownLanguage` [#329](https://github.com/eslint/markdown/pull/329) :purple_heart:
 ## [`reactjs`](https://github.com/reactjs)
 
 ### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)

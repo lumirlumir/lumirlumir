@@ -317,6 +317,18 @@ export default [
           },
         ],
       },
+      {
+        name: 'markdown',
+        pullRequests: [
+          {
+            number: 329,
+            type: 'test',
+            title: 'test: create tests for `MarkdownLanguage`',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
     ],
   },
 
