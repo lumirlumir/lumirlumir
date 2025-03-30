@@ -570,6 +570,16 @@ export default [
             highlight: true,
             merged: true,
           },
+          {
+            number: 7005,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in rss.js',
+            description:
+              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
+            highlight: true,
+            merged: false,
+            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
+          },
         ],
       },
     ],

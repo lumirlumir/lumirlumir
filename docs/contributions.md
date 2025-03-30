@@ -145,6 +145,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
 
+#### :bug: Bug Fixes
+
+1. fix: correct path handling for file name extraction in rss.js [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
+
 ## [`actions`](https://github.com/actions)
 
 ### [`runner-images`](https://github.com/actions/runner-images) ![GitHub Repo Stars](https://img.shields.io/github/stars/actions/runner-images)
