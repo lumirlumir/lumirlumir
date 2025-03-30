@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 68 | 19 | 17 |
+| 72 | 19 | 17 |
 
 ## How to Read This Document
 
@@ -31,6 +31,14 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: ensure absolute paths are handled correctly with `--file` option in `next lint` command for `lint-staged` compatibility [#69220](https://github.com/vercel/next.js/pull/69220) :purple_heart:
+#### :toolbox: Chores
+
+1. chore: remove non-existent hash fragments from URLs [#73165](https://github.com/vercel/next.js/pull/73165) :purple_heart:
+#### :memo: Documentation
+
+1. docs: add missing punctuation in `developing-using-local-app.md` [#73163](https://github.com/vercel/next.js/pull/73163) :purple_heart:
+1. docs(typo): fix typos in `04-cypress.mdx` [#72218](https://github.com/vercel/next.js/pull/72218) :purple_heart:
+1. docs(typo): fix typos in `03-playwright.mdx` [#72182](https://github.com/vercel/next.js/pull/72182) :purple_heart:
 ## [`lerna`](https://github.com/lerna)
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo stars](https://img.shields.io/github/stars/lerna/lerna)
