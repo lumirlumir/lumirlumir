@@ -101,6 +101,23 @@ export default [
   },
 
   {
+    name: 'nodejs',
+    repositories: [
+      {
+        name: 'nodejs.org',
+        pullRequests: [
+          {
+            number: 7539,
+            type: 'docs',
+            title: 'docs: add missing backticks to `introduction-to-nodejs.md`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'material-extensions',
     repositories: [
       {

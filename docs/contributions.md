@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 12 | 6 | 6 |
+| 13 | 7 | 7 |
 
 ## How to Read This Document
 
@@ -54,6 +54,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs(typo): fix typo in README.md [#10689](https://github.com/actions/runner-images/pull/10689) :purple_heart:
+## [`nodejs`](https://github.com/nodejs)
+
+### [`nodejs.org`](https://github.com/nodejs/nodejs.org) ![GitHub Repo stars](https://img.shields.io/github/stars/nodejs/nodejs.org)
+
+#### :memo: Documentation
+
+1. docs: add missing backticks to `introduction-to-nodejs.md` [#7539](https://github.com/nodejs/nodejs.org/pull/7539) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
