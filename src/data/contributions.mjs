@@ -28,8 +28,22 @@ export default [
             type: 'fix',
             title:
               'fix: ensure absolute paths are handled correctly with `--file` option in `next lint` command for `lint-staged` compatibility',
+            description: 'CORE CHANGES',
             highlight: true,
             merged: true,
+            sha: 'afcad43ba81249cc78a22b07e3191f2b63c3f0de',
+            releases: ['v15.0.0-canary.141', 'v15.0.0'],
+          },
+          {
+            number: 71033,
+            type: 'fix',
+            title:
+              'fix: `getStaticProps` appears instead of `generateStaticParams` during app router build',
+            description: 'CORE CHANGES',
+            highlight: true,
+            merged: true,
+            sha: 'efee005ef410b906575701b14b64331e3a09b005',
+            releases: ['v15.0.0-canary.187', 'v15.0.0'],
           },
           {
             number: 73165,
