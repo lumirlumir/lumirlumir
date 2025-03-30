@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 60 | 18 | 17 |
+| 67 | 18 | 17 |
 
 ## How to Read This Document
 
@@ -85,6 +85,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: add missing `<h2>`(`##`) to `prefer-spread` [#19224](https://github.com/eslint/eslint/pull/19224) :purple_heart:
 1. docs: add missing backticks to `func-style` [#19227](https://github.com/eslint/eslint/pull/19227) :purple_heart:
 1. docs: add missing backticks to `no-sequences` [#19233](https://github.com/eslint/eslint/pull/19233) :purple_heart:
+1. docs: update `yoda` to `Yoda` in `yoda.md` for consistency [#19230](https://github.com/eslint/eslint/pull/19230) :purple_heart:
+1. docs: add missing backticks in various parts of the documentation [#19269](https://github.com/eslint/eslint/pull/19269) :purple_heart:
+1. docs: add missing backticks to `sort-imports` [#19282](https://github.com/eslint/eslint/pull/19282) :purple_heart:
+1. docs: add missing backticks to `no-else-return.md` [#19309](https://github.com/eslint/eslint/pull/19309) :purple_heart:
+1. docs: add `related_rules` front matter to `no-eq-null.md` [#19310](https://github.com/eslint/eslint/pull/19310) :purple_heart:
+1. docs: add missing backticks to `default-case-last.js` [#19311](https://github.com/eslint/eslint/pull/19311) :purple_heart:
+1. docs: add missing backticks to `no-void.md` [#19313](https://github.com/eslint/eslint/pull/19313) :purple_heart:
 ## [`reactjs`](https://github.com/reactjs)
 
 ### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)
