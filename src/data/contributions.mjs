@@ -94,6 +94,27 @@ export default [
             releases: ['v15.0.3-canary.0'],
           },
           {
+            number: 72055,
+            type: 'chore',
+            title: 'test: fix redundant double spaces',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
+            number: 72058,
+            type: 'chore',
+            title: 'fix: redundant double space in `middleware-plugin.ts`',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
+            number: 72059,
+            type: 'chore',
+            title: 'fix: redundant double space in `http.rs`',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
             number: 71074,
             type: 'docs',
             title:
@@ -214,6 +235,20 @@ export default [
             merged: true,
             sha: 'bc1d5b468ab1a68e5343c3b884c544e936e5cba5',
             releases: ['v15.0.0-canary.189'],
+          },
+          {
+            number: 71510,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `webpack.mdx`',
+            merged: true,
+            sha: '575a89f8f8d5a7fc8b86ac9bc3686673fe084a20',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
+            number: 72057,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `08-testing/index.mdx`',
+            merged: true,
           },
         ],
       },
