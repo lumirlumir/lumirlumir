@@ -84,6 +84,35 @@ export default [
   },
 
   {
+    name: 'eslint',
+    repositories: [
+      {
+        name: 'eslint',
+        pullRequests: [
+          {
+            number: 19175,
+            type: 'docs',
+            title: 'docs: delete unnecessary horizontal rule(`---`) in `nodejs-api`',
+            merged: true,
+          },
+          {
+            number: 19176,
+            type: 'docs',
+            title: 'docs: delete unnecessary horizontal rule(`---`) (v8.x) (follow up)',
+            merged: true,
+          },
+          {
+            number: 19179,
+            type: 'docs',
+            title: 'docs: fix a typo in `debug.md`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'actions',
     repositories: [
       {

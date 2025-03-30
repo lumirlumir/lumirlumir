@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 24 | 14 | 13 |
+| 27 | 15 | 14 |
 
 ## How to Read This Document
 
@@ -47,6 +47,15 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. [clang-format] fix: add missing `default_extensions` values to `git-clang-format` [#117730](https://github.com/llvm/llvm-project/pull/117730) :purple_heart:
+## [`eslint`](https://github.com/eslint)
+
+### [`eslint`](https://github.com/eslint/eslint) ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/eslint)
+
+#### :memo: Documentation
+
+1. docs: delete unnecessary horizontal rule(`---`) in `nodejs-api` [#19175](https://github.com/eslint/eslint/pull/19175) :purple_heart:
+1. docs: delete unnecessary horizontal rule(`---`) (v8.x) (follow up) [#19176](https://github.com/eslint/eslint/pull/19176) :purple_heart:
+1. docs: fix a typo in `debug.md` [#19179](https://github.com/eslint/eslint/pull/19179) :purple_heart:
 ## [`actions`](https://github.com/actions)
 
 ### [`runner-images`](https://github.com/actions/runner-images) ![GitHub Repo stars](https://img.shields.io/github/stars/actions/runner-images)
