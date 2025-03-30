@@ -180,6 +180,29 @@ export default [
   },
 
   {
+    name: 'mdn',
+    repositories: [
+      {
+        name: 'translated-content',
+        pullRequests: [
+          {
+            number: 26049,
+            type: 'docs',
+            title: 'docs: fix typos in `websockets_api/index.md`',
+            merged: true,
+          },
+          {
+            number: 26048,
+            type: 'docs',
+            title: 'docs: fix typos in `http/session/index.md`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'editorconfig-checker',
     repositories: [
       {

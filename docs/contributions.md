@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 17 | 10 | 10 |
+| 19 | 11 | 11 |
 
 ## How to Read This Document
 
@@ -81,6 +81,14 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: `.github/workflows/tidory.yml` CI environment [#229](https://github.com/pronist/hello/pull/229) :purple_heart:
+## [`mdn`](https://github.com/mdn)
+
+### [`translated-content`](https://github.com/mdn/translated-content) ![GitHub Repo stars](https://img.shields.io/github/stars/mdn/translated-content)
+
+#### :memo: Documentation
+
+1. docs: fix typos in `websockets_api/index.md` [#26049](https://github.com/mdn/translated-content/pull/26049) :purple_heart:
+1. docs: fix typos in `http/session/index.md` [#26048](https://github.com/mdn/translated-content/pull/26048) :purple_heart:
 ## [`editorconfig-checker`](https://github.com/editorconfig-checker)
 
 ### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
