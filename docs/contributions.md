@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 49 | 18 | 17 |
+| 54 | 18 | 17 |
 
 ## How to Read This Document
 
@@ -74,6 +74,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: update comments and `description` of `no-script-url` [#19203](https://github.com/eslint/eslint/pull/19203) :purple_heart:
 1. docs: update docs and `description` of `require-unicode-regexp` [#19205](https://github.com/eslint/eslint/pull/19205) :purple_heart:
 1. docs: add missing backticks to `prefer-object-spread` [#19206](https://github.com/eslint/eslint/pull/19206) :purple_heart:
+1. docs: add missing backticks to `eqeqeq.md` [#19207](https://github.com/eslint/eslint/pull/19207) :purple_heart:
+1. docs: add missing `)` to `id-denylist.md` [#19213](https://github.com/eslint/eslint/pull/19213) :purple_heart:
+1. docs: add missing backticks to `complexity.md` [#19214](https://github.com/eslint/eslint/pull/19214) :purple_heart:
+1. docs: add missing backticks to `id-length.md` [#19217](https://github.com/eslint/eslint/pull/19217) :purple_heart:
+1. docs: add missing backticks to `no-new-func.md` [#19219](https://github.com/eslint/eslint/pull/19219) :purple_heart:
 ## [`reactjs`](https://github.com/reactjs)
 
 ### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)
