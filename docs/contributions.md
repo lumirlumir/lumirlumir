@@ -147,7 +147,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 #### :bug: Bug Fixes
 
-1. fix: correct path handling for file name extraction in rss.js [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
+1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
 
 ## [`actions`](https://github.com/actions)
 
