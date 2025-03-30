@@ -70,6 +70,32 @@ export default [
             merged: true,
           },
           {
+            number: 71074,
+            type: 'docs',
+            title:
+              'docs(javascript): fix wrong javascript code in `11-parallel-routes.mdx`',
+            merged: true,
+            sha: '5bd42716c69503e7361eba43151e85124a960056',
+            releases: ['v15.0.0-canary.183'],
+          },
+          {
+            number: 71143,
+            type: 'docs',
+            title: 'docs(javascript): fix wrong javascript code and a typo in `link.mdx`',
+            merged: true,
+            sha: '7852586ee69e400125a68b2009811f3d0c722d21',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
+            number: 71180,
+            type: 'docs',
+            title:
+              'docs(terminal): fix wrong terminal command and add missing hash symbols',
+            merged: true,
+            sha: 'a89d0662d941da07b2ab038e56c046405eeba1b6',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
             number: 73163,
             type: 'docs',
             title: 'docs: add missing punctuation in `developing-using-local-app.md`',
