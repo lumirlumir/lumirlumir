@@ -112,6 +112,11 @@ export interface PullRequest extends Contribution {
   merged: boolean;
 
   /**
+   * Commit SHA associated with the PR.
+   */
+  sha?: string;
+
+  /**
    * Release tag version associated with the PR.
    * Often starts with `v` and is followed by a version number.
    */
