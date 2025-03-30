@@ -46,6 +46,24 @@ export default [
             releases: ['v15.0.0-canary.187', 'v15.0.0'],
           },
           {
+            number: 71134,
+            type: 'fix',
+            title:
+              'fix: `next info` command does not output the versions of `npm` `yarn` and `pnpm` correctly',
+            description: 'CORE CHANGES',
+            highlight: true,
+            merged: true,
+            releases: ['v15.0.3-canary.6'],
+          },
+          {
+            number: 71190,
+            type: 'chore',
+            title: 'fix: Next.js missed a file when renaming `swrDelta` to `expireTime`',
+            highlight: true,
+            merged: true,
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
             number: 73165,
             type: 'chore',
             title: 'chore: remove non-existent hash fragments from URLs',

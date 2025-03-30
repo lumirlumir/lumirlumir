@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 73 | 19 | 17 |
+| 75 | 19 | 17 |
 
 ## How to Read This Document
 
@@ -32,9 +32,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. fix: ensure absolute paths are handled correctly with `--file` option in `next lint` command for `lint-staged` compatibility [#69220](https://github.com/vercel/next.js/pull/69220) :purple_heart:
 1. fix: `getStaticProps` appears instead of `generateStaticParams` during app router build [#71033](https://github.com/vercel/next.js/pull/71033) :purple_heart:
+1. fix: `next info` command does not output the versions of `npm` `yarn` and `pnpm` correctly [#71134](https://github.com/vercel/next.js/pull/71134) :purple_heart:
 
 #### :toolbox: Chores
 
+1. fix: Next.js missed a file when renaming `swrDelta` to `expireTime` [#71190](https://github.com/vercel/next.js/pull/71190) :purple_heart:
 1. chore: remove non-existent hash fragments from URLs [#73165](https://github.com/vercel/next.js/pull/73165) :purple_heart:
 
 #### :memo: Documentation
