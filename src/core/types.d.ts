@@ -115,7 +115,7 @@ export interface PullRequest extends Contribution {
    * Release tag version associated with the PR.
    * Often starts with `v` and is followed by a version number.
    */
-  release?: string[];
+  releases?: string[];
 }
 
 // export interface Issue extends Contribution {}
