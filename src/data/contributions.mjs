@@ -162,6 +162,24 @@ export default [
   },
 
   {
+    name: 'pronist',
+    repositories: [
+      {
+        name: 'hello',
+        pullRequests: [
+          {
+            number: 229,
+            type: 'fix',
+            title: 'fix: `.github/workflows/tidory.yml` CI environment',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'editorconfig-checker',
     repositories: [
       {

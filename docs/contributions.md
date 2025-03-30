@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 14 | 8 | 8 |
+| 15 | 9 | 9 |
 
 ## How to Read This Document
 
@@ -74,6 +74,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: 📝 fix broken links in pull_request_template [#2566](https://github.com/material-extensions/vscode-material-icon-theme/pull/2566) :purple_heart:
+## [`pronist`](https://github.com/pronist)
+
+### [`hello`](https://github.com/pronist/hello) ![GitHub Repo stars](https://img.shields.io/github/stars/pronist/hello)
+
+#### :bug: Bug Fixes
+
+1. fix: `.github/workflows/tidory.yml` CI environment [#229](https://github.com/pronist/hello/pull/229) :purple_heart:
 ## [`editorconfig-checker`](https://github.com/editorconfig-checker)
 
 ### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
