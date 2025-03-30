@@ -275,4 +275,21 @@ export default [
       },
     ],
   },
+
+  {
+    name: 'xvzc',
+    repositories: [
+      {
+        name: 'boj-cli',
+        pullRequests: [
+          {
+            number: 32,
+            type: 'docs',
+            title: 'docs: correct typos in `README.md` and `config_example.yaml`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
 ];

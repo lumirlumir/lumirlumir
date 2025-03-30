@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 20 | 12 | 11 |
+| 21 | 13 | 12 |
 
 ## How to Read This Document
 
@@ -116,3 +116,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :sparkles: Features
 
 1. feat: add `.mts` and `.cts` extensions to `builtin.ts` [#14](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/14) :purple_heart:
+## [`xvzc`](https://github.com/xvzc)
+
+### [`boj-cli`](https://github.com/xvzc/boj-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/xvzc/boj-cli)
+
+#### :memo: Documentation
+
+1. docs: correct typos in `README.md` and `config_example.yaml` [#32](https://github.com/xvzc/boj-cli/pull/32) :purple_heart:
