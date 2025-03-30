@@ -21,14 +21,47 @@ export default [
     repositories: [
       {
         name: 'next.js',
+        role: 'contributor',
         pullRequests: [
           {
             number: 69220,
             type: 'fix',
             title:
               'fix: ensure absolute paths are handled correctly with `--file` option in `next lint` command for `lint-staged` compatibility',
+            description: 'CORE CHANGES',
             highlight: true,
             merged: true,
+            sha: 'afcad43ba81249cc78a22b07e3191f2b63c3f0de',
+            releases: ['v15.0.0-canary.141', 'v15.0.0'],
+          },
+          {
+            number: 71033,
+            type: 'fix',
+            title:
+              'fix: `getStaticProps` appears instead of `generateStaticParams` during app router build',
+            description: 'CORE CHANGES',
+            highlight: true,
+            merged: true,
+            sha: 'efee005ef410b906575701b14b64331e3a09b005',
+            releases: ['v15.0.0-canary.187', 'v15.0.0'],
+          },
+          {
+            number: 71134,
+            type: 'fix',
+            title:
+              'fix: `next info` command does not output the versions of `npm` `yarn` and `pnpm` correctly',
+            description: 'CORE CHANGES',
+            highlight: true,
+            merged: true,
+            releases: ['v15.0.3-canary.6'],
+          },
+          {
+            number: 71190,
+            type: 'chore',
+            title: 'fix: Next.js missed a file when renaming `swrDelta` to `expireTime`',
+            highlight: true,
+            merged: true,
+            releases: ['v15.0.0-canary.187'],
           },
           {
             number: 73165,
@@ -37,9 +70,108 @@ export default [
             merged: true,
           },
           {
+            number: 71189,
+            type: 'chore',
+            title: 'chore: delete redundant blank spaces in `packages` directory',
+            merged: true,
+            sha: '189329f595506fe5508bdc5d4485002276cad82b',
+            releases: ['v15.0.0-canary.189', 'v15.0.0'],
+          },
+          {
+            number: 71240,
+            type: 'chore',
+            title: 'rename: `.md` to `.mdx` in `errors` directory',
+            merged: true,
+            sha: '0518f69eac9530e3cb740e0d65998207ff7a4889',
+            releases: ['v15.0.0-canary.197'],
+          },
+          {
+            number: 71239,
+            type: 'chore',
+            title: 'chore: delete redundant blank spaces in `examples`',
+            merged: true,
+            sha: '88238fb5a893b5ce750901518b35d3fcd9308a7b',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
+            number: 72055,
+            type: 'chore',
+            title: 'test: fix redundant double spaces',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
+            number: 72058,
+            type: 'chore',
+            title: 'fix: redundant double space in `middleware-plugin.ts`',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
+            number: 72059,
+            type: 'chore',
+            title: 'fix: redundant double space in `http.rs`',
+            merged: true,
+            releases: ['v15.0.3-canary.2'],
+          },
+          {
+            number: 71074,
+            type: 'docs',
+            title:
+              'docs(javascript): fix wrong javascript code in `11-parallel-routes.mdx`',
+            merged: true,
+            sha: '5bd42716c69503e7361eba43151e85124a960056',
+            releases: ['v15.0.0-canary.183'],
+          },
+          {
+            number: 71143,
+            type: 'docs',
+            title: 'docs(javascript): fix wrong javascript code and a typo in `link.mdx`',
+            merged: true,
+            sha: '7852586ee69e400125a68b2009811f3d0c722d21',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
+            number: 71180,
+            type: 'docs',
+            title:
+              'docs(terminal): fix wrong terminal command and add missing hash symbols',
+            merged: true,
+            sha: 'a89d0662d941da07b2ab038e56c046405eeba1b6',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
+            number: 71238,
+            type: 'docs',
+            title: 'docs(javascript): add module exports and experimental metadata',
+            merged: true,
+            sha: 'aa3516885723e83476fef65d32ff5be183825622',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
+            number: 71509,
+            type: 'docs',
+            title: 'docs(javascript): fix wrong javascript code in `script.mdx`',
+            merged: true,
+            sha: 'de5237df130ef187c67c71fc6115c0f3fc742a3a',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
             number: 73163,
             type: 'docs',
             title: 'docs: add missing punctuation in `developing-using-local-app.md`',
+            merged: true,
+          },
+          {
+            number: 72061,
+            type: 'docs',
+            title: 'docs: update `02-jest.mdx`',
+            merged: true,
+          },
+          {
+            number: 72182,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `03-playwright.mdx`',
             merged: true,
           },
           {
@@ -49,9 +181,73 @@ export default [
             merged: true,
           },
           {
-            number: 72182,
+            number: 71137,
             type: 'docs',
-            title: 'docs(typo): fix typos in `03-playwright.mdx`',
+            title: 'docs(typo): fix redundant double spaces',
+            merged: true,
+            sha: '1235199d284571f36965b221fead8b136f4efa7a',
+            releases: ['v15.0.0-canary.185'],
+          },
+          {
+            number: 71152,
+            type: 'docs',
+            title: 'docs(typo): fix typo github in cli related docs',
+            merged: true,
+            sha: '8decfbb0f08f1fb95cd6a436194d2c1bb0987ce4',
+            releases: ['v15.0.0-canary.185'],
+          },
+          {
+            number: 71175,
+            type: 'docs',
+            title: 'docs(typo): fix typo javascript',
+            merged: true,
+            sha: 'a987e2b441dca72c6240b23c71e65004e71b728d',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
+            number: 71188,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `turbo.mdx`',
+            merged: true,
+            sha: '07a32bcc60de28e9c7f1653f7d27a34b0d7e4170',
+            releases: ['v15.0.0-canary.187'],
+          },
+          {
+            number: 71203,
+            type: 'docs',
+            title: 'docs(typo): add punctuations and fix cases',
+            merged: true,
+            sha: '1172b38cf666ebff440252509b1e1eb6785a652f',
+            releases: ['v15.0.0-canary.189'],
+          },
+          {
+            number: 71213,
+            type: 'docs',
+            title: 'docs(typo): remove unnecessary spaces',
+            merged: true,
+            sha: '9e0f98f22c90798e6513e9d3678e57bdddc2359e',
+            releases: ['v15.0.0-canary.189'],
+          },
+          {
+            number: 71214,
+            type: 'docs',
+            title: 'docs(typo): fix url to URL',
+            merged: true,
+            sha: 'bc1d5b468ab1a68e5343c3b884c544e936e5cba5',
+            releases: ['v15.0.0-canary.189'],
+          },
+          {
+            number: 71510,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `webpack.mdx`',
+            merged: true,
+            sha: '575a89f8f8d5a7fc8b86ac9bc3686673fe084a20',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
+            number: 72057,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `08-testing/index.mdx`',
             merged: true,
           },
         ],
@@ -64,6 +260,7 @@ export default [
     repositories: [
       {
         name: 'lerna',
+        role: 'contributor',
         pullRequests: [
           {
             number: 4105,
@@ -93,6 +290,7 @@ export default [
     repositories: [
       {
         name: 'llvm-project',
+        role: 'contributor',
         pullRequests: [
           {
             number: 117730,
@@ -112,6 +310,7 @@ export default [
     repositories: [
       {
         name: 'eslint',
+        role: 'contributor',
         pullRequests: [
           {
             number: 19165,
@@ -343,6 +542,7 @@ export default [
       },
       {
         name: 'markdown',
+        role: 'contributor',
         pullRequests: [
           {
             number: 329,
@@ -361,6 +561,7 @@ export default [
     repositories: [
       {
         name: 'react.dev',
+        role: 'contributor',
         pullRequests: [
           {
             number: 7185,
@@ -368,6 +569,16 @@ export default [
             title: '✨KOREAN(ko.react.dev) Translation Completed',
             highlight: true,
             merged: true,
+          },
+          {
+            number: 7005,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in `rss.js`',
+            description:
+              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
+            highlight: true,
+            merged: false,
+            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
           },
         ],
       },
@@ -379,6 +590,7 @@ export default [
     repositories: [
       {
         name: 'runner-images',
+        role: 'contributor',
         pullRequests: [
           {
             number: 10689,
@@ -396,6 +608,7 @@ export default [
     repositories: [
       {
         name: 'nodejs.org',
+        role: 'contributor',
         pullRequests: [
           {
             number: 7539,
@@ -413,6 +626,7 @@ export default [
     repositories: [
       {
         name: 'docsearch',
+        role: 'contributor',
         pullRequests: [
           {
             number: 2359,
@@ -443,6 +657,7 @@ export default [
     repositories: [
       {
         name: 'textlint',
+        role: 'contributor',
         pullRequests: [
           {
             number: 1459,
@@ -451,13 +666,14 @@ export default [
               'feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types',
             highlight: true,
             merged: true,
+            releases: ['v14.5.0'],
           },
           {
             number: 1425,
             type: 'docs',
             title: 'docs(image): make the border of get-started-steps images transparent',
             merged: true,
-            release: 'v14.2.1',
+            releases: ['v14.2.1'],
           },
         ],
       },
@@ -469,6 +685,7 @@ export default [
     repositories: [
       {
         name: 'es-hangul',
+        role: 'contributor',
         pullRequests: [
           {
             number: 276,
@@ -499,6 +716,7 @@ export default [
     repositories: [
       {
         name: 'vscode-material-icon-theme',
+        role: 'contributor',
         pullRequests: [
           {
             number: 2565,
@@ -543,6 +761,7 @@ export default [
     repositories: [
       {
         name: 'hello',
+        role: 'contributor',
         pullRequests: [
           {
             number: 229,
@@ -555,6 +774,7 @@ export default [
       },
       {
         name: 'tidory',
+        role: 'contributor',
         pullRequests: [
           {
             number: 15,
@@ -573,6 +793,7 @@ export default [
     repositories: [
       {
         name: 'translated-content',
+        role: 'contributor',
         pullRequests: [
           {
             number: 26049,
@@ -596,6 +817,7 @@ export default [
     repositories: [
       {
         name: 'editorconfig-checker.javascript',
+        role: 'contributor',
         pullRequests: [
           {
             number: 417,
@@ -614,6 +836,7 @@ export default [
     repositories: [
       {
         name: 'yocto-spinner',
+        role: 'contributor',
         pullRequests: [
           {
             number: 3,
@@ -640,6 +863,7 @@ export default [
     repositories: [
       {
         name: 'vitepress-plugin-group-icons',
+        role: 'contributor',
         pullRequests: [
           {
             number: 14,
@@ -647,6 +871,7 @@ export default [
             title: 'feat: add `.mts` and `.cts` extensions to `builtin.ts`',
             highlight: true,
             merged: true,
+            releases: ['v1.3.7'],
           },
         ],
       },
@@ -658,6 +883,7 @@ export default [
     repositories: [
       {
         name: 'boj-cli',
+        role: 'contributor',
         pullRequests: [
           {
             number: 32,

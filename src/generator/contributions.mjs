@@ -103,14 +103,13 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 | :green_heart:  | Still open but meaningful  |
 
 # Details
-
 `;
 
   organizations.forEach(organization => {
-    markdown += `## [\`${organization.name}\`](${URL_GITHUB_ORGANIZATION(organization.name)})\n\n`;
+    markdown += `\n## [\`${organization.name}\`](${URL_GITHUB_ORGANIZATION(organization.name)})\n`;
 
     organization.repositories.forEach(repository => {
-      markdown += `### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ![GitHub Repo stars](https://img.shields.io/github/stars/${organization.name}/${repository.name})\n\n`;
+      markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ![GitHub Repo Stars](https://img.shields.io/github/stars/${organization.name}/${repository.name})\n`;
 
       sortContributions(repository.pullRequests).forEach(
         (
@@ -119,7 +118,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
           /** @type {PullRequest[]} */ pullRequests,
         ) => {
           if (idx === 0 || pullRequests[idx - 1].type !== type) {
-            markdown += `#### ${typeToTitle(type)}\n\n`;
+            markdown += `\n#### ${typeToTitle(type)}\n\n`;
           }
 
           markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST(organization.name, repository.name, number)}) ${merged ? ':purple_heart:' : ':green_heart:'}\n`;
