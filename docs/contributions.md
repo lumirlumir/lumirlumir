@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 33 | 18 | 17 |
+| 38 | 18 | 17 |
 
 ## How to Read This Document
 
@@ -51,6 +51,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ### [`eslint`](https://github.com/eslint/eslint) ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/eslint)
 
+#### :toolbox: Chores
+
+1. chore: add `repository.directory` property to `package.json` [#19165](https://github.com/eslint/eslint/pull/19165) :purple_heart:
+1. chore: fix incorrect `name` property in `integration-tutorial-code` [#19218](https://github.com/eslint/eslint/pull/19218) :purple_heart:
+1. chore: add missing backticks to `flags.js` [#19226](https://github.com/eslint/eslint/pull/19226) :purple_heart:
+1. chore: add `border-radius` to `hX:target` selector styles [#19270](https://github.com/eslint/eslint/pull/19270) :purple_heart:
+1. chore: extract package `name` from `package.json` for public interface [#19314](https://github.com/eslint/eslint/pull/19314) :purple_heart:
 #### :memo: Documentation
 
 1. docs: delete unnecessary horizontal rule(`---`) in `nodejs-api` [#19175](https://github.com/eslint/eslint/pull/19175) :purple_heart:

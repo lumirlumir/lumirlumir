@@ -90,6 +90,39 @@ export default [
         name: 'eslint',
         pullRequests: [
           {
+            number: 19165,
+            type: 'chore',
+            title: 'chore: add `repository.directory` property to `package.json`',
+            merged: true,
+          },
+          {
+            number: 19218,
+            type: 'chore',
+            title: 'chore: fix incorrect `name` property in `integration-tutorial-code`',
+            merged: true,
+          },
+          {
+            number: 19226,
+            type: 'chore',
+            title: 'chore: add missing backticks to `flags.js`',
+            merged: true,
+          },
+          {
+            number: 19270,
+            type: 'chore',
+            title: 'chore: add `border-radius` to `hX:target` selector styles',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 19314,
+            type: 'chore',
+            title:
+              'chore: extract package `name` from `package.json` for public interface',
+            highlight: true,
+            merged: true,
+          },
+          {
             number: 19175,
             type: 'docs',
             title: 'docs: delete unnecessary horizontal rule(`---`) in `nodejs-api`',
