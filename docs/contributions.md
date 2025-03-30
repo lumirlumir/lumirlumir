@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 54 | 18 | 17 |
+| 60 | 18 | 17 |
 
 ## How to Read This Document
 
@@ -79,6 +79,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: add missing backticks to `complexity.md` [#19214](https://github.com/eslint/eslint/pull/19214) :purple_heart:
 1. docs: add missing backticks to `id-length.md` [#19217](https://github.com/eslint/eslint/pull/19217) :purple_heart:
 1. docs: add missing backticks to `no-new-func.md` [#19219](https://github.com/eslint/eslint/pull/19219) :purple_heart:
+1. docs: add missing backticks to `no-unneeded-ternary.md` [#19222](https://github.com/eslint/eslint/pull/19222) :purple_heart:
+1. docs: add missing backticks to `prefer-destructuring` [#19223](https://github.com/eslint/eslint/pull/19223) :purple_heart:
+1. docs: add missing backticks to `no-param-reassign.md` [#19220](https://github.com/eslint/eslint/pull/19220) :purple_heart:
+1. docs: add missing `<h2>`(`##`) to `prefer-spread` [#19224](https://github.com/eslint/eslint/pull/19224) :purple_heart:
+1. docs: add missing backticks to `func-style` [#19227](https://github.com/eslint/eslint/pull/19227) :purple_heart:
+1. docs: add missing backticks to `no-sequences` [#19233](https://github.com/eslint/eslint/pull/19233) :purple_heart:
 ## [`reactjs`](https://github.com/reactjs)
 
 ### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)
