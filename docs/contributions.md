@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 86 | 19 | 17 |
+| 91 | 19 | 17 |
 
 ## How to Read This Document
 
@@ -39,6 +39,8 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. fix: Next.js missed a file when renaming `swrDelta` to `expireTime` [#71190](https://github.com/vercel/next.js/pull/71190) :purple_heart:
 1. chore: remove non-existent hash fragments from URLs [#73165](https://github.com/vercel/next.js/pull/73165) :purple_heart:
 1. chore: delete redundant blank spaces in `packages` directory [#71189](https://github.com/vercel/next.js/pull/71189) :purple_heart:
+1. rename: `.md` to `.mdx` in `errors` directory [#71240](https://github.com/vercel/next.js/pull/71240) :purple_heart:
+1. chore: delete redundant blank spaces in `examples` [#71239](https://github.com/vercel/next.js/pull/71239) :purple_heart:
 
 #### :memo: Documentation
 
@@ -55,6 +57,9 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs(typo): fix typo github in cli related docs [#71152](https://github.com/vercel/next.js/pull/71152) :purple_heart:
 1. docs(typo): fix typo javascript [#71175](https://github.com/vercel/next.js/pull/71175) :purple_heart:
 1. docs(typo): fix typos in `turbo.mdx` [#71188](https://github.com/vercel/next.js/pull/71188) :purple_heart:
+1. docs(typo): add punctuations and fix cases [#71203](https://github.com/vercel/next.js/pull/71203) :purple_heart:
+1. docs(typo): remove unnecessary spaces [#71213](https://github.com/vercel/next.js/pull/71213) :purple_heart:
+1. docs(typo): fix url to URL [#71214](https://github.com/vercel/next.js/pull/71214) :purple_heart:
 
 ## [`lerna`](https://github.com/lerna)
 
