@@ -203,6 +203,36 @@ export default [
   },
 
   {
+    name: 'toss',
+    repositories: [
+      {
+        name: 'es-hangul',
+        pullRequests: [
+          {
+            number: 276,
+            type: 'docs',
+            title: 'docs: fix a typo in `standardizePronunciation.ko.mdx`',
+            merged: true,
+          },
+          {
+            number: 277,
+            type: 'docs',
+            title: 'docs: fix typos in `introduction.ko.mdx`',
+            merged: true,
+          },
+          {
+            number: 293,
+            type: 'docs',
+            title: 'docs: create `removeLastCharacter` documentation',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'material-extensions',
     repositories: [
       {

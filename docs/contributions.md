@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 29 | 16 | 15 |
+| 32 | 17 | 16 |
 
 ## How to Read This Document
 
@@ -91,6 +91,15 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs(image): make the border of get-started-steps images transparent [#1425](https://github.com/textlint/textlint/pull/1425) :purple_heart:
+## [`toss`](https://github.com/toss)
+
+### [`es-hangul`](https://github.com/toss/es-hangul) ![GitHub Repo stars](https://img.shields.io/github/stars/toss/es-hangul)
+
+#### :memo: Documentation
+
+1. docs: fix a typo in `standardizePronunciation.ko.mdx` [#276](https://github.com/toss/es-hangul/pull/276) :purple_heart:
+1. docs: fix typos in `introduction.ko.mdx` [#277](https://github.com/toss/es-hangul/pull/277) :purple_heart:
+1. docs: create `removeLastCharacter` documentation [#293](https://github.com/toss/es-hangul/pull/293) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
