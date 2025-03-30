@@ -190,6 +190,13 @@ export default [
             highlight: true,
             merged: true,
           },
+          {
+            number: 1425,
+            type: 'docs',
+            title: 'docs(image): make the border of get-started-steps images transparent',
+            merged: true,
+            release: 'v14.2.1',
+          },
         ],
       },
     ],

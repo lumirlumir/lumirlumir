@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 28 | 16 | 15 |
+| 29 | 16 | 15 |
 
 ## How to Read This Document
 
@@ -88,6 +88,9 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :sparkles: Features
 
 1. feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types [#1459](https://github.com/textlint/textlint/pull/1459) :purple_heart:
+#### :memo: Documentation
+
+1. docs(image): make the border of get-started-steps images transparent [#1425](https://github.com/textlint/textlint/pull/1425) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
