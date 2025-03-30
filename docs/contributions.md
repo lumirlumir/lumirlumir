@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 13 | 7 | 7 |
+| 14 | 8 | 8 |
 
 ## How to Read This Document
 
@@ -81,3 +81,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: add support for `.zip` files in binary download [#417](https://github.com/editorconfig-checker/editorconfig-checker.javascript/pull/417) :purple_heart:
+## [`yuyinws`](https://github.com/yuyinws)
+
+### [`vitepress-plugin-group-icons`](https://github.com/yuyinws/vitepress-plugin-group-icons) ![GitHub Repo stars](https://img.shields.io/github/stars/yuyinws/vitepress-plugin-group-icons)
+
+#### :sparkles: Features
+
+1. feat: add `.mts` and `.cts` extensions to `builtin.ts` [#14](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/14) :purple_heart:

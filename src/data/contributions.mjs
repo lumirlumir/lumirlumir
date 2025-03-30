@@ -178,4 +178,22 @@ export default [
       },
     ],
   },
+
+  {
+    name: 'yuyinws',
+    repositories: [
+      {
+        name: 'vitepress-plugin-group-icons',
+        pullRequests: [
+          {
+            number: 14,
+            type: 'feat',
+            title: 'feat: add `.mts` and `.cts` extensions to `builtin.ts`',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
 ];
