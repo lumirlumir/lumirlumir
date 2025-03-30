@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 15 | 9 | 9 |
+| 17 | 10 | 10 |
 
 ## How to Read This Document
 
@@ -88,6 +88,14 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: add support for `.zip` files in binary download [#417](https://github.com/editorconfig-checker/editorconfig-checker.javascript/pull/417) :purple_heart:
+## [`sindresorhus`](https://github.com/sindresorhus)
+
+### [`yocto-spinner`](https://github.com/sindresorhus/yocto-spinner) ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/yocto-spinner)
+
+#### :bug: Bug Fixes
+
+1. fix: update `clear()` method to return `this` to support method chaining [#3](https://github.com/sindresorhus/yocto-spinner/pull/3) :purple_heart:
+1. fix: ensure default value is correctly applied in setter [#5](https://github.com/sindresorhus/yocto-spinner/pull/5) :purple_heart:
 ## [`yuyinws`](https://github.com/yuyinws)
 
 ### [`vitepress-plugin-group-icons`](https://github.com/yuyinws/vitepress-plugin-group-icons) ![GitHub Repo stars](https://img.shields.io/github/stars/yuyinws/vitepress-plugin-group-icons)

@@ -198,6 +198,32 @@ export default [
   },
 
   {
+    name: 'sindresorhus',
+    repositories: [
+      {
+        name: 'yocto-spinner',
+        pullRequests: [
+          {
+            number: 3,
+            type: 'fix',
+            title:
+              'fix: update `clear()` method to return `this` to support method chaining',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 5,
+            type: 'fix',
+            title: 'fix: ensure default value is correctly applied in setter',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'yuyinws',
     repositories: [
       {
