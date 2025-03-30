@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * Type of Pull Request, Issue, etc.
+ * Type of the Pull Request, Issue, etc.
  */
 export type Type =
   | 'feat'
@@ -22,8 +22,16 @@ export type Type =
   | 'style'
   | 'test';
 
+/**
+ * Role of the user in the repository.
+ */
+export type Role = 'contributor' | 'maintainer';
+
 // --------------------------------------------------------------------------------
 
+/**
+ * Common interface for Pull Request, Issue, etc.
+ */
 export interface Contribution {
   /**
    * Number of the Pull Request, Issue, etc.
@@ -41,27 +49,52 @@ export interface Contribution {
   title: string;
 
   /**
-   * Hightlight the contribution.
+   * Additional description about the Pull Request, Issue, etc.
+   */
+  description?: string;
+
+  /**
+   * Highlight the contribution.
    */
   highlight?: boolean;
 }
 
 // --------------------------------------------------------------------------------
 
+/**
+ * Represents a GitHub organization.
+ */
 export interface Organization {
   /**
-   * Name of Organization.
+   * Name of the organization.
    */
   name: string;
+
+  /**
+   * Represents GitHub repositories.
+   */
   repositories: Repository[];
 }
 
+/**
+ * Represents a GitHub repository.
+ */
 export interface Repository {
   /**
-   * Name of Repository.
+   * Name of the repository.
    */
   name: string;
+
+  /**
+   * Role of the user in the repository.
+   */
+  role: Role;
+
+  /**
+   * Represents GitHub Pull Requests.
+   */
   pullRequests: PullRequest[];
+
   // issues?: Issue[];
   // discussions?: Discussion[];
   // pullRequestComments?: PullRequestComment[];
@@ -69,9 +102,20 @@ export interface Repository {
   // discussionComments?: DiscussionComment[];
 }
 
+/**
+ * Represents a GitHub Pull Request.
+ */
 export interface PullRequest extends Contribution {
+  /**
+   * Indicates whether the PR has been merged.
+   */
   merged: boolean;
-  release?: string;
+
+  /**
+   * Release tag version associated with the PR.
+   * Often starts with `v` and is followed by a version number.
+   */
+  release?: string[];
 }
 
 // export interface Issue extends Contribution {}

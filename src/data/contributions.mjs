@@ -21,6 +21,7 @@ export default [
     repositories: [
       {
         name: 'next.js',
+        role: 'contributor',
         pullRequests: [
           {
             number: 69220,
@@ -64,6 +65,7 @@ export default [
     repositories: [
       {
         name: 'lerna',
+        role: 'contributor',
         pullRequests: [
           {
             number: 4105,
@@ -93,6 +95,7 @@ export default [
     repositories: [
       {
         name: 'llvm-project',
+        role: 'contributor',
         pullRequests: [
           {
             number: 117730,
@@ -112,6 +115,7 @@ export default [
     repositories: [
       {
         name: 'eslint',
+        role: 'contributor',
         pullRequests: [
           {
             number: 19165,
@@ -343,6 +347,7 @@ export default [
       },
       {
         name: 'markdown',
+        role: 'contributor',
         pullRequests: [
           {
             number: 329,
@@ -361,6 +366,7 @@ export default [
     repositories: [
       {
         name: 'react.dev',
+        role: 'contributor',
         pullRequests: [
           {
             number: 7185,
@@ -379,6 +385,7 @@ export default [
     repositories: [
       {
         name: 'runner-images',
+        role: 'contributor',
         pullRequests: [
           {
             number: 10689,
@@ -396,6 +403,7 @@ export default [
     repositories: [
       {
         name: 'nodejs.org',
+        role: 'contributor',
         pullRequests: [
           {
             number: 7539,
@@ -413,6 +421,7 @@ export default [
     repositories: [
       {
         name: 'docsearch',
+        role: 'contributor',
         pullRequests: [
           {
             number: 2359,
@@ -443,6 +452,7 @@ export default [
     repositories: [
       {
         name: 'textlint',
+        role: 'contributor',
         pullRequests: [
           {
             number: 1459,
@@ -451,13 +461,14 @@ export default [
               'feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types',
             highlight: true,
             merged: true,
+            release: ['v14.5.0'],
           },
           {
             number: 1425,
             type: 'docs',
             title: 'docs(image): make the border of get-started-steps images transparent',
             merged: true,
-            release: 'v14.2.1',
+            release: ['v14.2.1'],
           },
         ],
       },
@@ -469,6 +480,7 @@ export default [
     repositories: [
       {
         name: 'es-hangul',
+        role: 'contributor',
         pullRequests: [
           {
             number: 276,
@@ -499,6 +511,7 @@ export default [
     repositories: [
       {
         name: 'vscode-material-icon-theme',
+        role: 'contributor',
         pullRequests: [
           {
             number: 2565,
@@ -543,6 +556,7 @@ export default [
     repositories: [
       {
         name: 'hello',
+        role: 'contributor',
         pullRequests: [
           {
             number: 229,
@@ -555,6 +569,7 @@ export default [
       },
       {
         name: 'tidory',
+        role: 'contributor',
         pullRequests: [
           {
             number: 15,
@@ -573,6 +588,7 @@ export default [
     repositories: [
       {
         name: 'translated-content',
+        role: 'contributor',
         pullRequests: [
           {
             number: 26049,
@@ -596,6 +612,7 @@ export default [
     repositories: [
       {
         name: 'editorconfig-checker.javascript',
+        role: 'contributor',
         pullRequests: [
           {
             number: 417,
@@ -614,6 +631,7 @@ export default [
     repositories: [
       {
         name: 'yocto-spinner',
+        role: 'contributor',
         pullRequests: [
           {
             number: 3,
@@ -640,6 +658,7 @@ export default [
     repositories: [
       {
         name: 'vitepress-plugin-group-icons',
+        role: 'contributor',
         pullRequests: [
           {
             number: 14,
@@ -647,6 +666,7 @@ export default [
             title: 'feat: add `.mts` and `.cts` extensions to `builtin.ts`',
             highlight: true,
             merged: true,
+            release: ['v1.3.7'],
           },
         ],
       },
@@ -658,6 +678,7 @@ export default [
     repositories: [
       {
         name: 'boj-cli',
+        role: 'contributor',
         pullRequests: [
           {
             number: 32,
