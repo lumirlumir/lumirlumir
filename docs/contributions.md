@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 27 | 15 | 14 |
+| 72 | 19 | 17 |
 
 ## How to Read This Document
 
@@ -31,6 +31,14 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: ensure absolute paths are handled correctly with `--file` option in `next lint` command for `lint-staged` compatibility [#69220](https://github.com/vercel/next.js/pull/69220) :purple_heart:
+#### :toolbox: Chores
+
+1. chore: remove non-existent hash fragments from URLs [#73165](https://github.com/vercel/next.js/pull/73165) :purple_heart:
+#### :memo: Documentation
+
+1. docs: add missing punctuation in `developing-using-local-app.md` [#73163](https://github.com/vercel/next.js/pull/73163) :purple_heart:
+1. docs(typo): fix typos in `04-cypress.mdx` [#72218](https://github.com/vercel/next.js/pull/72218) :purple_heart:
+1. docs(typo): fix typos in `03-playwright.mdx` [#72182](https://github.com/vercel/next.js/pull/72182) :purple_heart:
 ## [`lerna`](https://github.com/lerna)
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo stars](https://img.shields.io/github/stars/lerna/lerna)
@@ -51,11 +59,59 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ### [`eslint`](https://github.com/eslint/eslint) ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/eslint)
 
+#### :toolbox: Chores
+
+1. chore: add `repository.directory` property to `package.json` [#19165](https://github.com/eslint/eslint/pull/19165) :purple_heart:
+1. chore: fix incorrect `name` property in `integration-tutorial-code` [#19218](https://github.com/eslint/eslint/pull/19218) :purple_heart:
+1. chore: add missing backticks to `flags.js` [#19226](https://github.com/eslint/eslint/pull/19226) :purple_heart:
+1. chore: add `border-radius` to `hX:target` selector styles [#19270](https://github.com/eslint/eslint/pull/19270) :purple_heart:
+1. chore: extract package `name` from `package.json` for public interface [#19314](https://github.com/eslint/eslint/pull/19314) :purple_heart:
 #### :memo: Documentation
 
 1. docs: delete unnecessary horizontal rule(`---`) in `nodejs-api` [#19175](https://github.com/eslint/eslint/pull/19175) :purple_heart:
 1. docs: delete unnecessary horizontal rule(`---`) (v8.x) (follow up) [#19176](https://github.com/eslint/eslint/pull/19176) :purple_heart:
 1. docs: fix a typo in `debug.md` [#19179](https://github.com/eslint/eslint/pull/19179) :purple_heart:
+1. docs: fix typos in `migration-guide.md` [#19180](https://github.com/eslint/eslint/pull/19180) :purple_heart:
+1. docs: add backtick in `-0` in `description` of `no-compare-neg-zero` [#19186](https://github.com/eslint/eslint/pull/19186) :purple_heart:
+1. docs: add missing backtick to `no-async-promise-executor.md` [#19188](https://github.com/eslint/eslint/pull/19188) :purple_heart:
+1. docs: switch the order of words in `no-unreachable.md` [#19189](https://github.com/eslint/eslint/pull/19189) :purple_heart:
+1. docs: fix typos in `use-isnan.md` [#19190](https://github.com/eslint/eslint/pull/19190) :purple_heart:
+1. docs: replace quote with backtick in `description` of `for-direction` [#19199](https://github.com/eslint/eslint/pull/19199) :purple_heart:
+1. docs: add missing punctuation in document [#19161](https://github.com/eslint/eslint/pull/19161) :purple_heart:
+1. docs: add missing backtick to `default-case-last` [#19202](https://github.com/eslint/eslint/pull/19202) :purple_heart:
+1. docs: update comments and `description` of `no-script-url` [#19203](https://github.com/eslint/eslint/pull/19203) :purple_heart:
+1. docs: update docs and `description` of `require-unicode-regexp` [#19205](https://github.com/eslint/eslint/pull/19205) :purple_heart:
+1. docs: add missing backticks to `prefer-object-spread` [#19206](https://github.com/eslint/eslint/pull/19206) :purple_heart:
+1. docs: add missing backticks to `eqeqeq.md` [#19207](https://github.com/eslint/eslint/pull/19207) :purple_heart:
+1. docs: add missing `)` to `id-denylist.md` [#19213](https://github.com/eslint/eslint/pull/19213) :purple_heart:
+1. docs: add missing backticks to `complexity.md` [#19214](https://github.com/eslint/eslint/pull/19214) :purple_heart:
+1. docs: add missing backticks to `id-length.md` [#19217](https://github.com/eslint/eslint/pull/19217) :purple_heart:
+1. docs: add missing backticks to `no-new-func.md` [#19219](https://github.com/eslint/eslint/pull/19219) :purple_heart:
+1. docs: add missing backticks to `no-unneeded-ternary.md` [#19222](https://github.com/eslint/eslint/pull/19222) :purple_heart:
+1. docs: add missing backticks to `prefer-destructuring` [#19223](https://github.com/eslint/eslint/pull/19223) :purple_heart:
+1. docs: add missing backticks to `no-param-reassign.md` [#19220](https://github.com/eslint/eslint/pull/19220) :purple_heart:
+1. docs: add missing `<h2>`(`##`) to `prefer-spread` [#19224](https://github.com/eslint/eslint/pull/19224) :purple_heart:
+1. docs: add missing backticks to `func-style` [#19227](https://github.com/eslint/eslint/pull/19227) :purple_heart:
+1. docs: add missing backticks to `no-sequences` [#19233](https://github.com/eslint/eslint/pull/19233) :purple_heart:
+1. docs: update `yoda` to `Yoda` in `yoda.md` for consistency [#19230](https://github.com/eslint/eslint/pull/19230) :purple_heart:
+1. docs: add missing backticks in various parts of the documentation [#19269](https://github.com/eslint/eslint/pull/19269) :purple_heart:
+1. docs: add missing backticks to `sort-imports` [#19282](https://github.com/eslint/eslint/pull/19282) :purple_heart:
+1. docs: add missing backticks to `no-else-return.md` [#19309](https://github.com/eslint/eslint/pull/19309) :purple_heart:
+1. docs: add `related_rules` front matter to `no-eq-null.md` [#19310](https://github.com/eslint/eslint/pull/19310) :purple_heart:
+1. docs: add missing backticks to `default-case-last.js` [#19311](https://github.com/eslint/eslint/pull/19311) :purple_heart:
+1. docs: add missing backticks to `no-void.md` [#19313](https://github.com/eslint/eslint/pull/19313) :purple_heart:
+### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo stars](https://img.shields.io/github/stars/eslint/markdown)
+
+#### :test_tube: Tests
+
+1. test: create tests for `MarkdownLanguage` [#329](https://github.com/eslint/markdown/pull/329) :purple_heart:
+## [`reactjs`](https://github.com/reactjs)
+
+### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)
+
+#### :sparkles: Features
+
+1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
 ## [`actions`](https://github.com/actions)
 
 ### [`runner-images`](https://github.com/actions/runner-images) ![GitHub Repo stars](https://img.shields.io/github/stars/actions/runner-images)
@@ -81,6 +137,25 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :art: Styles
 
 1. refactor: improve readability of `_variables.css` [#2359](https://github.com/algolia/docsearch/pull/2359) :purple_heart:
+## [`textlint`](https://github.com/textlint)
+
+### [`textlint`](https://github.com/textlint/textlint) ![GitHub Repo stars](https://img.shields.io/github/stars/textlint/textlint)
+
+#### :sparkles: Features
+
+1. feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types [#1459](https://github.com/textlint/textlint/pull/1459) :purple_heart:
+#### :memo: Documentation
+
+1. docs(image): make the border of get-started-steps images transparent [#1425](https://github.com/textlint/textlint/pull/1425) :purple_heart:
+## [`toss`](https://github.com/toss)
+
+### [`es-hangul`](https://github.com/toss/es-hangul) ![GitHub Repo stars](https://img.shields.io/github/stars/toss/es-hangul)
+
+#### :memo: Documentation
+
+1. docs: fix a typo in `standardizePronunciation.ko.mdx` [#276](https://github.com/toss/es-hangul/pull/276) :purple_heart:
+1. docs: fix typos in `introduction.ko.mdx` [#277](https://github.com/toss/es-hangul/pull/277) :purple_heart:
+1. docs: create `removeLastCharacter` documentation [#293](https://github.com/toss/es-hangul/pull/293) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)

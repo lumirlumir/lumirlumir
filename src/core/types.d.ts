@@ -71,6 +71,7 @@ export interface Repository {
 
 export interface PullRequest extends Contribution {
   merged: boolean;
+  release?: string;
 }
 
 // export interface Issue extends Contribution {}

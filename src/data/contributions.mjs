@@ -30,6 +30,30 @@ export default [
             highlight: true,
             merged: true,
           },
+          {
+            number: 73165,
+            type: 'chore',
+            title: 'chore: remove non-existent hash fragments from URLs',
+            merged: true,
+          },
+          {
+            number: 73163,
+            type: 'docs',
+            title: 'docs: add missing punctuation in `developing-using-local-app.md`',
+            merged: true,
+          },
+          {
+            number: 72218,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `04-cypress.mdx`',
+            merged: true,
+          },
+          {
+            number: 72182,
+            type: 'docs',
+            title: 'docs(typo): fix typos in `03-playwright.mdx`',
+            merged: true,
+          },
         ],
       },
     ],
@@ -90,6 +114,39 @@ export default [
         name: 'eslint',
         pullRequests: [
           {
+            number: 19165,
+            type: 'chore',
+            title: 'chore: add `repository.directory` property to `package.json`',
+            merged: true,
+          },
+          {
+            number: 19218,
+            type: 'chore',
+            title: 'chore: fix incorrect `name` property in `integration-tutorial-code`',
+            merged: true,
+          },
+          {
+            number: 19226,
+            type: 'chore',
+            title: 'chore: add missing backticks to `flags.js`',
+            merged: true,
+          },
+          {
+            number: 19270,
+            type: 'chore',
+            title: 'chore: add `border-radius` to `hX:target` selector styles',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 19314,
+            type: 'chore',
+            title:
+              'chore: extract package `name` from `package.json` for public interface',
+            highlight: true,
+            merged: true,
+          },
+          {
             number: 19175,
             type: 'docs',
             title: 'docs: delete unnecessary horizontal rule(`---`) in `nodejs-api`',
@@ -105,6 +162,211 @@ export default [
             number: 19179,
             type: 'docs',
             title: 'docs: fix a typo in `debug.md`',
+            merged: true,
+          },
+          {
+            number: 19180,
+            type: 'docs',
+            title: 'docs: fix typos in `migration-guide.md`',
+            merged: true,
+          },
+          {
+            number: 19186,
+            type: 'docs',
+            title: 'docs: add backtick in `-0` in `description` of `no-compare-neg-zero`',
+            merged: true,
+          },
+          {
+            number: 19188,
+            type: 'docs',
+            title: 'docs: add missing backtick to `no-async-promise-executor.md`',
+            merged: true,
+          },
+          {
+            number: 19189,
+            type: 'docs',
+            title: 'docs: switch the order of words in `no-unreachable.md`',
+            merged: true,
+          },
+          {
+            number: 19190,
+            type: 'docs',
+            title: 'docs: fix typos in `use-isnan.md`',
+            merged: true,
+          },
+          {
+            number: 19199,
+            type: 'docs',
+            title:
+              'docs: replace quote with backtick in `description` of `for-direction`',
+            merged: true,
+          },
+          {
+            number: 19161,
+            type: 'docs',
+            title: 'docs: add missing punctuation in document',
+            merged: true,
+          },
+          {
+            number: 19202,
+            type: 'docs',
+            title: 'docs: add missing backtick to `default-case-last`',
+            merged: true,
+          },
+          {
+            number: 19203,
+            type: 'docs',
+            title: 'docs: update comments and `description` of `no-script-url`',
+            merged: true,
+          },
+          {
+            number: 19205,
+            type: 'docs',
+            title: 'docs: update docs and `description` of `require-unicode-regexp`',
+            merged: true,
+          },
+          {
+            number: 19206,
+            type: 'docs',
+            title: 'docs: add missing backticks to `prefer-object-spread`',
+            merged: true,
+          },
+          {
+            number: 19207,
+            type: 'docs',
+            title: 'docs: add missing backticks to `eqeqeq.md`',
+            merged: true,
+          },
+          {
+            number: 19213,
+            type: 'docs',
+            title: 'docs: add missing `)` to `id-denylist.md`',
+            merged: true,
+          },
+          {
+            number: 19214,
+            type: 'docs',
+            title: 'docs: add missing backticks to `complexity.md`',
+            merged: true,
+          },
+          {
+            number: 19217,
+            type: 'docs',
+            title: 'docs: add missing backticks to `id-length.md`',
+            merged: true,
+          },
+          {
+            number: 19219,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-new-func.md`',
+            merged: true,
+          },
+          {
+            number: 19222,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-unneeded-ternary.md`',
+            merged: true,
+          },
+          {
+            number: 19223,
+            type: 'docs',
+            title: 'docs: add missing backticks to `prefer-destructuring`',
+            merged: true,
+          },
+          {
+            number: 19220,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-param-reassign.md`',
+            merged: true,
+          },
+          {
+            number: 19224,
+            type: 'docs',
+            title: 'docs: add missing `<h2>`(`##`) to `prefer-spread`',
+            merged: true,
+          },
+          {
+            number: 19227,
+            type: 'docs',
+            title: 'docs: add missing backticks to `func-style`',
+            merged: true,
+          },
+          {
+            number: 19233,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-sequences`',
+            merged: true,
+          },
+          {
+            number: 19230,
+            type: 'docs',
+            title: 'docs: update `yoda` to `Yoda` in `yoda.md` for consistency',
+            merged: true,
+          },
+          {
+            number: 19269,
+            type: 'docs',
+            title: 'docs: add missing backticks in various parts of the documentation',
+            merged: true,
+          },
+          {
+            number: 19282,
+            type: 'docs',
+            title: 'docs: add missing backticks to `sort-imports`',
+            merged: true,
+          },
+          {
+            number: 19309,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-else-return.md`',
+            merged: true,
+          },
+          {
+            number: 19310,
+            type: 'docs',
+            title: 'docs: add `related_rules` front matter to `no-eq-null.md`',
+            merged: true,
+          },
+          {
+            number: 19311,
+            type: 'docs',
+            title: 'docs: add missing backticks to `default-case-last.js`',
+            merged: true,
+          },
+          {
+            number: 19313,
+            type: 'docs',
+            title: 'docs: add missing backticks to `no-void.md`',
+            merged: true,
+          },
+        ],
+      },
+      {
+        name: 'markdown',
+        pullRequests: [
+          {
+            number: 329,
+            type: 'test',
+            title: 'test: create tests for `MarkdownLanguage`',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'reactjs',
+    repositories: [
+      {
+        name: 'react.dev',
+        pullRequests: [
+          {
+            number: 7185,
+            type: 'feat',
+            title: '✨KOREAN(ko.react.dev) Translation Completed',
+            highlight: true,
             merged: true,
           },
         ],
@@ -169,6 +431,62 @@ export default [
             type: 'chore',
             title:
               'chore: add `--host` option to `playground:start` script in `package.json`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'textlint',
+    repositories: [
+      {
+        name: 'textlint',
+        pullRequests: [
+          {
+            number: 1459,
+            type: 'feat',
+            title:
+              'feat(@textlint/ast-node-types): add missing `LinkReference`, `ImageReference` and `Definition` node types',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 1425,
+            type: 'docs',
+            title: 'docs(image): make the border of get-started-steps images transparent',
+            merged: true,
+            release: 'v14.2.1',
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'toss',
+    repositories: [
+      {
+        name: 'es-hangul',
+        pullRequests: [
+          {
+            number: 276,
+            type: 'docs',
+            title: 'docs: fix a typo in `standardizePronunciation.ko.mdx`',
+            merged: true,
+          },
+          {
+            number: 277,
+            type: 'docs',
+            title: 'docs: fix typos in `introduction.ko.mdx`',
+            merged: true,
+          },
+          {
+            number: 293,
+            type: 'docs',
+            title: 'docs: create `removeLastCharacter` documentation',
+            highlight: true,
             merged: true,
           },
         ],
