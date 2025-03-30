@@ -96,6 +96,22 @@ export default [
             releases: ['v15.0.0-canary.187'],
           },
           {
+            number: 71238,
+            type: 'docs',
+            title: 'docs(javascript): add module exports and experimental metadata',
+            merged: true,
+            sha: 'aa3516885723e83476fef65d32ff5be183825622',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
+            number: 71509,
+            type: 'docs',
+            title: 'docs(javascript): fix wrong javascript code in `script.mdx`',
+            merged: true,
+            sha: 'de5237df130ef187c67c71fc6115c0f3fc742a3a',
+            releases: ['v15.0.3-canary.0'],
+          },
+          {
             number: 73163,
             type: 'docs',
             title: 'docs: add missing punctuation in `developing-using-local-app.md`',
