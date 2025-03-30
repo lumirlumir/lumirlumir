@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 38 | 18 | 17 |
+| 49 | 18 | 17 |
 
 ## How to Read This Document
 
@@ -63,6 +63,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: delete unnecessary horizontal rule(`---`) in `nodejs-api` [#19175](https://github.com/eslint/eslint/pull/19175) :purple_heart:
 1. docs: delete unnecessary horizontal rule(`---`) (v8.x) (follow up) [#19176](https://github.com/eslint/eslint/pull/19176) :purple_heart:
 1. docs: fix a typo in `debug.md` [#19179](https://github.com/eslint/eslint/pull/19179) :purple_heart:
+1. docs: fix typos in `migration-guide.md` [#19180](https://github.com/eslint/eslint/pull/19180) :purple_heart:
+1. docs: add backtick in `-0` in `description` of `no-compare-neg-zero` [#19186](https://github.com/eslint/eslint/pull/19186) :purple_heart:
+1. docs: add missing backtick to `no-async-promise-executor.md` [#19188](https://github.com/eslint/eslint/pull/19188) :purple_heart:
+1. docs: switch the order of words in `no-unreachable.md` [#19189](https://github.com/eslint/eslint/pull/19189) :purple_heart:
+1. docs: fix typos in `use-isnan.md` [#19190](https://github.com/eslint/eslint/pull/19190) :purple_heart:
+1. docs: replace quote with backtick in `description` of `for-direction` [#19199](https://github.com/eslint/eslint/pull/19199) :purple_heart:
+1. docs: add missing punctuation in document [#19161](https://github.com/eslint/eslint/pull/19161) :purple_heart:
+1. docs: add missing backtick to `default-case-last` [#19202](https://github.com/eslint/eslint/pull/19202) :purple_heart:
+1. docs: update comments and `description` of `no-script-url` [#19203](https://github.com/eslint/eslint/pull/19203) :purple_heart:
+1. docs: update docs and `description` of `require-unicode-regexp` [#19205](https://github.com/eslint/eslint/pull/19205) :purple_heart:
+1. docs: add missing backticks to `prefer-object-spread` [#19206](https://github.com/eslint/eslint/pull/19206) :purple_heart:
 ## [`reactjs`](https://github.com/reactjs)
 
 ### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo stars](https://img.shields.io/github/stars/reactjs/react.dev)
