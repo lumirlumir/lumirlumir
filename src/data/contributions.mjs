@@ -113,6 +113,24 @@ export default [
   },
 
   {
+    name: 'reactjs',
+    repositories: [
+      {
+        name: 'react.dev',
+        pullRequests: [
+          {
+            number: 7185,
+            type: 'feat',
+            title: '✨KOREAN(ko.react.dev) Translation Completed',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'actions',
     repositories: [
       {
