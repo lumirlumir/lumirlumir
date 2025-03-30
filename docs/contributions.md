@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 19 | 11 | 11 |
+| 20 | 12 | 11 |
 
 ## How to Read This Document
 
@@ -81,6 +81,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: `.github/workflows/tidory.yml` CI environment [#229](https://github.com/pronist/hello/pull/229) :purple_heart:
+### [`tidory`](https://github.com/pronist/tidory) ![GitHub Repo stars](https://img.shields.io/github/stars/pronist/tidory)
+
+#### :bug: Bug Fixes
+
+1. fix: `.github/workflows/tidory.yml` CI environment [#15](https://github.com/pronist/tidory/pull/15) :purple_heart:
 ## [`mdn`](https://github.com/mdn)
 
 ### [`translated-content`](https://github.com/mdn/translated-content) ![GitHub Repo stars](https://img.shields.io/github/stars/mdn/translated-content)

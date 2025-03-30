@@ -176,6 +176,18 @@ export default [
           },
         ],
       },
+      {
+        name: 'tidory',
+        pullRequests: [
+          {
+            number: 15,
+            type: 'fix',
+            title: 'fix: `.github/workflows/tidory.yml` CI environment',
+            highlight: true,
+            merged: true,
+          },
+        ],
+      },
     ],
   },
 
