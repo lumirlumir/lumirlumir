@@ -102,6 +102,12 @@ export default [
             merged: true,
           },
           {
+            number: 72061,
+            type: 'docs',
+            title: 'docs: update `02-jest.mdx`',
+            merged: true,
+          },
+          {
             number: 72182,
             type: 'docs',
             title: 'docs(typo): fix typos in `03-playwright.mdx`',
