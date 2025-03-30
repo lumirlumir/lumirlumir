@@ -118,6 +118,36 @@ export default [
   },
 
   {
+    name: 'algolia',
+    repositories: [
+      {
+        name: 'docsearch',
+        pullRequests: [
+          {
+            number: 2359,
+            type: 'style',
+            title: 'refactor: improve readability of `_variables.css`',
+            merged: true,
+          },
+          {
+            number: 2372,
+            type: 'chore',
+            title: 'chore: add `repository.directory` property to `package.json`',
+            merged: true,
+          },
+          {
+            number: 2377,
+            type: 'chore',
+            title:
+              'chore: add `--host` option to `playground:start` script in `package.json`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'material-extensions',
     repositories: [
       {

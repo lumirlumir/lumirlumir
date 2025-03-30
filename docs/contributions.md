@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 21 | 13 | 12 |
+| 24 | 14 | 13 |
 
 ## How to Read This Document
 
@@ -61,6 +61,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: add missing backticks to `introduction-to-nodejs.md` [#7539](https://github.com/nodejs/nodejs.org/pull/7539) :purple_heart:
+## [`algolia`](https://github.com/algolia)
+
+### [`docsearch`](https://github.com/algolia/docsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/algolia/docsearch)
+
+#### :toolbox: Chores
+
+1. chore: add `repository.directory` property to `package.json` [#2372](https://github.com/algolia/docsearch/pull/2372) :purple_heart:
+1. chore: add `--host` option to `playground:start` script in `package.json` [#2377](https://github.com/algolia/docsearch/pull/2377) :purple_heart:
+#### :art: Styles
+
+1. refactor: improve readability of `_variables.css` [#2359](https://github.com/algolia/docsearch/pull/2359) :purple_heart:
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
