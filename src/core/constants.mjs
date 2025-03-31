@@ -22,3 +22,8 @@ export const URL_GITHUB_PULL_REQUEST = (organization, repository, number) =>
 /** @type {string} */
 export const COMMENT_DO_NOT_EDIT =
   '<!-- This file is auto-generated. Please do not edit it directly. -->\n\n<!-- eslint-disable -->\n<!-- markdownlint-disable -->';
+
+/** @type {string} */
+export const COLOR_FG = '#D6BBF2';
+/** @type {string} */
+export const COLOR_BG = '#151b23';
