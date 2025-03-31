@@ -714,6 +714,13 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 278,
+            type: 'docs',
+            title: '[Docs]: `removeLastCharacter` 문서 누락',
+          },
+        ],
       },
     ],
   },

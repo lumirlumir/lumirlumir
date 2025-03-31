@@ -204,6 +204,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: fix typos in `introduction.ko.mdx` [#277](https://github.com/toss/es-hangul/pull/277) :purple_heart:
 1. docs: create `removeLastCharacter` documentation [#293](https://github.com/toss/es-hangul/pull/293) :purple_heart:
 
+#### :speech_balloon: Issues
+
+1. [Docs]: `removeLastCharacter` 문서 누락 [#278](https://github.com/toss/es-hangul/issues/278)
+
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo Stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)
