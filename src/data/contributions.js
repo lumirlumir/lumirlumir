@@ -777,6 +777,14 @@ export default [
             releases: ['v14.2.1'],
           },
         ],
+        issueComments: [
+          {
+            number: 1406,
+            type: 'refactor',
+            title: "Some internal modules (try-resolve@1.0.1) are 'deprecated'",
+            fragment: 'issuecomment-2375829209',
+          },
+        ],
       },
     ],
   },

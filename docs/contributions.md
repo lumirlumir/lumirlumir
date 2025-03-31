@@ -232,6 +232,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. docs(image): make the border of get-started-steps images transparent [#1425](https://github.com/textlint/textlint/pull/1425) :purple_heart:
 
+#### :newspaper: Issue Comments
+
+1. Some internal modules (try-resolve@1.0.1) are 'deprecated' [#1406](https://github.com/textlint/textlint/issues/1406#issuecomment-2375829209)
+
 ## [`toss`](https://github.com/toss)
 
 ### [`es-hangul`](https://github.com/toss/es-hangul) ![GitHub Repo Stars](https://img.shields.io/github/stars/toss/es-hangul)
