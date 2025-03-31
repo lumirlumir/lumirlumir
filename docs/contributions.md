@@ -131,6 +131,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: add missing backticks to `default-case-last.js` [#19311](https://github.com/eslint/eslint/pull/19311) :purple_heart:
 1. docs: add missing backticks to `no-void.md` [#19313](https://github.com/eslint/eslint/pull/19313) :purple_heart:
 
+#### :speech_balloon: Issues
+
+1. Change Request: Support nested configuration object types in ESLint plugin configs [#19519](https://github.com/eslint/eslint/issues/19519)
+1. Change Request: Support generic types for `Rule.RuleModule` type [#19521](https://github.com/eslint/eslint/issues/19521)
+1. Change Request: Support `name` field to `meta.docs` [#19523](https://github.com/eslint/eslint/issues/19523)
+
 ### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/markdown)
 
 #### :test_tube: Tests

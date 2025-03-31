@@ -539,6 +539,24 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 19519,
+            type: 'feat',
+            title:
+              'Change Request: Support nested configuration object types in ESLint plugin configs',
+          },
+          {
+            number: 19521,
+            type: 'feat',
+            title: 'Change Request: Support generic types for `Rule.RuleModule` type',
+          },
+          {
+            number: 19523,
+            type: 'feat',
+            title: 'Change Request: Support `name` field to `meta.docs`',
+          },
+        ],
       },
       {
         name: 'markdown',
