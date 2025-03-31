@@ -66,6 +66,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs(typo): fix typos in `webpack.mdx` [#71510](https://github.com/vercel/next.js/pull/71510) :purple_heart:
 1. docs(typo): fix typos in `08-testing/index.mdx` [#72057](https://github.com/vercel/next.js/pull/72057) :purple_heart:
 
+#### :newspaper: Issue Comments
+
+1. Build: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got undefined. [#71149](https://github.com/vercel/next.js/issues/71149#issuecomment-2413957604)
+1. redux example double `use client` [#71085](https://github.com/vercel/next.js/issues/71085#issuecomment-2406732518)
+1. App router shows (SSG) prerendered as static HTML (uses getStaticProps) [#60532](https://github.com/vercel/next.js/issues/60532#issuecomment-2402760264)
+1. Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching  [#70960](https://github.com/vercel/next.js/issues/70960#issuecomment-2406740761)
+
 ## [`lerna`](https://github.com/lerna)
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo Stars](https://img.shields.io/github/stars/lerna/lerna)

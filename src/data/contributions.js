@@ -251,6 +251,36 @@ export default [
             merged: true,
           },
         ],
+        issueComments: [
+          {
+            number: 71149,
+            type: 'fix',
+            title:
+              'Build: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got undefined.',
+            fragment: 'issuecomment-2413957604',
+            highlight: true,
+          },
+          {
+            number: 71085,
+            type: 'chore',
+            title: 'redux example double `use client`',
+            fragment: 'issuecomment-2406732518',
+          },
+          {
+            number: 60532,
+            type: 'fix',
+            title:
+              'App router shows (SSG) prerendered as static HTML (uses getStaticProps)',
+            fragment: 'issuecomment-2402760264',
+          },
+          {
+            number: 70960,
+            type: 'docs',
+            title:
+              'Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching ',
+            fragment: 'issuecomment-2406740761',
+          },
+        ],
       },
     ],
   },
