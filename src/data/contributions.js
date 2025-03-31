@@ -639,6 +639,15 @@ export default [
             title: 'Change Request: Support `applyInlineConfig`',
           },
         ],
+        issueComments: [
+          {
+            number: 294,
+            type: 'fix',
+            title: 'Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts',
+            fragment: 'issuecomment-2763192768',
+            highlight: true,
+          },
+        ],
       },
       {
         name: 'rewrite',

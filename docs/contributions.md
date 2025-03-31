@@ -165,6 +165,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
 
+#### :newspaper: Issue Comments
+
+1. Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts [#294](https://github.com/eslint/markdown/issues/294#issuecomment-2763192768)
+
 ### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
 
 #### :speech_balloon: Issues
