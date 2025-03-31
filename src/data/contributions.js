@@ -647,6 +647,14 @@ export default [
             title: 'Change Request: Support `applyInlineConfig`',
           },
         ],
+        pullRequestComments: [
+          {
+            number: 324,
+            type: 'fix',
+            title: 'fix: provide a language-specific definition for `RuleModule`',
+            fragment: 'discussion_r1995682169',
+          },
+        ],
         issueComments: [
           {
             number: 294,

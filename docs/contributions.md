@@ -169,6 +169,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
 
+#### :newspaper: Pull Request Comments
+
+1. fix: provide a language-specific definition for `RuleModule` [#324](https://github.com/eslint/markdown/pull/324#discussion_r1995682169)
+
 #### :newspaper: Issue Comments
 
 1. Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts [#294](https://github.com/eslint/markdown/issues/294#issuecomment-2763192768)
