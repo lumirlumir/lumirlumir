@@ -583,6 +583,16 @@ export default [
             title:
               'Bug: ESLint built-in types are not compatible with `mdast` node types',
           },
+          {
+            number: 325,
+            type: 'feat',
+            title: 'Change Request: Support Front Matter',
+          },
+          {
+            number: 330,
+            type: 'feat',
+            title: 'Change Request: Support `applyInlineConfig`',
+          },
         ],
       },
       {
