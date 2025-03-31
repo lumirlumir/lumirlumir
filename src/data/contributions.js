@@ -1,5 +1,5 @@
 /**
- * @fileoverview LuMir's contribution list!
+ * @fileoverview LuMir's contributions!
  */
 
 // --------------------------------------------------------------------------------

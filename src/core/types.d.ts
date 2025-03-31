@@ -9,6 +9,22 @@
 // --------------------------------------------------------------------------------
 
 /**
+ * Type of the Pull Request, Issue, etc.
+ */
+export type Type =
+  | 'feat'
+  | 'fix'
+  | 'build'
+  | 'chore'
+  | 'ci'
+  | 'docs'
+  | 'perf'
+  | 'refactor'
+  | 'revert'
+  | 'style'
+  | 'test';
+
+/**
  * Represents a GitHub organization.
  */
 export interface Organization {
@@ -80,18 +96,7 @@ export interface Contribution {
   /**
    * Type of the Pull Request, Issue, etc.
    */
-  type:
-    | 'feat'
-    | 'fix'
-    | 'build'
-    | 'chore'
-    | 'ci'
-    | 'docs'
-    | 'perf'
-    | 'refactor'
-    | 'revert'
-    | 'style'
-    | 'test';
+  type: Type;
 
   /**
    * Title of the Pull Request, Issue, etc.
