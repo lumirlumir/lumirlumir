@@ -581,6 +581,13 @@ export default [
             sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
           },
         ],
+        issues: [
+          {
+            number: 7399,
+            type: 'feat',
+            title: '[Suggestion]: Please Support i18n for 18.react.dev',
+          },
+        ],
       },
     ],
   },

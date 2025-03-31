@@ -149,6 +149,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
 
+#### :speech_balloon: Issues
+
+1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
+
 ## [`actions`](https://github.com/actions)
 
 ### [`runner-images`](https://github.com/actions/runner-images) ![GitHub Repo Stars](https://img.shields.io/github/stars/actions/runner-images)

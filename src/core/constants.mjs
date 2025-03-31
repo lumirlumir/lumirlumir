@@ -18,6 +18,9 @@ export const URL_GITHUB_REPOSITORY = (organization, repository) =>
 /** @param {string} organization @param {string} repository @param {number} number */
 export const URL_GITHUB_PULL_REQUEST = (organization, repository, number) =>
   `${URL_GITHUB_REPOSITORY(organization, repository)}/pull/${number}`;
+/** @param {string} organization @param {string} repository @param {number} number */
+export const URL_GITHUB_ISSUE = (organization, repository, number) =>
+  `${URL_GITHUB_REPOSITORY(organization, repository)}/issues/${number}`;
 
 /** @type {string} */
 export const COMMENT_DO_NOT_EDIT =
