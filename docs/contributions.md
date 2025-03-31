@@ -139,6 +139,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/markdown)
 
+#### :sparkles: Features
+
+1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :green_heart:
+
 #### :test_tube: Tests
 
 1. test: create tests for `MarkdownLanguage` [#329](https://github.com/eslint/markdown/pull/329) :purple_heart:

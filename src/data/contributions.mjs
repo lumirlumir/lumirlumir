@@ -563,6 +563,13 @@ export default [
         role: 'contributor',
         pullRequests: [
           {
+            number: 328,
+            type: 'feat',
+            title: 'feat: support front matter',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 329,
             type: 'test',
             title: 'test: create tests for `MarkdownLanguage`',
