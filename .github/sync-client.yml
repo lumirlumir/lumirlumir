@@ -35,13 +35,15 @@ lumirlumir/lumirlumir-configs:
     dest: ./configs/.nvmrc
   - source: ./.prettierignore
     dest: ./configs/.prettierignore
-  - source: ./.prettierrc.js
-    dest: ./configs/.prettierrc.js
-  - source: ./.textlintrc.js
-    dest: ./configs/.textlintrc.js
+  - source: ./.prettierrc.cjs
+    dest: ./configs/.prettierrc.cjs
+  - source: ./.textlintrc.cjs
+    dest: ./configs/.textlintrc.cjs
   - source: ./VScode.code-workspace
     dest: ./configs/VScode.code-workspace
   - source: ./eslint.config.mjs
     dest: ./configs/eslint.config.mjs
-  - source: ./lint-staged.config.js
-    dest: ./configs/lint-staged.config.js
+  - source: ./lint-staged.config.mjs
+    dest: ./configs/lint-staged.config.mjs
+  - source: ./tsconfig.json
+    dest: ./configs/tsconfig.esm.json
