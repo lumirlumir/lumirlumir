@@ -559,6 +559,12 @@ export default [
             title:
               'New Rule: Suggest rules for working with natural language, similar to `textlint`',
           },
+          {
+            number: 323,
+            type: 'fix',
+            title:
+              'Bug: ESLint built-in types are not compatible with `mdast` node types',
+          },
         ],
       },
       {

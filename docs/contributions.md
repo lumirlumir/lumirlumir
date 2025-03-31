@@ -140,6 +140,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. New Rule: Suggest rules for working with natural language, similar to `textlint` [#311](https://github.com/eslint/markdown/issues/311)
+1. Bug: ESLint built-in types are not compatible with `mdast` node types [#323](https://github.com/eslint/markdown/issues/323)
 
 ### [`eslint.org`](https://github.com/eslint/eslint.org) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint.org)
 
