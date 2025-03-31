@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 96 | 19 | 17 |
+| 96 | 22 | 17 |
 
 ## How to Read This Document
 
@@ -69,6 +69,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 ## [`lerna`](https://github.com/lerna)
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo Stars](https://img.shields.io/github/stars/lerna/lerna)
+
+#### :bug: Bug Fixes
+
+1. fix: incorrectly removes `package-lock.json` dependencies on `lerna version` [#4168](https://github.com/lerna/lerna/pull/4168) :green_heart:
 
 #### :memo: Documentation
 
@@ -131,11 +135,40 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: add missing backticks to `default-case-last.js` [#19311](https://github.com/eslint/eslint/pull/19311) :purple_heart:
 1. docs: add missing backticks to `no-void.md` [#19313](https://github.com/eslint/eslint/pull/19313) :purple_heart:
 
+#### :speech_balloon: Issues
+
+1. Change Request: Support nested configuration object types in ESLint plugin configs [#19519](https://github.com/eslint/eslint/issues/19519)
+1. Change Request: Support generic types for `Rule.RuleModule` type [#19521](https://github.com/eslint/eslint/issues/19521)
+1. Change Request: Support `name` field to `meta.docs` [#19523](https://github.com/eslint/eslint/issues/19523)
+
 ### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/markdown)
+
+#### :sparkles: Features
+
+1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :green_heart:
 
 #### :test_tube: Tests
 
 1. test: create tests for `MarkdownLanguage` [#329](https://github.com/eslint/markdown/pull/329) :purple_heart:
+
+#### :speech_balloon: Issues
+
+1. New Rule: Suggest rules for working with natural language, similar to `textlint` [#311](https://github.com/eslint/markdown/issues/311)
+1. Bug: ESLint built-in types are not compatible with `mdast` node types [#323](https://github.com/eslint/markdown/issues/323)
+1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
+1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
+
+### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
+
+#### :speech_balloon: Issues
+
+1. Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class [#166](https://github.com/eslint/rewrite/issues/166)
+
+### [`eslint.org`](https://github.com/eslint/eslint.org) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint.org)
+
+#### :speech_balloon: Issues
+
+1. Suggestion: Add `border-radius` property to `hX:target` selectors [#662](https://github.com/eslint/eslint.org/issues/662)
 
 ## [`reactjs`](https://github.com/reactjs)
 
@@ -148,6 +181,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :bug: Bug Fixes
 
 1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
+
+#### :speech_balloon: Issues
+
+1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
 
 ## [`actions`](https://github.com/actions)
 
@@ -178,6 +215,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. refactor: improve readability of `_variables.css` [#2359](https://github.com/algolia/docsearch/pull/2359) :purple_heart:
 
+#### :speech_balloon: Issues
+
+1. Please adding a support for Next.js's soft navigation using `<Link>` component [#2364](https://github.com/algolia/docsearch/issues/2364)
+1. Bug: Text not being entered correctly in the search bar on Android (Samsung) IME [#2367](https://github.com/algolia/docsearch/issues/2367)
+
 ## [`textlint`](https://github.com/textlint)
 
 ### [`textlint`](https://github.com/textlint/textlint) ![GitHub Repo Stars](https://img.shields.io/github/stars/textlint/textlint)
@@ -199,6 +241,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: fix a typo in `standardizePronunciation.ko.mdx` [#276](https://github.com/toss/es-hangul/pull/276) :purple_heart:
 1. docs: fix typos in `introduction.ko.mdx` [#277](https://github.com/toss/es-hangul/pull/277) :purple_heart:
 1. docs: create `removeLastCharacter` documentation [#293](https://github.com/toss/es-hangul/pull/293) :purple_heart:
+
+#### :speech_balloon: Issues
+
+1. [Docs]: `removeLastCharacter` 문서 누락 [#278](https://github.com/toss/es-hangul/issues/278)
 
 ## [`material-extensions`](https://github.com/material-extensions)
 
@@ -239,6 +285,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: fix typos in `http/session/index.md` [#26048](https://github.com/mdn/translated-content/pull/26048) :purple_heart:
 
 ## [`editorconfig-checker`](https://github.com/editorconfig-checker)
+
+### [`editorconfig-checker`](https://github.com/editorconfig-checker/editorconfig-checker) ![GitHub Repo Stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker)
+
+#### :speech_balloon: Issues
+
+1. ⚠️Run fails after v3.1.0 in `editorconfig-checker.javascript` [#409](https://github.com/editorconfig-checker/editorconfig-checker/issues/409)
+1. ⚠️Error: Please support `.tar.gz` binary asset for Windows [#415](https://github.com/editorconfig-checker/editorconfig-checker/issues/415)
 
 ### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo Stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
 

@@ -2,6 +2,8 @@
  * @fileoverview Define common types.
  */
 
+/* eslint-disable @typescript-eslint/no-empty-object-type -- Required for type definitions. */
+
 // --------------------------------------------------------------------------------
 // Typedefs
 // --------------------------------------------------------------------------------
@@ -88,14 +90,18 @@ export interface Repository {
   /**
    * Role of the user in the repository.
    */
-  role: Role;
+  role?: Role;
 
   /**
    * Represents GitHub Pull Requests.
    */
   pullRequests: PullRequest[];
 
-  // issues?: Issue[];
+  /**
+   * Represents GitHub Issues.
+   */
+  issues?: Issue[];
+
   // discussions?: Discussion[];
   // pullRequestComments?: PullRequestComment[];
   // issueComments?: IssueComment[];
@@ -123,7 +129,10 @@ export interface PullRequest extends Contribution {
   releases?: string[];
 }
 
-// export interface Issue extends Contribution {}
+/**
+ * Represents a GitHub Issue.
+ */
+export interface Issue extends Contribution {}
 
 // export interface Discussion extends Contribution {}
 

@@ -263,6 +263,14 @@ export default [
         role: 'contributor',
         pullRequests: [
           {
+            number: 4168,
+            type: 'fix',
+            title:
+              'fix: incorrectly removes `package-lock.json` dependencies on `lerna version`',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 4105,
             type: 'docs',
             title: 'docs: fixed some typos',
@@ -539,17 +547,89 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 19519,
+            type: 'feat',
+            title:
+              'Change Request: Support nested configuration object types in ESLint plugin configs',
+          },
+          {
+            number: 19521,
+            type: 'feat',
+            title: 'Change Request: Support generic types for `Rule.RuleModule` type',
+          },
+          {
+            number: 19523,
+            type: 'feat',
+            title: 'Change Request: Support `name` field to `meta.docs`',
+          },
+        ],
       },
       {
         name: 'markdown',
         role: 'contributor',
         pullRequests: [
           {
+            number: 328,
+            type: 'feat',
+            title: 'feat: support front matter',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 329,
             type: 'test',
             title: 'test: create tests for `MarkdownLanguage`',
             highlight: true,
             merged: true,
+          },
+        ],
+        issues: [
+          {
+            number: 311,
+            type: 'feat',
+            title:
+              'New Rule: Suggest rules for working with natural language, similar to `textlint`',
+          },
+          {
+            number: 323,
+            type: 'fix',
+            title:
+              'Bug: ESLint built-in types are not compatible with `mdast` node types',
+          },
+          {
+            number: 325,
+            type: 'feat',
+            title: 'Change Request: Support Front Matter',
+          },
+          {
+            number: 330,
+            type: 'feat',
+            title: 'Change Request: Support `applyInlineConfig`',
+          },
+        ],
+      },
+      {
+        name: 'rewrite',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 166,
+            type: 'feat',
+            title:
+              'Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class',
+          },
+        ],
+      },
+      {
+        name: 'eslint.org',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 662,
+            type: 'feat',
+            title: 'Suggestion: Add `border-radius` property to `hX:target` selectors',
           },
         ],
       },
@@ -579,6 +659,13 @@ export default [
             highlight: true,
             merged: false,
             sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
+          },
+        ],
+        issues: [
+          {
+            number: 7399,
+            type: 'feat',
+            title: '[Suggestion]: Please Support i18n for 18.react.dev',
           },
         ],
       },
@@ -648,6 +735,20 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 2364,
+            type: 'fix',
+            title:
+              "Please adding a support for Next.js's soft navigation using `<Link>` component",
+          },
+          {
+            number: 2367,
+            type: 'fix',
+            title:
+              'Bug: Text not being entered correctly in the search bar on Android (Samsung) IME',
+          },
+        ],
       },
     ],
   },
@@ -705,6 +806,13 @@ export default [
             title: 'docs: create `removeLastCharacter` documentation',
             highlight: true,
             merged: true,
+          },
+        ],
+        issues: [
+          {
+            number: 278,
+            type: 'docs',
+            title: '[Docs]: `removeLastCharacter` 문서 누락',
           },
         ],
       },
@@ -815,6 +923,24 @@ export default [
   {
     name: 'editorconfig-checker',
     repositories: [
+      {
+        name: 'editorconfig-checker',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 409,
+            type: 'fix',
+            title: '⚠️Run fails after v3.1.0 in `editorconfig-checker.javascript`',
+            highlight: true,
+          },
+          {
+            number: 415,
+            type: 'fix',
+            title: '⚠️Error: Please support `.tar.gz` binary asset for Windows',
+            highlight: true,
+          },
+        ],
+      },
       {
         name: 'editorconfig-checker.javascript',
         role: 'contributor',

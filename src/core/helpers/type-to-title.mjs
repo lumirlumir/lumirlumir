@@ -43,6 +43,6 @@ export default function typeToTitle(type) {
     case 'test':
       return ':test_tube: Tests';
     default:
-      throw new TypeError(`Unknown type: ${type}`);
+      return ':grey_question: Unknown';
   }
 }
