@@ -9,61 +9,6 @@
 // --------------------------------------------------------------------------------
 
 /**
- * Type of the Pull Request, Issue, etc.
- */
-export type Type =
-  | 'feat'
-  | 'fix'
-  | 'build'
-  | 'chore'
-  | 'ci'
-  | 'docs'
-  | 'perf'
-  | 'refactor'
-  | 'revert'
-  | 'style'
-  | 'test';
-
-/**
- * Role of the user in the repository.
- */
-export type Role = 'contributor' | 'maintainer';
-
-// --------------------------------------------------------------------------------
-
-/**
- * Common interface for Pull Request, Issue, etc.
- */
-export interface Contribution {
-  /**
-   * Number of the Pull Request, Issue, etc.
-   */
-  number: number;
-
-  /**
-   * Type of the Pull Request, Issue, etc.
-   */
-  type: Type;
-
-  /**
-   * Title of the Pull Request, Issue, etc.
-   */
-  title: string;
-
-  /**
-   * Additional description about the Pull Request, Issue, etc.
-   */
-  description?: string;
-
-  /**
-   * Highlight the contribution.
-   */
-  highlight?: boolean;
-}
-
-// --------------------------------------------------------------------------------
-
-/**
  * Represents a GitHub organization.
  */
 export interface Organization {
@@ -90,22 +35,78 @@ export interface Repository {
   /**
    * Role of the user in the repository.
    */
-  role?: Role;
+  role?: 'contributor' | 'maintainer';
 
   /**
    * Represents GitHub Pull Requests.
    */
-  pullRequests: PullRequest[];
+  pullRequests?: PullRequest[];
 
   /**
    * Represents GitHub Issues.
    */
   issues?: Issue[];
 
-  // discussions?: Discussion[];
-  // pullRequestComments?: PullRequestComment[];
-  // issueComments?: IssueComment[];
-  // discussionComments?: DiscussionComment[];
+  /**
+   * Represents GitHub Discussions.
+   */
+  discussions?: Discussion[];
+
+  /**
+   * Represents GitHub Pull Request comments.
+   */
+  pullRequestComments?: PullRequestComment[];
+
+  /**
+   * Represents GitHub Issue comments.
+   */
+  issueComments?: IssueComment[];
+
+  /**
+   * Represents GitHub Discussion comments.
+   */
+  discussionComments?: DiscussionComment[];
+}
+
+/**
+ * Common interface for Pull Request, Issue, etc.
+ */
+export interface Contribution {
+  /**
+   * Number of the Pull Request, Issue, etc.
+   */
+  number: number;
+
+  /**
+   * Type of the Pull Request, Issue, etc.
+   */
+  type:
+    | 'feat'
+    | 'fix'
+    | 'build'
+    | 'chore'
+    | 'ci'
+    | 'docs'
+    | 'perf'
+    | 'refactor'
+    | 'revert'
+    | 'style'
+    | 'test';
+
+  /**
+   * Title of the Pull Request, Issue, etc.
+   */
+  title: string;
+
+  /**
+   * Additional description about the Pull Request, Issue, etc.
+   */
+  description?: string;
+
+  /**
+   * Highlight the contribution.
+   */
+  highlight?: boolean;
 }
 
 /**
@@ -134,10 +135,22 @@ export interface PullRequest extends Contribution {
  */
 export interface Issue extends Contribution {}
 
-// export interface Discussion extends Contribution {}
+/**
+ * Represents a GitHub Discussion.
+ */
+export interface Discussion extends Contribution {}
 
-// export interface PullRequestComment extends Contribution {}
+/**
+ * Represents a GitHub Pull Request comment.
+ */
+export interface PullRequestComment extends Contribution {}
 
-// export interface IssueComment extends Contribution {}
+/**
+ * Represents a GitHub Issue comment.
+ */
+export interface IssueComment extends Contribution {}
 
-// export interface DiscussionComment extends Contribution {}
+/**
+ * Represents a GitHub Discussion comment.
+ */
+export interface DiscussionComment extends Contribution {}
