@@ -25,11 +25,64 @@ export type Type =
   | 'test';
 
 /**
- * Role of the user in the repository.
+ * Represents a GitHub organization.
  */
-export type Role = 'contributor' | 'maintainer';
+export interface Organization {
+  /**
+   * Name of the organization.
+   */
+  name: string;
 
-// --------------------------------------------------------------------------------
+  /**
+   * Represents GitHub repositories.
+   */
+  repositories: Repository[];
+}
+
+/**
+ * Represents a GitHub repository.
+ */
+export interface Repository {
+  /**
+   * Name of the repository.
+   */
+  name: string;
+
+  /**
+   * Role of the user in the repository.
+   */
+  role?: 'contributor' | 'maintainer';
+
+  /**
+   * Represents GitHub Pull Requests.
+   */
+  pullRequests?: PullRequest[];
+
+  /**
+   * Represents GitHub Issues.
+   */
+  issues?: Issue[];
+
+  /**
+   * Represents GitHub Discussions.
+   */
+  discussions?: Discussion[];
+
+  /**
+   * Represents GitHub Pull Request comments.
+   */
+  pullRequestComments?: PullRequestComment[];
+
+  /**
+   * Represents GitHub Issue comments.
+   */
+  issueComments?: IssueComment[];
+
+  /**
+   * Represents GitHub Discussion comments.
+   */
+  discussionComments?: DiscussionComment[];
+}
 
 /**
  * Common interface for Pull Request, Issue, etc.
@@ -61,53 +114,6 @@ export interface Contribution {
   highlight?: boolean;
 }
 
-// --------------------------------------------------------------------------------
-
-/**
- * Represents a GitHub organization.
- */
-export interface Organization {
-  /**
-   * Name of the organization.
-   */
-  name: string;
-
-  /**
-   * Represents GitHub repositories.
-   */
-  repositories: Repository[];
-}
-
-/**
- * Represents a GitHub repository.
- */
-export interface Repository {
-  /**
-   * Name of the repository.
-   */
-  name: string;
-
-  /**
-   * Role of the user in the repository.
-   */
-  role?: Role;
-
-  /**
-   * Represents GitHub Pull Requests.
-   */
-  pullRequests: PullRequest[];
-
-  /**
-   * Represents GitHub Issues.
-   */
-  issues?: Issue[];
-
-  // discussions?: Discussion[];
-  // pullRequestComments?: PullRequestComment[];
-  // issueComments?: IssueComment[];
-  // discussionComments?: DiscussionComment[];
-}
-
 /**
  * Represents a GitHub Pull Request.
  */
@@ -134,10 +140,22 @@ export interface PullRequest extends Contribution {
  */
 export interface Issue extends Contribution {}
 
-// export interface Discussion extends Contribution {}
+/**
+ * Represents a GitHub Discussion.
+ */
+export interface Discussion extends Contribution {}
 
-// export interface PullRequestComment extends Contribution {}
+/**
+ * Represents a GitHub Pull Request comment.
+ */
+export interface PullRequestComment extends Contribution {}
 
-// export interface IssueComment extends Contribution {}
+/**
+ * Represents a GitHub Issue comment.
+ */
+export interface IssueComment extends Contribution {}
 
-// export interface DiscussionComment extends Contribution {}
+/**
+ * Represents a GitHub Discussion comment.
+ */
+export interface DiscussionComment extends Contribution {}
