@@ -11,7 +11,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ## Overview
 
-| Merged PRs                         | Contributed Repositories                | Contributed Organizations                |
+| Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
 | :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
 | 96 | 19 | 17 |
 

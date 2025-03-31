@@ -55,7 +55,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 
 ## Overview
 
-| Merged PRs                         | Contributed Repositories                | Contributed Organizations                |
+| Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
 | :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
 | ${ch.countAllMergedPullRequests()} | ${ch.countAllContributedRepositories()} | ${ch.countAllContributedOrganizations()} |
 
