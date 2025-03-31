@@ -70,6 +70,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo Stars](https://img.shields.io/github/stars/lerna/lerna)
 
+#### :bug: Bug Fixes
+
+1. fix: incorrectly removes `package-lock.json` dependencies on `lerna version` [#4168](https://github.com/lerna/lerna/pull/4168) :green_heart:
+
 #### :memo: Documentation
 
 1. docs: fixed some typos [#4105](https://github.com/lerna/lerna/pull/4105) :purple_heart:

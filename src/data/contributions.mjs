@@ -263,6 +263,14 @@ export default [
         role: 'contributor',
         pullRequests: [
           {
+            number: 4168,
+            type: 'fix',
+            title:
+              'fix: incorrectly removes `package-lock.json` dependencies on `lerna version`',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 4105,
             type: 'docs',
             title: 'docs: fixed some typos',
