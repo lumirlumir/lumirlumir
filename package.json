@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "packageManager": "npm@10.9.2",
   "engines": {
     "node": ">=20.18.0"
@@ -9,8 +10,8 @@
   ],
   "scripts": {
     "prepare": "husky",
-    "build": "node src/index.mjs",
-    "watch": "node --watch src/index.mjs",
+    "build": "node src/index.js",
+    "watch": "node --watch src/index.js",
     "fix": "concurrently \"npm:fix:*\"",
     "fix:eslint": "npx eslint --fix",
     "fix:prettier": "npx prettier . --write --ignore-unknown",
