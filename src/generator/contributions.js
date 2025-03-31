@@ -25,9 +25,9 @@ import organizations from '../data/contributions.js';
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../core/types.js').Organization} Organization
- * @typedef {import('../core/types.js').PullRequest} PullRequest
- * @typedef {import('../core/types.js').Issue} Issue
+ * @typedef {import('../core/types.d.ts').Organization} Organization
+ * @typedef {import('../core/types.d.ts').PullRequest} PullRequest
+ * @typedef {import('../core/types.d.ts').Issue} Issue
  */
 
 // --------------------------------------------------------------------------------
