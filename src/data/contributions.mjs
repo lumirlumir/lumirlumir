@@ -596,6 +596,18 @@ export default [
         ],
       },
       {
+        name: 'rewrite',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 166,
+            type: 'feat',
+            title:
+              'Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class',
+          },
+        ],
+      },
+      {
         name: 'eslint.org',
         pullRequests: [], // TODO: Error - Counted as a contribution.
         issues: [

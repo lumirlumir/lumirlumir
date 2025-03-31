@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 96 | 21 | 17 |
+| 96 | 22 | 17 |
 
 ## How to Read This Document
 
@@ -149,6 +149,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Bug: ESLint built-in types are not compatible with `mdast` node types [#323](https://github.com/eslint/markdown/issues/323)
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
+
+### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
+
+#### :speech_balloon: Issues
+
+1. Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class [#166](https://github.com/eslint/rewrite/issues/166)
 
 ### [`eslint.org`](https://github.com/eslint/eslint.org) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint.org)
 
