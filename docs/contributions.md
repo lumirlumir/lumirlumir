@@ -148,6 +148,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support generic types for `Rule.RuleModule` type [#19521](https://github.com/eslint/eslint/issues/19521)
 1. Change Request: Support `name` field to `meta.docs` [#19523](https://github.com/eslint/eslint/issues/19523)
 
+#### :newspaper: Pull Request Comments
+
+1. chore: Upgrade cross-spawn to 7.0.6 [#19185](https://github.com/eslint/eslint/pull/19185#issuecomment-2512056279)
+
 ### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/markdown)
 
 #### :sparkles: Features

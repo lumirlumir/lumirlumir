@@ -595,6 +595,14 @@ export default [
             title: 'Change Request: Support `name` field to `meta.docs`',
           },
         ],
+        pullRequestComments: [
+          {
+            number: 19185,
+            type: 'chore',
+            title: 'chore: Upgrade cross-spawn to 7.0.6',
+            fragment: 'issuecomment-2512056279',
+          },
+        ],
       },
       {
         name: 'markdown',

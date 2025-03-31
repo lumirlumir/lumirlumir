@@ -19,6 +19,7 @@ import {
   URL_GITHUB_ORGANIZATION,
   URL_GITHUB_REPOSITORY,
   URL_GITHUB_PULL_REQUEST,
+  URL_GITHUB_PULL_REQUEST_COMMENT,
   URL_GITHUB_ISSUE,
   URL_GITHUB_ISSUE_COMMENT,
   COMMENT_DO_NOT_EDIT,
@@ -32,6 +33,7 @@ import contributions from '../data/contributions.js';
 /**
  * @typedef {import('../core/types.d.ts').Organization} Organization
  * @typedef {import('../core/types.d.ts').PullRequest} PullRequest
+ * @typedef {import('../core/types.d.ts').PullRequestComment} PullRequestComment
  * @typedef {import('../core/types.d.ts').Issue} Issue
  * @typedef {import('../core/types.d.ts').IssueComment} IssueComment
  */
@@ -98,10 +100,10 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
       });
 
       repository?.pullRequestComments?.forEach(
-        (/** @type {Issue} */ { number, title }, idx) => {
+        (/** @type {PullRequestComment} */ { number, title, fragment }, idx) => {
           if (idx === 0) markdown += `\n#### :newspaper: Pull Request Comments\n\n`;
 
-          markdown += `1. ${title} [#${number}](${URL_GITHUB_ISSUE(organization.name, repository.name, number)})\n`;
+          markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST_COMMENT(organization.name, repository.name, number, fragment)})\n`;
         },
       );
 
