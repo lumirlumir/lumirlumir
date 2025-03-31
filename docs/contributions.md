@@ -246,6 +246,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. [Docs]: `removeLastCharacter` 문서 누락 [#278](https://github.com/toss/es-hangul/issues/278)
 
+#### :newspaper: Issue Comments
+
+1. [Feature]: 욕 마스킹 기능이 있으면 좋을 것 같아요 [#196](https://github.com/toss/es-hangul/issues/196#issuecomment-2559653065)
+
 ## [`material-extensions`](https://github.com/material-extensions)
 
 ### [`vscode-material-icon-theme`](https://github.com/material-extensions/vscode-material-icon-theme) ![GitHub Repo Stars](https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme)

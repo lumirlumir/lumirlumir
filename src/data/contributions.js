@@ -815,6 +815,14 @@ export default [
             title: '[Docs]: `removeLastCharacter` 문서 누락',
           },
         ],
+        issueComments: [
+          {
+            number: 196,
+            type: 'feat',
+            title: '[Feature]: 욕 마스킹 기능이 있으면 좋을 것 같아요',
+            fragment: 'issuecomment-2559653065',
+          },
+        ],
       },
     ],
   },
