@@ -182,6 +182,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. refactor: improve readability of `_variables.css` [#2359](https://github.com/algolia/docsearch/pull/2359) :purple_heart:
 
+#### :speech_balloon: Issues
+
+1. Please adding a support for Next.js's soft navigation using `<Link>` component [#2364](https://github.com/algolia/docsearch/issues/2364)
+1. Bug: Text not being entered correctly in the search bar on Android (Samsung) IME [#2367](https://github.com/algolia/docsearch/issues/2367)
+
 ## [`textlint`](https://github.com/textlint)
 
 ### [`textlint`](https://github.com/textlint/textlint) ![GitHub Repo Stars](https://img.shields.io/github/stars/textlint/textlint)

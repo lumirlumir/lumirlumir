@@ -655,6 +655,20 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 2364,
+            type: 'fix',
+            title:
+              "Please adding a support for Next.js's soft navigation using `<Link>` component",
+          },
+          {
+            number: 2367,
+            type: 'fix',
+            title:
+              'Bug: Text not being entered correctly in the search bar on Android (Samsung) IME',
+          },
+        ],
       },
     ],
   },
