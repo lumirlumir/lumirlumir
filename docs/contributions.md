@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 96 | 19 | 17 |
+| 96 | 20 | 17 |
 
 ## How to Read This Document
 
@@ -243,6 +243,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs: fix typos in `http/session/index.md` [#26048](https://github.com/mdn/translated-content/pull/26048) :purple_heart:
 
 ## [`editorconfig-checker`](https://github.com/editorconfig-checker)
+
+### [`editorconfig-checker`](https://github.com/editorconfig-checker/editorconfig-checker) ![GitHub Repo Stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker)
+
+#### :speech_balloon: Issues
+
+1. ⚠️Run fails after v3.1.0 in `editorconfig-checker.javascript` [#409](https://github.com/editorconfig-checker/editorconfig-checker/issues/409)
+1. ⚠️Error: Please support `.tar.gz` binary asset for Windows [#415](https://github.com/editorconfig-checker/editorconfig-checker/issues/415)
 
 ### [`editorconfig-checker.javascript`](https://github.com/editorconfig-checker/editorconfig-checker.javascript) ![GitHub Repo Stars](https://img.shields.io/github/stars/editorconfig-checker/editorconfig-checker.javascript)
 

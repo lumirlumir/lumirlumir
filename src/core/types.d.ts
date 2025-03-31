@@ -90,7 +90,7 @@ export interface Repository {
   /**
    * Role of the user in the repository.
    */
-  role: Role;
+  role?: Role;
 
   /**
    * Represents GitHub Pull Requests.

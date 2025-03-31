@@ -127,8 +127,8 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
         },
       );
 
-      repository?.issues?.forEach((/** @type {Issue} */ { number, title }) => {
-        markdown += `\n#### :speech_balloon: Issues\n\n`;
+      repository?.issues?.forEach((/** @type {Issue} */ { number, title }, idx) => {
+        if (idx === 0) markdown += `\n#### :speech_balloon: Issues\n\n`;
 
         markdown += `1. ${title} [#${number}](${URL_GITHUB_ISSUE(organization.name, repository.name, number)})\n`;
       });

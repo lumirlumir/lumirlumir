@@ -823,6 +823,24 @@ export default [
     name: 'editorconfig-checker',
     repositories: [
       {
+        name: 'editorconfig-checker',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 409,
+            type: 'fix',
+            title: '⚠️Run fails after v3.1.0 in `editorconfig-checker.javascript`',
+            highlight: true,
+          },
+          {
+            number: 415,
+            type: 'fix',
+            title: '⚠️Error: Please support `.tar.gz` binary asset for Windows',
+            highlight: true,
+          },
+        ],
+      },
+      {
         name: 'editorconfig-checker.javascript',
         role: 'contributor',
         pullRequests: [
