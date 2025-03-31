@@ -9,7 +9,7 @@
 import { writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-import { sortContributions, typeToTitle } from '../core/helpers/index.mjs';
+import { sortContributions, typeToTitle } from '../core/helpers/index.js';
 import {
   URL_GITHUB_LUMIR,
   URL_GITHUB_ORGANIZATION,
@@ -17,17 +17,17 @@ import {
   URL_GITHUB_PULL_REQUEST,
   URL_GITHUB_ISSUE,
   COMMENT_DO_NOT_EDIT,
-} from '../core/constants.mjs';
-import organizations from '../data/contributions.mjs';
+} from '../core/constants.js';
+import organizations from '../data/contributions.js';
 
 // --------------------------------------------------------------------------------
 // Typedefs
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../core/types.d.ts').Organization} Organization
- * @typedef {import('../core/types.d.ts').PullRequest} PullRequest
- * @typedef {import('../core/types.d.ts').Issue} Issue
+ * @typedef {import('../core/types.js').Organization} Organization
+ * @typedef {import('../core/types.js').PullRequest} PullRequest
+ * @typedef {import('../core/types.js').Issue} Issue
  */
 
 // --------------------------------------------------------------------------------
