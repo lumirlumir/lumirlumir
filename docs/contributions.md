@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Total Merged PRs                      | Total Contributed Repositories               | Total Contributed Organizations             |
 | :-----------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-| 96 | 20 | 17 |
+| 96 | 21 | 17 |
 
 ## How to Read This Document
 
@@ -136,6 +136,16 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :test_tube: Tests
 
 1. test: create tests for `MarkdownLanguage` [#329](https://github.com/eslint/markdown/pull/329) :purple_heart:
+
+#### :speech_balloon: Issues
+
+1. New Rule: Suggest rules for working with natural language, similar to `textlint` [#311](https://github.com/eslint/markdown/issues/311)
+
+### [`eslint.org`](https://github.com/eslint/eslint.org) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint.org)
+
+#### :speech_balloon: Issues
+
+1. Suggestion: Add `border-radius` property to `hX:target` selectors [#662](https://github.com/eslint/eslint.org/issues/662)
 
 ## [`reactjs`](https://github.com/reactjs)
 

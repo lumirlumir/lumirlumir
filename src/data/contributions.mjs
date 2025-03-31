@@ -552,6 +552,25 @@ export default [
             merged: true,
           },
         ],
+        issues: [
+          {
+            number: 311,
+            type: 'feat',
+            title:
+              'New Rule: Suggest rules for working with natural language, similar to `textlint`',
+          },
+        ],
+      },
+      {
+        name: 'eslint.org',
+        pullRequests: [], // TODO: Error - Counted as a contribution.
+        issues: [
+          {
+            number: 662,
+            type: 'feat',
+            title: 'Suggestion: Add `border-radius` property to `hX:target` selectors',
+          },
+        ],
       },
     ],
   },
