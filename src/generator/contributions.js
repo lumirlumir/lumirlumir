@@ -9,6 +9,7 @@
 import { writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
+import { GitHubRepoStars } from '../components/index.js';
 import {
   ContributionsHandler,
   sortContributions,
@@ -79,7 +80,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
     markdown += `\n## [\`${organization.name}\`](${URL_GITHUB_ORGANIZATION(organization.name)})\n`;
 
     organization.repositories.forEach(repository => {
-      markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ![GitHub Repo Stars](https://img.shields.io/github/stars/${organization.name}/${repository.name})\n`;
+      markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ${GitHubRepoStars(organization.name, repository.name)}\n`;
 
       sortContributions(repository.pullRequests).forEach(
         (
