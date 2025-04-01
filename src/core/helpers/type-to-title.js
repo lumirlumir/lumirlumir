@@ -10,6 +10,29 @@
  * @typedef {import('../../types').Type} Type
  */
 
+/**
+ * @typedef {object} Options
+ * @property {boolean} [emoji]
+ * @property {boolean} [title]
+ */
+
+// --------------------------------------------------------------------------------
+// Helpers
+// --------------------------------------------------------------------------------
+
+/** @param {string} emoji @param {string} title @param {Options} options */
+function emojiTitle(emoji, title, options = { emoji: true, title: true }) {
+  if (options.emoji && options.title) {
+    return `${emoji} ${title}`;
+  } else if (options.emoji) {
+    return emoji;
+  } else if (options.title) {
+    return title;
+  } else {
+    return '';
+  }
+}
+
 // --------------------------------------------------------------------------------
 // Export
 // --------------------------------------------------------------------------------
@@ -17,32 +40,33 @@
 /**
  * Transform `type` string to `title` string.
  * @param {Type} type
+ * @param {Options} [options]
  */
-export default function typeToTitle(type) {
+export default function typeToTitle(type, options = { emoji: true, title: true }) {
   switch (type) {
     case 'feat':
-      return ':sparkles: Features';
+      return emojiTitle(':sparkles:', 'Features', options);
     case 'fix':
-      return ':bug: Bug Fixes';
+      return emojiTitle(':bug:', 'Bug Fixes', options);
     case 'build':
-      return ':hammer_and_wrench: Builds';
+      return emojiTitle(':hammer_and_wrench:', 'Builds', options);
     case 'chore':
-      return ':toolbox: Chores';
+      return emojiTitle(':toolbox:', 'Chores', options);
     case 'ci':
-      return ':arrows_counterclockwise: Continuous Integrations';
+      return emojiTitle(':arrows_counterclockwise:', 'Continuous Integrations', options);
     case 'docs':
-      return ':memo: Documentation';
+      return emojiTitle(':memo:', 'Documentation', options);
     case 'perf':
-      return ':zap: Performance Improvements';
+      return emojiTitle(':zap:', 'Performance Improvements', options);
     case 'refactor':
-      return ':recycle: Code Refactoring';
+      return emojiTitle(':recycle:', 'Code Refactoring', options);
     case 'revert':
-      return ':rewind: Reverts';
+      return emojiTitle(':rewind:', 'Reverts', options);
     case 'style':
-      return ':art: Styles';
+      return emojiTitle(':art:', 'Styles', options);
     case 'test':
-      return ':test_tube: Tests';
+      return emojiTitle(':test_tube:', 'Tests', options);
     default:
-      return ':grey_question: Unknown';
+      return emojiTitle(':grey_question:', 'Unknown', options);
   }
 }
