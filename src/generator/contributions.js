@@ -25,7 +25,7 @@ import {
   URL_GITHUB_DISCUSSION_COMMENT,
   COMMENT_DO_NOT_EDIT,
 } from '../core/constants.js';
-import contributions from '../data/contributions.js';
+import { contributions } from '../data/index.js';
 
 // --------------------------------------------------------------------------------
 // Typedefs
