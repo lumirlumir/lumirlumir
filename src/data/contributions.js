@@ -17,6 +17,55 @@
 /** @type {Organization[]} */
 export default [
   {
+    name: 'reactjs',
+    repositories: [
+      {
+        name: 'ko.react.dev',
+        role: 'maintainer',
+        pullRequests: [
+          {
+            number: 975,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in `rss.js`',
+            merged: true,
+            highlight: true,
+          },
+        ],
+      },
+      {
+        name: 'react.dev',
+        role: 'contributor',
+        pullRequests: [
+          {
+            number: 7185,
+            type: 'feat',
+            title: '✨KOREAN(ko.react.dev) Translation Completed',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 7005,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in `rss.js`',
+            description:
+              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
+            highlight: true,
+            merged: false,
+            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
+          },
+        ],
+        issues: [
+          {
+            number: 7399,
+            type: 'feat',
+            title: '[Suggestion]: Please Support i18n for 18.react.dev',
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'vercel',
     repositories: [
       {
@@ -249,6 +298,64 @@ export default [
             type: 'docs',
             title: 'docs(typo): fix typos in `08-testing/index.mdx`',
             merged: true,
+          },
+        ],
+        issueComments: [
+          {
+            number: 71149,
+            type: 'fix',
+            title:
+              'Build: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got undefined.',
+            fragment: 'issuecomment-2413957604',
+            highlight: true,
+          },
+          {
+            number: 71085,
+            type: 'chore',
+            title: 'redux example double `use client`',
+            fragment: 'issuecomment-2406732518',
+          },
+          {
+            number: 60532,
+            type: 'fix',
+            title:
+              'App router shows (SSG) prerendered as static HTML (uses getStaticProps)',
+            fragment: 'issuecomment-2402760264',
+          },
+          {
+            number: 70960,
+            type: 'docs',
+            title:
+              'Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching ',
+            fragment: 'issuecomment-2406740761',
+          },
+        ],
+        discussionComments: [
+          {
+            number: 71096,
+            type: 'chore',
+            title:
+              'Next.js 14 Server Calling API and Passing Data to Component Interaction issue',
+            fragment: 'discussioncomment-10922723',
+          },
+          {
+            number: 71166,
+            type: 'chore',
+            title:
+              'Having a conflict between client-side/server-side components when a state-using context is involved',
+            fragment: 'discussioncomment-10922578',
+          },
+          {
+            number: 71032,
+            type: 'chore',
+            title: 'Is it possible to render plain html content in head?',
+            fragment: 'discussioncomment-10922782',
+          },
+          {
+            number: 70973,
+            type: 'chore',
+            title: 'How to call a function without making it client side?',
+            fragment: 'discussioncomment-10922834',
           },
         ],
       },
@@ -565,6 +672,14 @@ export default [
             title: 'Change Request: Support `name` field to `meta.docs`',
           },
         ],
+        pullRequestComments: [
+          {
+            number: 19185,
+            type: 'chore',
+            title: 'chore: Upgrade cross-spawn to 7.0.6',
+            fragment: 'issuecomment-2512056279',
+          },
+        ],
       },
       {
         name: 'markdown',
@@ -609,6 +724,23 @@ export default [
             title: 'Change Request: Support `applyInlineConfig`',
           },
         ],
+        pullRequestComments: [
+          {
+            number: 324,
+            type: 'fix',
+            title: 'fix: provide a language-specific definition for `RuleModule`',
+            fragment: 'discussion_r1995682169',
+          },
+        ],
+        issueComments: [
+          {
+            number: 294,
+            type: 'fix',
+            title: 'Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts',
+            fragment: 'issuecomment-2763192768',
+            highlight: true,
+          },
+        ],
       },
       {
         name: 'rewrite',
@@ -630,42 +762,6 @@ export default [
             number: 662,
             type: 'feat',
             title: 'Suggestion: Add `border-radius` property to `hX:target` selectors',
-          },
-        ],
-      },
-    ],
-  },
-
-  {
-    name: 'reactjs',
-    repositories: [
-      {
-        name: 'react.dev',
-        role: 'contributor',
-        pullRequests: [
-          {
-            number: 7185,
-            type: 'feat',
-            title: '✨KOREAN(ko.react.dev) Translation Completed',
-            highlight: true,
-            merged: true,
-          },
-          {
-            number: 7005,
-            type: 'fix',
-            title: 'fix: correct path handling for file name extraction in `rss.js`',
-            description:
-              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
-            highlight: true,
-            merged: false,
-            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
-          },
-        ],
-        issues: [
-          {
-            number: 7399,
-            type: 'feat',
-            title: '[Suggestion]: Please Support i18n for 18.react.dev',
           },
         ],
       },
@@ -777,6 +873,14 @@ export default [
             releases: ['v14.2.1'],
           },
         ],
+        issueComments: [
+          {
+            number: 1406,
+            type: 'refactor',
+            title: "Some internal modules (try-resolve@1.0.1) are 'deprecated'",
+            fragment: 'issuecomment-2375829209',
+          },
+        ],
       },
     ],
   },
@@ -813,6 +917,14 @@ export default [
             number: 278,
             type: 'docs',
             title: '[Docs]: `removeLastCharacter` 문서 누락',
+          },
+        ],
+        issueComments: [
+          {
+            number: 196,
+            type: 'feat',
+            title: '[Feature]: 욕 마스킹 기능이 있으면 좋을 것 같아요',
+            fragment: 'issuecomment-2559653065',
           },
         ],
       },
@@ -1015,6 +1127,28 @@ export default [
             number: 32,
             type: 'docs',
             title: 'docs: correct typos in `README.md` and `config_example.yaml`',
+            merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'tidory',
+    repositories: [
+      {
+        name: 'tidory.github.io',
+        description:
+          'NOTE: The original repository has been deleted. You can check the original commits in my forked repository. [fork-tidory.github.io](https://github.com/lumirlumir/fork-tidory.github.io)',
+        role: 'contributor',
+        pullRequests: [
+          {
+            number: 162,
+            type: 'docs',
+            title: 'docs(typo): typo in framework.md',
+            description:
+              '[forked-commit](https://github.com/lumirlumir/fork-tidory.github.io/commit/51300808a4abac516b201e87c9a9c58ba658d518)',
             merged: true,
           },
         ],

@@ -49,6 +49,11 @@ export interface Repository {
   name: string;
 
   /**
+   * Description for the repository.
+   */
+  description?: string;
+
+  /**
    * Role of the user in the repository.
    */
   role?: 'contributor' | 'maintainer';
@@ -115,6 +120,17 @@ export interface Contribution {
 }
 
 /**
+ * Common interface for comment.
+ */
+export interface Comment {
+  /**
+   * Hash fragment of the comment without the leading `#`.
+   * For example, `issuecomment-123456789` for issue comments.
+   */
+  fragment: string;
+}
+
+/**
  * Represents a GitHub Pull Request.
  */
 export interface PullRequest extends Contribution {
@@ -148,14 +164,14 @@ export interface Discussion extends Contribution {}
 /**
  * Represents a GitHub Pull Request comment.
  */
-export interface PullRequestComment extends Contribution {}
+export interface PullRequestComment extends Contribution, Comment {}
 
 /**
  * Represents a GitHub Issue comment.
  */
-export interface IssueComment extends Contribution {}
+export interface IssueComment extends Contribution, Comment {}
 
 /**
  * Represents a GitHub Discussion comment.
  */
-export interface DiscussionComment extends Contribution {}
+export interface DiscussionComment extends Contribution, Comment {}

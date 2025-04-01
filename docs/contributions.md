@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
 | :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| 96 | 19 | 17 |
+| 98 | 21 | 18 |
 
 ## How to Read This Document
 
@@ -23,6 +23,28 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 | :green_heart:  | Still open but meaningful  |
 
 # Details
+
+## [`reactjs`](https://github.com/reactjs)
+
+### [`ko.react.dev`](https://github.com/reactjs/ko.react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/ko.react.dev)
+
+#### :bug: Bug Fixes
+
+1. fix: correct path handling for file name extraction in `rss.js` [#975](https://github.com/reactjs/ko.react.dev/pull/975) :purple_heart:
+
+### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react.dev)
+
+#### :sparkles: Features
+
+1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
+
+#### :bug: Bug Fixes
+
+1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
+
+#### :speech_balloon: Issues
+
+1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
 
 ## [`vercel`](https://github.com/vercel)
 
@@ -65,6 +87,20 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. docs(typo): fix url to URL [#71214](https://github.com/vercel/next.js/pull/71214) :purple_heart:
 1. docs(typo): fix typos in `webpack.mdx` [#71510](https://github.com/vercel/next.js/pull/71510) :purple_heart:
 1. docs(typo): fix typos in `08-testing/index.mdx` [#72057](https://github.com/vercel/next.js/pull/72057) :purple_heart:
+
+#### :newspaper: Issue Comments
+
+1. Build: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got undefined. [#71149](https://github.com/vercel/next.js/issues/71149#issuecomment-2413957604)
+1. redux example double `use client` [#71085](https://github.com/vercel/next.js/issues/71085#issuecomment-2406732518)
+1. App router shows (SSG) prerendered as static HTML (uses getStaticProps) [#60532](https://github.com/vercel/next.js/issues/60532#issuecomment-2402760264)
+1. Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching  [#70960](https://github.com/vercel/next.js/issues/70960#issuecomment-2406740761)
+
+#### :newspaper: Discussion Comments
+
+1. Next.js 14 Server Calling API and Passing Data to Component Interaction issue [#71096](https://github.com/vercel/next.js/discussions/71096#discussioncomment-10922723)
+1. Having a conflict between client-side/server-side components when a state-using context is involved [#71166](https://github.com/vercel/next.js/discussions/71166#discussioncomment-10922578)
+1. Is it possible to render plain html content in head? [#71032](https://github.com/vercel/next.js/discussions/71032#discussioncomment-10922782)
+1. How to call a function without making it client side? [#70973](https://github.com/vercel/next.js/discussions/70973#discussioncomment-10922834)
 
 ## [`lerna`](https://github.com/lerna)
 
@@ -141,6 +177,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support generic types for `Rule.RuleModule` type [#19521](https://github.com/eslint/eslint/issues/19521)
 1. Change Request: Support `name` field to `meta.docs` [#19523](https://github.com/eslint/eslint/issues/19523)
 
+#### :newspaper: Pull Request Comments
+
+1. chore: Upgrade cross-spawn to 7.0.6 [#19185](https://github.com/eslint/eslint/pull/19185#issuecomment-2512056279)
+
 ### [`markdown`](https://github.com/eslint/markdown) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/markdown)
 
 #### :sparkles: Features
@@ -158,6 +198,14 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
 
+#### :newspaper: Pull Request Comments
+
+1. fix: provide a language-specific definition for `RuleModule` [#324](https://github.com/eslint/markdown/pull/324#discussion_r1995682169)
+
+#### :newspaper: Issue Comments
+
+1. Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts [#294](https://github.com/eslint/markdown/issues/294#issuecomment-2763192768)
+
 ### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
 
 #### :speech_balloon: Issues
@@ -169,22 +217,6 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. Suggestion: Add `border-radius` property to `hX:target` selectors [#662](https://github.com/eslint/eslint.org/issues/662)
-
-## [`reactjs`](https://github.com/reactjs)
-
-### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react.dev)
-
-#### :sparkles: Features
-
-1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
-
-#### :bug: Bug Fixes
-
-1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
-
-#### :speech_balloon: Issues
-
-1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
 
 ## [`actions`](https://github.com/actions)
 
@@ -232,6 +264,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. docs(image): make the border of get-started-steps images transparent [#1425](https://github.com/textlint/textlint/pull/1425) :purple_heart:
 
+#### :newspaper: Issue Comments
+
+1. Some internal modules (try-resolve@1.0.1) are 'deprecated' [#1406](https://github.com/textlint/textlint/issues/1406#issuecomment-2375829209)
+
 ## [`toss`](https://github.com/toss)
 
 ### [`es-hangul`](https://github.com/toss/es-hangul) ![GitHub Repo Stars](https://img.shields.io/github/stars/toss/es-hangul)
@@ -245,6 +281,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. [Docs]: `removeLastCharacter` 문서 누락 [#278](https://github.com/toss/es-hangul/issues/278)
+
+#### :newspaper: Issue Comments
+
+1. [Feature]: 욕 마스킹 기능이 있으면 좋을 것 같아요 [#196](https://github.com/toss/es-hangul/issues/196#issuecomment-2559653065)
 
 ## [`material-extensions`](https://github.com/material-extensions)
 
@@ -323,3 +363,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: correct typos in `README.md` and `config_example.yaml` [#32](https://github.com/xvzc/boj-cli/pull/32) :purple_heart:
+
+## [`tidory`](https://github.com/tidory)
+
+### [`tidory.github.io`](https://github.com/tidory/tidory.github.io) ![GitHub Repo Stars](https://img.shields.io/github/stars/tidory/tidory.github.io)
+
+#### :memo: Documentation
+
+1. docs(typo): typo in framework.md [#162](https://github.com/tidory/tidory.github.io/pull/162) :purple_heart:

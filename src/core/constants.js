@@ -18,9 +18,29 @@ export const URL_GITHUB_REPOSITORY = (organization, repository) =>
 /** @param {string} organization @param {string} repository @param {number} number */
 export const URL_GITHUB_PULL_REQUEST = (organization, repository, number) =>
   `${URL_GITHUB_REPOSITORY(organization, repository)}/pull/${number}`;
+/** @param {string} organization @param {string} repository @param {number} number @param {string} fragment */
+export const URL_GITHUB_PULL_REQUEST_COMMENT = (
+  organization,
+  repository,
+  number,
+  fragment,
+) => `${URL_GITHUB_PULL_REQUEST(organization, repository, number)}#${fragment}`;
 /** @param {string} organization @param {string} repository @param {number} number */
 export const URL_GITHUB_ISSUE = (organization, repository, number) =>
   `${URL_GITHUB_REPOSITORY(organization, repository)}/issues/${number}`;
+/** @param {string} organization @param {string} repository @param {number} number @param {string} fragment */
+export const URL_GITHUB_ISSUE_COMMENT = (organization, repository, number, fragment) =>
+  `${URL_GITHUB_ISSUE(organization, repository, number)}#${fragment}`;
+/** @param {string} organization @param {string} repository @param {number} number */
+export const URL_GITHUB_DISCUSSION = (organization, repository, number) =>
+  `${URL_GITHUB_REPOSITORY(organization, repository)}/discussions/${number}`;
+/** @param {string} organization @param {string} repository @param {number} number @param {string} fragment */
+export const URL_GITHUB_DISCUSSION_COMMENT = (
+  organization,
+  repository,
+  number,
+  fragment,
+) => `${URL_GITHUB_DISCUSSION(organization, repository, number)}#${fragment}`;
 
 /** @type {string} */
 export const COMMENT_DO_NOT_EDIT =
