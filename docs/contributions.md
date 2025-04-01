@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
 | :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| 96 | 19 | 17 |
+| 97 | 20 | 17 |
 
 ## How to Read This Document
 
@@ -23,6 +23,28 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 | :green_heart:  | Still open but meaningful  |
 
 # Details
+
+## [`reactjs`](https://github.com/reactjs)
+
+### [`ko.react.dev`](https://github.com/reactjs/ko.react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/ko.react.dev)
+
+#### :bug: Bug Fixes
+
+1. fix: correct path handling for file name extraction in `rss.js` [#975](https://github.com/reactjs/ko.react.dev/pull/975) :purple_heart:
+
+### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react.dev)
+
+#### :sparkles: Features
+
+1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
+
+#### :bug: Bug Fixes
+
+1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
+
+#### :speech_balloon: Issues
+
+1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
 
 ## [`vercel`](https://github.com/vercel)
 
@@ -188,22 +210,6 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. Suggestion: Add `border-radius` property to `hX:target` selectors [#662](https://github.com/eslint/eslint.org/issues/662)
-
-## [`reactjs`](https://github.com/reactjs)
-
-### [`react.dev`](https://github.com/reactjs/react.dev) ![GitHub Repo Stars](https://img.shields.io/github/stars/reactjs/react.dev)
-
-#### :sparkles: Features
-
-1. ✨KOREAN(ko.react.dev) Translation Completed [#7185](https://github.com/reactjs/react.dev/pull/7185) :purple_heart:
-
-#### :bug: Bug Fixes
-
-1. fix: correct path handling for file name extraction in `rss.js` [#7005](https://github.com/reactjs/react.dev/pull/7005) :green_heart:
-
-#### :speech_balloon: Issues
-
-1. [Suggestion]: Please Support i18n for 18.react.dev [#7399](https://github.com/reactjs/react.dev/issues/7399)
 
 ## [`actions`](https://github.com/actions)
 

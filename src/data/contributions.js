@@ -17,6 +17,55 @@
 /** @type {Organization[]} */
 export default [
   {
+    name: 'reactjs',
+    repositories: [
+      {
+        name: 'ko.react.dev',
+        role: 'maintainer',
+        pullRequests: [
+          {
+            number: 975,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in `rss.js`',
+            merged: true,
+            highlight: true,
+          },
+        ],
+      },
+      {
+        name: 'react.dev',
+        role: 'contributor',
+        pullRequests: [
+          {
+            number: 7185,
+            type: 'feat',
+            title: '✨KOREAN(ko.react.dev) Translation Completed',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 7005,
+            type: 'fix',
+            title: 'fix: correct path handling for file name extraction in `rss.js`',
+            description:
+              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
+            highlight: true,
+            merged: false,
+            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
+          },
+        ],
+        issues: [
+          {
+            number: 7399,
+            type: 'feat',
+            title: '[Suggestion]: Please Support i18n for 18.react.dev',
+          },
+        ],
+      },
+    ],
+  },
+
+  {
     name: 'vercel',
     repositories: [
       {
@@ -685,42 +734,6 @@ export default [
             number: 662,
             type: 'feat',
             title: 'Suggestion: Add `border-radius` property to `hX:target` selectors',
-          },
-        ],
-      },
-    ],
-  },
-
-  {
-    name: 'reactjs',
-    repositories: [
-      {
-        name: 'react.dev',
-        role: 'contributor',
-        pullRequests: [
-          {
-            number: 7185,
-            type: 'feat',
-            title: '✨KOREAN(ko.react.dev) Translation Completed',
-            highlight: true,
-            merged: true,
-          },
-          {
-            number: 7005,
-            type: 'fix',
-            title: 'fix: correct path handling for file name extraction in `rss.js`',
-            description:
-              'The changes have not yet been reflected in [reactjs/react.dev](https://github.com/reactjs/react.dev/pull/7005), but they have been properly reflected in [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/975).',
-            highlight: true,
-            merged: false,
-            sha: '607c2c9218f2a7b1cecd6d0836911249e2cad8a1',
-          },
-        ],
-        issues: [
-          {
-            number: 7399,
-            type: 'feat',
-            title: '[Suggestion]: Please Support i18n for 18.react.dev',
           },
         ],
       },
