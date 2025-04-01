@@ -49,6 +49,11 @@ export interface Repository {
   name: string;
 
   /**
+   * Description for the repository.
+   */
+  description?: string;
+
+  /**
    * Role of the user in the repository.
    */
   role?: 'contributor' | 'maintainer';

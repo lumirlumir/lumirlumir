@@ -13,7 +13,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
 | :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| 97 | 20 | 17 |
+| 98 | 21 | 18 |
 
 ## How to Read This Document
 
@@ -356,3 +356,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: correct typos in `README.md` and `config_example.yaml` [#32](https://github.com/xvzc/boj-cli/pull/32) :purple_heart:
+
+## [`tidory`](https://github.com/tidory)
+
+### [`tidory.github.io`](https://github.com/tidory/tidory.github.io) ![GitHub Repo Stars](https://img.shields.io/github/stars/tidory/tidory.github.io)
+
+#### :memo: Documentation
+
+1. docs(typo): typo in framework.md [#162](https://github.com/tidory/tidory.github.io/pull/162) :purple_heart:
