@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../core/types.d.ts').Organization} Organization
+ * @typedef {import('../types').Organization} Organization
  */
 
 // --------------------------------------------------------------------------------
@@ -333,27 +333,23 @@ export default [
         discussionComments: [
           {
             number: 71096,
-            type: 'chore',
             title:
               'Next.js 14 Server Calling API and Passing Data to Component Interaction issue',
             fragment: 'discussioncomment-10922723',
           },
           {
             number: 71166,
-            type: 'chore',
             title:
               'Having a conflict between client-side/server-side components when a state-using context is involved',
             fragment: 'discussioncomment-10922578',
           },
           {
             number: 71032,
-            type: 'chore',
             title: 'Is it possible to render plain html content in head?',
             fragment: 'discussioncomment-10922782',
           },
           {
             number: 70973,
-            type: 'chore',
             title: 'How to call a function without making it client side?',
             fragment: 'discussioncomment-10922834',
           },

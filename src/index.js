@@ -1,3 +1,3 @@
-import generateContributions from './generator/contributions.js';
+import { generateContributions } from './generator/index.js';
 
 generateContributions();
