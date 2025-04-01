@@ -11,9 +11,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ## Overview
 
-| Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
-| :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| 98 | 21 | 18 |
+### Pull Requests
+
+| Contributed Organizations                | Contributed Repositories                | Merged Pull Requests               |
+| :--------------------------------------: | :-------------------------------------: | :--------------------------------: |
+| 18 | 21 | 98 |
 
 ## How to Read This Document
 
@@ -22,7 +24,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 | :purple_heart: | Successfully merged        |
 | :green_heart:  | Still open but meaningful  |
 
-# Details
+# Pull Requests
 
 ## [`reactjs`](https://github.com/reactjs)
 

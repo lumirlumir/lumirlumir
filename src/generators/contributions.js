@@ -44,7 +44,7 @@ import {
 /**
  * Generate `contributions.md`.
  * @param {readonly Organization[]} contributions
- * @return
+ * @returns {string}
  */
 export default function generateContributions(contributions) {
   const ch = new ContributionsHandler(contributions);
@@ -59,9 +59,11 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 
 ## Overview
 
-| Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
-| :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| ${ch.countAllMergedPullRequests()} | ${ch.countAllContributedRepositories()} | ${ch.countAllContributedOrganizations()} |
+### Pull Requests
+
+| Contributed Organizations                | Contributed Repositories                | Merged Pull Requests               |
+| :--------------------------------------: | :-------------------------------------: | :--------------------------------: |
+| ${ch.countAllContributedOrganizations()} | ${ch.countAllContributedRepositories()} | ${ch.countAllMergedPullRequests()} |
 
 ## How to Read This Document
 
@@ -70,7 +72,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 | :purple_heart: | Successfully merged        |
 | :green_heart:  | Still open but meaningful  |
 
-# Details
+# Pull Requests
 `;
 
   contributions.forEach(organization => {

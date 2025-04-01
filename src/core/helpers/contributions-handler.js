@@ -10,6 +10,7 @@
  * @typedef {import('../../types').Organization} Organization
  * @typedef {import('../../types').Repository} Repository
  * @typedef {import('../../types').PullRequest} PullRequest
+ * @typedef {import('../../types').Type} Type
  */
 
 // --------------------------------------------------------------------------------
@@ -46,7 +47,7 @@ export default class ContributionsHandler {
 
   /**
    * Get all pull requests from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllPullRequests() {
     return this.getAllRepositories().flatMap(repository => repository.pullRequests);
@@ -54,15 +55,26 @@ export default class ContributionsHandler {
 
   /**
    * Get all pull requests that are merged from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllMergedPullRequests() {
     return this.getAllPullRequests().filter(pullRequest => pullRequest.merged);
   }
 
   /**
+   * Get all pull requests that are merged from all organizations and repositories by type.
+   * @param {Type} type
+   * @returns {PullRequest[]}
+   */
+  getAllMergedPullRequestsByType(type) {
+    return this.getAllMergedPullRequests().filter(
+      pullRequest => pullRequest.type === type,
+    );
+  }
+
+  /**
    * Get all pull requests that are highlighted from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllHighlightedPullRequests() {
     return this.getAllPullRequests().filter(pullRequest => pullRequest.highlight);
@@ -82,6 +94,15 @@ export default class ContributionsHandler {
    */
   countAllHighlightedPullRequests() {
     return this.getAllHighlightedPullRequests().length;
+  }
+
+  /**
+   * Count all merged pull requests from all organizations and repositories by type.
+   * @param {Type} type
+   * @returns
+   */
+  countAllMergedPullRequestsByType(type) {
+    return this.getAllMergedPullRequestsByType(type).length;
   }
 
   /**
@@ -110,7 +131,7 @@ export default class ContributionsHandler {
   // Getters and Setters
   // ------------------------------------------------------------------------------
 
-  /** @return {readonly Organization[]} */
+  /** @returns {readonly Organization[]} */
   get contributions() {
     return this.#contributions;
   }
