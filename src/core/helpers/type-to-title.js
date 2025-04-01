@@ -64,8 +64,6 @@ export default function typeToTitle(type, options = {}) {
       return emojiTitle(':zap:', 'Performance Improvements', options);
     case 'refactor':
       return emojiTitle(':recycle:', 'Code Refactoring', options);
-    case 'revert':
-      return emojiTitle(':rewind:', 'Reverts', options);
     case 'style':
       return emojiTitle(':art:', 'Styles', options);
     case 'test':
