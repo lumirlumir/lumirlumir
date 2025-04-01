@@ -10,7 +10,7 @@ import { writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 import { contributions } from './data/index.js';
-import { generateContributions } from './generator/index.js';
+import { generateContributions } from './generators/index.js';
 
 // --------------------------------------------------------------------------------
 // Helpers
