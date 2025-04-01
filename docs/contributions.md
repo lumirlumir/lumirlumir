@@ -95,6 +95,13 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. App router shows (SSG) prerendered as static HTML (uses getStaticProps) [#60532](https://github.com/vercel/next.js/issues/60532#issuecomment-2402760264)
 1. Docs: https://nextjs.org/docs/app/building-your-application/data-fetching/fetching  [#70960](https://github.com/vercel/next.js/issues/70960#issuecomment-2406740761)
 
+#### :newspaper: Discussion Comments
+
+1. Next.js 14 Server Calling API and Passing Data to Component Interaction issue [#71096](https://github.com/vercel/next.js/discussions/71096#discussioncomment-10922723)
+1. Having a conflict between client-side/server-side components when a state-using context is involved [#71166](https://github.com/vercel/next.js/discussions/71166#discussioncomment-10922578)
+1. Is it possible to render plain html content in head? [#71032](https://github.com/vercel/next.js/discussions/71032#discussioncomment-10922782)
+1. How to call a function without making it client side? [#70973](https://github.com/vercel/next.js/discussions/70973#discussioncomment-10922834)
+
 ## [`lerna`](https://github.com/lerna)
 
 ### [`lerna`](https://github.com/lerna/lerna) ![GitHub Repo Stars](https://img.shields.io/github/stars/lerna/lerna)
