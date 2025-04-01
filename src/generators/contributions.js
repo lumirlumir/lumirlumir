@@ -71,8 +71,6 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 
 # Pull Requests
 
-## How to Read Pull Requests
-
 | Emoji          | Description                |
 | -------------- | -------------------------- |
 | :purple_heart: | Successfully merged        |

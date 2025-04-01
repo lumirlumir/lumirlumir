@@ -23,8 +23,6 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 # Pull Requests
 
-## How to Read Pull Requests
-
 | Emoji          | Description                |
 | -------------- | -------------------------- |
 | :purple_heart: | Successfully merged        |
