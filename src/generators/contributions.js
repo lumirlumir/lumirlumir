@@ -66,7 +66,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 | ${ch.countAllContributedOrganizations()} | ${ch.countAllContributedRepositories()} | More than ${ch.countAllMergedPullRequests()} |
 
 | ${typeToTitle('feat', { title: false })} feat | ${typeToTitle('fix', { title: false })} fix | ${typeToTitle('build', { title: false })} build | ${typeToTitle('chore', { title: false })} chore | ${typeToTitle('ci', { title: false })} ci | ${typeToTitle('docs', { title: false })} docs | ${typeToTitle('perf', { title: false })} perf | ${typeToTitle('refactor', { title: false })} refactor | ${typeToTitle('style', { title: false })} style | ${typeToTitle('test', { title: false })} test |
-| :-------------------: | :-------------------: | :---------------------: | :----------------------: | :-----------------: | :-------------------: | :--------------------: | :---------------------: | :---------------------: | :--------------------: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ${ch.countAllMergedPullRequestsByType('feat')} | ${ch.countAllMergedPullRequestsByType('fix')} | ${ch.countAllMergedPullRequestsByType('build')} | ${ch.countAllMergedPullRequestsByType('chore')} | ${ch.countAllMergedPullRequestsByType('ci')} | ${ch.countAllMergedPullRequestsByType('docs')} | ${ch.countAllMergedPullRequestsByType('perf')} | ${ch.countAllMergedPullRequestsByType('refactor')} | ${ch.countAllMergedPullRequestsByType('style')} | ${ch.countAllMergedPullRequestsByType('test')} |
 
 # Pull Requests
