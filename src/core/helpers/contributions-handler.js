@@ -24,10 +24,10 @@ export default class ContributionsHandler {
   // Private Properties
   // ------------------------------------------------------------------------------
 
-  /** @type {Organization[]} */
+  /** @type {readonly Organization[]} */
   #contributions;
 
-  /** @param {Organization[]} contributions */
+  /** @param {readonly Organization[]} contributions */
   constructor(contributions = []) {
     this.#contributions = contributions;
   }
@@ -110,7 +110,7 @@ export default class ContributionsHandler {
   // Getters and Setters
   // ------------------------------------------------------------------------------
 
-  /** @return {Organization[]} */
+  /** @return {readonly Organization[]} */
   get contributions() {
     return this.#contributions;
   }
