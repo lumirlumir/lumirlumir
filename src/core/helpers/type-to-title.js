@@ -21,12 +21,16 @@
 // --------------------------------------------------------------------------------
 
 /** @param {string} emoji @param {string} title @param {Options} options */
-function emojiTitle(emoji, title, options = { emoji: true, title: true }) {
-  if (options.emoji && options.title) {
+function emojiTitle(
+  emoji,
+  title,
+  { emoji: emojiOpt = true, title: titleOpt = true } = {},
+) {
+  if (emojiOpt && titleOpt) {
     return `${emoji} ${title}`;
-  } else if (options.emoji) {
+  } else if (emojiOpt) {
     return emoji;
-  } else if (options.title) {
+  } else if (titleOpt) {
     return title;
   } else {
     return '';
@@ -42,7 +46,7 @@ function emojiTitle(emoji, title, options = { emoji: true, title: true }) {
  * @param {Type} type
  * @param {Options} [options]
  */
-export default function typeToTitle(type, options = { emoji: true, title: true }) {
+export default function typeToTitle(type, options = {}) {
   switch (type) {
     case 'feat':
       return emojiTitle(':sparkles:', 'Features', options);
