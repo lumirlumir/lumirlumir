@@ -31,12 +31,17 @@ export interface Organization {
   /**
    * Name of the organization.
    */
-  name: string;
+  readonly name: string;
+
+  /**
+   * Description for the organization.
+   */
+  readonly description?: string;
 
   /**
    * Represents GitHub repositories.
    */
-  repositories: Repository[];
+  readonly repositories: readonly Repository[];
 }
 
 /**
@@ -46,47 +51,47 @@ export interface Repository {
   /**
    * Name of the repository.
    */
-  name: string;
+  readonly name: string;
 
   /**
    * Description for the repository.
    */
-  description?: string;
+  readonly description?: string;
 
   /**
    * Role of the user in the repository.
    */
-  role?: 'contributor' | 'maintainer';
+  readonly role?: 'contributor' | 'maintainer';
 
   /**
    * Represents GitHub Pull Requests.
    */
-  pullRequests?: PullRequest[];
+  readonly pullRequests?: readonly PullRequest[];
 
   /**
    * Represents GitHub Issues.
    */
-  issues?: Issue[];
+  readonly issues?: readonly Issue[];
 
   /**
    * Represents GitHub Discussions.
    */
-  discussions?: Discussion[];
+  readonly discussions?: readonly Discussion[];
 
   /**
    * Represents GitHub Pull Request comments.
    */
-  pullRequestComments?: PullRequestComment[];
+  readonly pullRequestComments?: readonly PullRequestComment[];
 
   /**
    * Represents GitHub Issue comments.
    */
-  issueComments?: IssueComment[];
+  readonly issueComments?: readonly IssueComment[];
 
   /**
    * Represents GitHub Discussion comments.
    */
-  discussionComments?: DiscussionComment[];
+  readonly discussionComments?: readonly DiscussionComment[];
 }
 
 /**
@@ -96,27 +101,27 @@ export interface Contribution {
   /**
    * Number of the Pull Request, Issue, etc.
    */
-  number: number;
+  readonly number: number;
 
   /**
    * Type of the Pull Request, Issue, etc.
    */
-  type: Type;
+  readonly type?: Type;
 
   /**
    * Title of the Pull Request, Issue, etc.
    */
-  title: string;
+  readonly title: string;
 
   /**
    * Additional description about the Pull Request, Issue, etc.
    */
-  description?: string;
+  readonly description?: string;
 
   /**
    * Highlight the contribution.
    */
-  highlight?: boolean;
+  readonly highlight?: boolean;
 }
 
 /**
@@ -127,7 +132,7 @@ export interface Comment {
    * Hash fragment of the comment without the leading `#`.
    * For example, `issuecomment-123456789` for issue comments.
    */
-  fragment: string;
+  readonly fragment: string;
 }
 
 /**
@@ -135,20 +140,25 @@ export interface Comment {
  */
 export interface PullRequest extends Contribution {
   /**
+   * Type of the Pull Request. This field is required for Pull Requests.
+   */
+  readonly type: Type;
+
+  /**
    * Indicates whether the PR has been merged.
    */
-  merged: boolean;
+  readonly merged: boolean;
 
   /**
    * Commit SHA associated with the PR.
    */
-  sha?: string;
+  readonly sha?: string;
 
   /**
    * Release tag version associated with the PR.
    * Often starts with `v` and is followed by a version number.
    */
-  releases?: string[];
+  readonly releases?: readonly string[];
 }
 
 /**
