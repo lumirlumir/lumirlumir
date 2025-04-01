@@ -1,14 +1,12 @@
 /**
- * @fileoverview `contributions.md` generator.
+ * @fileoverview Generate `contributions.md`.
  */
 
 // --------------------------------------------------------------------------------
 // Import
 // --------------------------------------------------------------------------------
 
-import { writeFileSync } from 'node:fs';
-import { resolve } from 'node:path';
-
+import { GitHubRepoStars } from '../components/index.js';
 import {
   ContributionsHandler,
   sortContributions,
@@ -25,7 +23,6 @@ import {
   URL_GITHUB_DISCUSSION_COMMENT,
   COMMENT_DO_NOT_EDIT,
 } from '../core/constants.js';
-import { contributions } from '../data/index.js';
 
 // --------------------------------------------------------------------------------
 // Typedefs
@@ -41,16 +38,17 @@ import { contributions } from '../data/index.js';
  */
 
 // --------------------------------------------------------------------------------
-// Helpers
+// Export
 // --------------------------------------------------------------------------------
 
-const ch = new ContributionsHandler(contributions);
+/**
+ * Generate `contributions.md`.
+ * @param {readonly Organization[]} contributions
+ * @return
+ */
+export default function generateContributions(contributions) {
+  const ch = new ContributionsHandler(contributions);
 
-// --------------------------------------------------------------------------------
-// Scripts
-// --------------------------------------------------------------------------------
-
-export default function generateContributions() {
   let markdown = `${COMMENT_DO_NOT_EDIT}
 
 # Open Source Contribution Journey
@@ -79,7 +77,7 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
     markdown += `\n## [\`${organization.name}\`](${URL_GITHUB_ORGANIZATION(organization.name)})\n`;
 
     organization.repositories.forEach(repository => {
-      markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ![GitHub Repo Stars](https://img.shields.io/github/stars/${organization.name}/${repository.name})\n`;
+      markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ${GitHubRepoStars(organization.name, repository.name)}\n`;
 
       sortContributions(repository.pullRequests).forEach(
         (
@@ -127,5 +125,5 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
     });
   });
 
-  writeFileSync(resolve(process.cwd(), 'docs', 'contributions.md'), markdown);
+  return markdown;
 }
