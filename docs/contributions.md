@@ -17,7 +17,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 | :--------------------------------------: | :-------------------------------------: | :--------------------------------: |
 | 18 | 21 | 98 |
 
-| :sparkles: | :bug: | :hammer_and_wrench: | :toolbox: | :arrows_counterclockwise: | :memo: | :zap: | :recycle: | :art: | :test_tube: |
+| :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-------------------: | :-------------------: | :---------------------: | :----------------------: | :-----------------: | :-------------------: | :--------------------: | :---------------------: | :---------------------: | :--------------------: |
 | 7 | 10 | 0 | 15 | 0 | 64 | 0 | 0 | 1 | 1 |
 
