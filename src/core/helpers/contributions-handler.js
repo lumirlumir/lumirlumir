@@ -7,9 +7,9 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../types.d.ts').Organization} Organization
- * @typedef {import('../types.d.ts').Repository} Repository
- * @typedef {import('../types.d.ts').PullRequest} PullRequest
+ * @typedef {import('../../types').Organization} Organization
+ * @typedef {import('../../types').Repository} Repository
+ * @typedef {import('../../types').PullRequest} PullRequest
  */
 
 // --------------------------------------------------------------------------------

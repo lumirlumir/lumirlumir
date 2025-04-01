@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../core/types.d.ts').Organization} Organization
+ * @typedef {import('../types').Organization} Organization
  */
 
 // --------------------------------------------------------------------------------

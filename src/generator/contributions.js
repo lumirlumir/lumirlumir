@@ -32,12 +32,12 @@ import contributions from '../data/contributions.js';
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../core/types.d.ts').Organization} Organization
- * @typedef {import('../core/types.d.ts').PullRequest} PullRequest
- * @typedef {import('../core/types.d.ts').PullRequestComment} PullRequestComment
- * @typedef {import('../core/types.d.ts').Issue} Issue
- * @typedef {import('../core/types.d.ts').IssueComment} IssueComment
- * @typedef {import('../core/types.d.ts').DiscussionComment} DiscussionComment
+ * @typedef {import('../types').Organization} Organization
+ * @typedef {import('../types').PullRequest} PullRequest
+ * @typedef {import('../types').Issue} Issue
+ * @typedef {import('../types').PullRequestComment} PullRequestComment
+ * @typedef {import('../types').IssueComment} IssueComment
+ * @typedef {import('../types').DiscussionComment} DiscussionComment
  */
 
 // --------------------------------------------------------------------------------

@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../types.d.ts').Contribution} Contribution
+ * @typedef {import('../../types').Contribution} Contribution
  */
 
 // --------------------------------------------------------------------------------
@@ -16,7 +16,7 @@
 
 /**
  * Sort contributions by `type`.
- * @param {Contribution[]} contributions
+ * @param {readonly Contribution[]} contributions
  * @returns
  */
 export default function sortContributions(contributions) {
@@ -34,5 +34,5 @@ export default function sortContributions(contributions) {
     'test',
   ];
 
-  return contributions.sort((a, b) => order.indexOf(a.type) - order.indexOf(b.type));
+  return contributions.toSorted((a, b) => order.indexOf(a.type) - order.indexOf(b.type));
 }
