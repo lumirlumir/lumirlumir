@@ -20,7 +20,6 @@ export type Type =
   | 'docs'
   | 'perf'
   | 'refactor'
-  | 'revert'
   | 'style'
   | 'test';
 
