@@ -71,9 +71,11 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 
 ### Others
 
-| Issues Created                        | Comments Created                                                                                                            |
-| :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-| More than ${ch.getAllIssues().length} | More than ${ch.getAllPullRequestComments().length + ch.getAllIssueComments().length + ch.getAllDiscussionComments().length} |
+| Issues Created                   | Comments Created                                                                                             |
+| :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| More than ${ch.countAllIssues()} | More than ${ch.countAllPullRequestComments() + ch.countAllIssueComments() + ch.countAllDiscussionComments()} |
+
+## Highlights
 
 # Pull Requests
 

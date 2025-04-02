@@ -169,10 +169,42 @@ export default class ContributionsHandler {
   /**
    * Count all merged pull requests from all organizations and repositories by type.
    * @param {Type} type
-   * @returns
+   * @returns {number}
    */
   countAllMergedPullRequestsByType(type) {
     return this.getAllMergedPullRequestsByType(type).length;
+  }
+
+  /**
+   * Count all issues from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllIssues() {
+    return this.getAllIssues().length;
+  }
+
+  /**
+   * Count all pull request comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllPullRequestComments() {
+    return this.getAllPullRequestComments().length;
+  }
+
+  /**
+   * Count all issue comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllIssueComments() {
+    return this.getAllIssueComments().length;
+  }
+
+  /**
+   * Count all discussion comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllDiscussionComments() {
+    return this.getAllDiscussionComments().length;
   }
 
   // ------------------------------------------------------------------------------
