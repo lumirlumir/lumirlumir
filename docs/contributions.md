@@ -21,6 +21,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 7 | 10 | 0 | 15 | 0 | 64 | 0 | 0 | 1 | 1 |
 
+### Others
+
+| Issues Created                        | Comments Created                                                                                                            |
+| :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| More than 15 | More than 13 |
+
 # Pull Requests
 
 | Emoji          | Description                |

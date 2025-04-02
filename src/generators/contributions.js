@@ -69,6 +69,12 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ${ch.countAllMergedPullRequestsByType('feat')} | ${ch.countAllMergedPullRequestsByType('fix')} | ${ch.countAllMergedPullRequestsByType('build')} | ${ch.countAllMergedPullRequestsByType('chore')} | ${ch.countAllMergedPullRequestsByType('ci')} | ${ch.countAllMergedPullRequestsByType('docs')} | ${ch.countAllMergedPullRequestsByType('perf')} | ${ch.countAllMergedPullRequestsByType('refactor')} | ${ch.countAllMergedPullRequestsByType('style')} | ${ch.countAllMergedPullRequestsByType('test')} |
 
+### Others
+
+| Issues Created                        | Comments Created                                                                                                            |
+| :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| More than ${ch.getAllIssues().length} | More than ${ch.getAllPullRequestComments().length + ch.getAllIssueComments().length + ch.getAllDiscussionComments().length} |
+
 # Pull Requests
 
 | Emoji          | Description                |

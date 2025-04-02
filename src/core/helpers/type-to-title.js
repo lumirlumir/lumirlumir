@@ -69,6 +69,6 @@ export default function typeToTitle(type, options = {}) {
     case 'test':
       return emojiTitle(':test_tube:', 'Tests', options);
     default:
-      return emojiTitle(':grey_question:', 'Unknown', options);
+      return emojiTitle(':unicorn:', 'Others', options);
   }
 }
