@@ -29,7 +29,6 @@ export default function sortContributions(contributions) {
     'docs',
     'perf',
     'refactor',
-    'revert',
     'style',
     'test',
   ];

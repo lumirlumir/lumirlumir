@@ -44,7 +44,7 @@ import {
 /**
  * Generate `contributions.md`.
  * @param {readonly Organization[]} contributions
- * @return
+ * @returns {string}
  */
 export default function generateContributions(contributions) {
   const ch = new ContributionsHandler(contributions);
@@ -59,18 +59,30 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
 
 ## Overview
 
-| Merged Pull Requests               | Contributed Repositories                | Contributed Organizations                |
-| :--------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| ${ch.countAllMergedPullRequests()} | ${ch.countAllContributedRepositories()} | ${ch.countAllContributedOrganizations()} |
+### Pull Requests
 
-## How to Read This Document
+| Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
+| :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
+| ${ch.countAllContributedOrganizations()} | ${ch.countAllContributedRepositories()} | More than ${ch.countAllMergedPullRequests()} |
+
+| ${typeToTitle('feat', { title: false })} feat | ${typeToTitle('fix', { title: false })} fix | ${typeToTitle('build', { title: false })} build | ${typeToTitle('chore', { title: false })} chore | ${typeToTitle('ci', { title: false })} ci | ${typeToTitle('docs', { title: false })} docs | ${typeToTitle('perf', { title: false })} perf | ${typeToTitle('refactor', { title: false })} refactor | ${typeToTitle('style', { title: false })} style | ${typeToTitle('test', { title: false })} test |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ${ch.countAllMergedPullRequestsByType('feat')} | ${ch.countAllMergedPullRequestsByType('fix')} | ${ch.countAllMergedPullRequestsByType('build')} | ${ch.countAllMergedPullRequestsByType('chore')} | ${ch.countAllMergedPullRequestsByType('ci')} | ${ch.countAllMergedPullRequestsByType('docs')} | ${ch.countAllMergedPullRequestsByType('perf')} | ${ch.countAllMergedPullRequestsByType('refactor')} | ${ch.countAllMergedPullRequestsByType('style')} | ${ch.countAllMergedPullRequestsByType('test')} |
+
+### Others
+
+| Issues Created                   | Comments Created                                                                                             |
+| :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| More than ${ch.countAllIssues()} | More than ${ch.countAllPullRequestComments() + ch.countAllIssueComments() + ch.countAllDiscussionComments()} |
+
+## Highlights
+
+# Pull Requests
 
 | Emoji          | Description                |
 | -------------- | -------------------------- |
 | :purple_heart: | Successfully merged        |
 | :green_heart:  | Still open but meaningful  |
-
-# Details
 `;
 
   contributions.forEach(organization => {
@@ -79,19 +91,21 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
     organization.repositories.forEach(repository => {
       markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ${GitHubRepoStars(organization.name, repository.name)}\n`;
 
-      sortContributions(repository.pullRequests).forEach(
-        (
-          /** @type {PullRequest} */ { number, type, title, merged },
-          idx,
-          /** @type {PullRequest[]} */ pullRequests,
-        ) => {
-          if (idx === 0 || pullRequests[idx - 1].type !== type) {
-            markdown += `\n#### ${typeToTitle(type)}\n\n`;
-          }
+      if (repository.pullRequests !== undefined) {
+        sortContributions(repository.pullRequests).forEach(
+          (
+            /** @type {PullRequest} */ { number, type, title, merged },
+            idx,
+            /** @type {PullRequest[]} */ pullRequests,
+          ) => {
+            if (idx === 0 || pullRequests[idx - 1].type !== type) {
+              markdown += `\n#### ${typeToTitle(type)}\n\n`;
+            }
 
-          markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST(organization.name, repository.name, number)}) ${merged ? ':purple_heart:' : ':green_heart:'}\n`;
-        },
-      );
+            markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST(organization.name, repository.name, number)}) ${merged ? ':purple_heart:' : ':green_heart:'}\n`;
+          },
+        );
+      }
 
       repository?.issues?.forEach((/** @type {Issue} */ { number, title }, idx) => {
         if (idx === 0) markdown += `\n#### :speech_balloon: Issues\n\n`;
