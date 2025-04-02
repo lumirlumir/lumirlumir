@@ -740,7 +740,6 @@ export default [
       },
       {
         name: 'rewrite',
-        pullRequests: [], // TODO: Error - Counted as a contribution.
         issues: [
           {
             number: 166,
@@ -752,7 +751,6 @@ export default [
       },
       {
         name: 'eslint.org',
-        pullRequests: [], // TODO: Error - Counted as a contribution.
         issues: [
           {
             number: 662,
@@ -1033,7 +1031,6 @@ export default [
     repositories: [
       {
         name: 'editorconfig-checker',
-        pullRequests: [], // TODO: Error - Counted as a contribution.
         issues: [
           {
             number: 409,

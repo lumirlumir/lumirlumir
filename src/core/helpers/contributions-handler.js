@@ -10,6 +10,11 @@
  * @typedef {import('../../types').Organization} Organization
  * @typedef {import('../../types').Repository} Repository
  * @typedef {import('../../types').PullRequest} PullRequest
+ * @typedef {import('../../types').Issue} Issue
+ * @typedef {import('../../types').PullRequestComment} PullRequestComment
+ * @typedef {import('../../types').IssueComment} IssueComment
+ * @typedef {import('../../types').DiscussionComment} DiscussionComment
+ * @typedef {import('../../types').Type} Type
  */
 
 // --------------------------------------------------------------------------------
@@ -46,26 +51,103 @@ export default class ContributionsHandler {
 
   /**
    * Get all pull requests from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllPullRequests() {
-    return this.getAllRepositories().flatMap(repository => repository.pullRequests);
+    return this.getAllRepositories().flatMap(
+      repository => repository?.pullRequests ?? [],
+    );
   }
 
   /**
+   * Get all issues from all organizations and repositories.
+   * @returns {Issue[]}
+   */
+  getAllIssues() {
+    return this.getAllRepositories().flatMap(repository => repository?.issues ?? []); // Handle `undefined`.
+  }
+
+  /**
+   * Get all pull request comments from all organizations and repositories.
+   * @returns {PullRequestComment[]}
+   */
+  getAllPullRequestComments() {
+    return this.getAllRepositories().flatMap(
+      repository => repository?.pullRequestComments ?? [],
+    );
+  }
+
+  /**
+   * Get all issue comments from all organizations and repositories.
+   * @returns {IssueComment[]}
+   */
+  getAllIssueComments() {
+    return this.getAllRepositories().flatMap(
+      repository => repository?.issueComments ?? [],
+    );
+  }
+
+  /**
+   * Get all discussion comments from all organizations and repositories.
+   * @returns {DiscussionComment[]}
+   */
+  getAllDiscussionComments() {
+    return this.getAllRepositories().flatMap(
+      repository => repository?.discussionComments ?? [],
+    );
+  }
+
+  // ------------------------------------------------------------------------------
+
+  /**
    * Get all pull requests that are merged from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllMergedPullRequests() {
     return this.getAllPullRequests().filter(pullRequest => pullRequest.merged);
   }
 
   /**
+   * Get all pull requests that are merged from all organizations and repositories by type.
+   * @param {Type} type
+   * @returns {PullRequest[]}
+   */
+  getAllMergedPullRequestsByType(type) {
+    return this.getAllMergedPullRequests().filter(
+      pullRequest => pullRequest.type === type,
+    );
+  }
+
+  /**
    * Get all pull requests that are highlighted from all organizations and repositories.
-   * @return {PullRequest[]}
+   * @returns {PullRequest[]}
    */
   getAllHighlightedPullRequests() {
-    return this.getAllPullRequests().filter(pullRequest => pullRequest.highlight);
+    return this.getAllPullRequests().filter(pullRequest => pullRequest?.highlight);
+  }
+
+  // ------------------------------------------------------------------------------
+
+  /**
+   * Count all contributed organizations.
+   * @returns {number}
+   */
+  countAllContributedOrganizations() {
+    return this.#contributions.filter(organization =>
+      organization.repositories.some(repository =>
+        repository?.pullRequests?.some(pullRequest => pullRequest.merged),
+      ),
+    ).length;
+  }
+
+  /**
+   * Count all contributed repositories from all organizations.
+   * @returns {number}
+   */
+  countAllContributedRepositories() {
+    return this.getAllRepositories().filter(repository =>
+      repository?.pullRequests?.some(pullRequest => pullRequest.merged),
+    ).length;
   }
 
   /**
@@ -85,32 +167,51 @@ export default class ContributionsHandler {
   }
 
   /**
-   * Count all contributed repositories from all organizations.
+   * Count all merged pull requests from all organizations and repositories by type.
+   * @param {Type} type
    * @returns {number}
    */
-  countAllContributedRepositories() {
-    return this.getAllRepositories().filter(repository =>
-      repository?.pullRequests?.some(pullRequest => pullRequest.merged),
-    ).length;
+  countAllMergedPullRequestsByType(type) {
+    return this.getAllMergedPullRequestsByType(type).length;
   }
 
   /**
-   * Count all contributed organizations.
+   * Count all issues from all organizations and repositories.
    * @returns {number}
    */
-  countAllContributedOrganizations() {
-    return this.#contributions.filter(organization =>
-      organization.repositories.some(repository =>
-        repository?.pullRequests?.some(pullRequest => pullRequest.merged),
-      ),
-    ).length;
+  countAllIssues() {
+    return this.getAllIssues().length;
+  }
+
+  /**
+   * Count all pull request comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllPullRequestComments() {
+    return this.getAllPullRequestComments().length;
+  }
+
+  /**
+   * Count all issue comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllIssueComments() {
+    return this.getAllIssueComments().length;
+  }
+
+  /**
+   * Count all discussion comments from all organizations and repositories.
+   * @returns {number}
+   */
+  countAllDiscussionComments() {
+    return this.getAllDiscussionComments().length;
   }
 
   // ------------------------------------------------------------------------------
   // Getters and Setters
   // ------------------------------------------------------------------------------
 
-  /** @return {readonly Organization[]} */
+  /** @returns {readonly Organization[]} */
   get contributions() {
     return this.#contributions;
   }
