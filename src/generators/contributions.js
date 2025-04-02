@@ -89,19 +89,21 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
     organization.repositories.forEach(repository => {
       markdown += `\n### [\`${repository.name}\`](${URL_GITHUB_REPOSITORY(organization.name, repository.name)}) ${GitHubRepoStars(organization.name, repository.name)}\n`;
 
-      sortContributions(repository.pullRequests).forEach(
-        (
-          /** @type {PullRequest} */ { number, type, title, merged },
-          idx,
-          /** @type {PullRequest[]} */ pullRequests,
-        ) => {
-          if (idx === 0 || pullRequests[idx - 1].type !== type) {
-            markdown += `\n#### ${typeToTitle(type)}\n\n`;
-          }
+      if (repository.pullRequests !== undefined) {
+        sortContributions(repository.pullRequests).forEach(
+          (
+            /** @type {PullRequest} */ { number, type, title, merged },
+            idx,
+            /** @type {PullRequest[]} */ pullRequests,
+          ) => {
+            if (idx === 0 || pullRequests[idx - 1].type !== type) {
+              markdown += `\n#### ${typeToTitle(type)}\n\n`;
+            }
 
-          markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST(organization.name, repository.name, number)}) ${merged ? ':purple_heart:' : ':green_heart:'}\n`;
-        },
-      );
+            markdown += `1. ${title} [#${number}](${URL_GITHUB_PULL_REQUEST(organization.name, repository.name, number)}) ${merged ? ':purple_heart:' : ':green_heart:'}\n`;
+          },
+        );
+      }
 
       repository?.issues?.forEach((/** @type {Issue} */ { number, title }, idx) => {
         if (idx === 0) markdown += `\n#### :speech_balloon: Issues\n\n`;
