@@ -25,7 +25,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 15 | More than 13 |
+| More than 17 | More than 13 |
 
 ## Highlights
 
@@ -198,6 +198,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :sparkles: Features
 
 1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :green_heart:
+1. feat: support `applyInlineConfig` [#332](https://github.com/eslint/markdown/pull/332) :green_heart:
+1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :green_heart:
+
+#### :bug: Bug Fixes
+
+1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :green_heart:
 
 #### :test_tube: Tests
 
@@ -209,6 +215,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Bug: ESLint built-in types are not compatible with `mdast` node types [#323](https://github.com/eslint/markdown/issues/323)
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
+1. Change Request: Support Math [#331](https://github.com/eslint/markdown/issues/331)
 
 #### :newspaper: Pull Request Comments
 
@@ -223,6 +230,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class [#166](https://github.com/eslint/rewrite/issues/166)
+1. Change Request: Support `getParent`, `getAncestors`, `getText` and `lines` as a optional values for `SourceCodeBase` interface [#175](https://github.com/eslint/rewrite/issues/175)
 
 ### [`eslint.org`](https://github.com/eslint/eslint.org) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint.org)
 

@@ -689,6 +689,27 @@ export default [
             merged: false,
           },
           {
+            number: 332,
+            type: 'feat',
+            title: 'feat: support `applyInlineConfig`',
+            highlight: true,
+            merged: false,
+          },
+          {
+            number: 334,
+            type: 'feat',
+            title: 'feat: add missing `mdast` types to `MarkdownRuleVisitor`',
+            highlight: true,
+            merged: false,
+          },
+          {
+            number: 336,
+            type: 'fix',
+            title: 'fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode`',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 329,
             type: 'test',
             title: 'test: create tests for `MarkdownLanguage`',
@@ -719,6 +740,11 @@ export default [
             type: 'feat',
             title: 'Change Request: Support `applyInlineConfig`',
           },
+          {
+            number: 331,
+            type: 'feat',
+            title: 'Change Request: Support Math',
+          },
         ],
         pullRequestComments: [
           {
@@ -746,6 +772,12 @@ export default [
             type: 'feat',
             title:
               'Change Request: Support `getLocFromIndex()` and `getIndexFromLoc()` methods for `TextSourceCodeBase` class',
+          },
+          {
+            number: 175,
+            type: 'fix',
+            title:
+              'Change Request: Support `getParent`, `getAncestors`, `getText` and `lines` as a optional values for `SourceCodeBase` interface',
           },
         ],
       },
