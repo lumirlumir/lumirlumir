@@ -15,17 +15,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 21 | More than 98 |
+| 18 | 21 | More than 99 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 7 | 10 | 0 | 15 | 0 | 64 | 0 | 0 | 1 | 1 |
+| 8 | 10 | 0 | 15 | 0 | 64 | 0 | 0 | 1 | 1 |
 
 ### Others
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 17 | More than 13 |
+| More than 19 | More than 13 |
 
 ## Highlights
 
@@ -140,6 +140,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 ### [`eslint`](https://github.com/eslint/eslint) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint)
 
+#### :sparkles: Features
+
+1. feat: support `JSRuleDefinition` type [#19604](https://github.com/eslint/eslint/pull/19604) :green_heart:
+
 #### :toolbox: Chores
 
 1. chore: add `repository.directory` property to `package.json` [#19165](https://github.com/eslint/eslint/pull/19165) :purple_heart:
@@ -197,13 +201,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 #### :sparkles: Features
 
-1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :green_heart:
+1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :purple_heart:
 1. feat: support `applyInlineConfig` [#332](https://github.com/eslint/markdown/pull/332) :green_heart:
 1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :green_heart:
 
 #### :bug: Bug Fixes
 
 1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :green_heart:
+
+#### :memo: Documentation
+
+1. docs: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :green_heart:
 
 #### :test_tube: Tests
 
@@ -237,6 +245,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :speech_balloon: Issues
 
 1. Suggestion: Add `border-radius` property to `hX:target` selectors [#662](https://github.com/eslint/eslint.org/issues/662)
+
+### [`json`](https://github.com/eslint/json) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/json)
+
+#### :test_tube: Tests
+
+1. test: create tests for `JSONRuleDefinition` [#92](https://github.com/eslint/json/pull/92) :green_heart:
 
 ## [`actions`](https://github.com/actions)
 
@@ -391,3 +405,19 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs(typo): typo in framework.md [#162](https://github.com/tidory/tidory.github.io/pull/162) :purple_heart:
+
+## [`prettier`](https://github.com/prettier)
+
+### [`prettier`](https://github.com/prettier/prettier) ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/prettier)
+
+#### :speech_balloon: Issues
+
+1. `v3.5.0` is a BREAKING CHANGE [#17094](https://github.com/prettier/prettier/issues/17094)
+
+## [`vuejs`](https://github.com/vuejs)
+
+### [`vitepress`](https://github.com/vuejs/vitepress) ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vitepress)
+
+#### :speech_balloon: Issues
+
+1. Feature: Add Google Analytics Meta Tags Generating Function [#4526](https://github.com/vuejs/vitepress/issues/4526)

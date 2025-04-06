@@ -424,6 +424,13 @@ export default [
         role: 'contributor',
         pullRequests: [
           {
+            number: 19604,
+            type: 'feat',
+            title: 'feat: support `JSRuleDefinition` type',
+            highlight: true,
+            merged: false,
+          },
+          {
             number: 19165,
             type: 'chore',
             title: 'chore: add `repository.directory` property to `package.json`',
@@ -686,7 +693,7 @@ export default [
             type: 'feat',
             title: 'feat: support front matter',
             highlight: true,
-            merged: false,
+            merged: true,
           },
           {
             number: 332,
@@ -715,6 +722,12 @@ export default [
             title: 'test: create tests for `MarkdownLanguage`',
             highlight: true,
             merged: true,
+          },
+          {
+            number: 337,
+            type: 'docs',
+            title: 'docs: create `PULL_REQUEST_TEMPLATE.md`',
+            merged: false,
           },
         ],
         issues: [
@@ -788,6 +801,18 @@ export default [
             number: 662,
             type: 'feat',
             title: 'Suggestion: Add `border-radius` property to `hX:target` selectors',
+          },
+        ],
+      },
+      {
+        name: 'json',
+        pullRequests: [
+          {
+            number: 92,
+            type: 'test',
+            title: 'test: create tests for `JSONRuleDefinition`',
+            highlight: true,
+            merged: false,
           },
         ],
       },
@@ -1175,6 +1200,41 @@ export default [
             description:
               '[forked-commit](https://github.com/lumirlumir/fork-tidory.github.io/commit/51300808a4abac516b201e87c9a9c58ba658d518)',
             merged: true,
+          },
+        ],
+      },
+    ],
+  },
+
+  // ------------------------------------------------------------------------------
+  // Only Issues
+  // ------------------------------------------------------------------------------
+
+  {
+    name: 'prettier',
+    repositories: [
+      {
+        name: 'prettier',
+        issues: [
+          {
+            number: 17094,
+            title: '`v3.5.0` is a BREAKING CHANGE',
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    name: 'vuejs',
+    repositories: [
+      {
+        name: 'vitepress',
+        issues: [
+          {
+            number: 4526,
+            type: 'feat',
+            title: 'Feature: Add Google Analytics Meta Tags Generating Function',
           },
         ],
       },
