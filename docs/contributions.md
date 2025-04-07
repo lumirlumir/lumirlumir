@@ -15,11 +15,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 21 | More than 99 |
+| 18 | 21 | More than 101 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 8 | 10 | 0 | 15 | 0 | 64 | 0 | 0 | 1 | 1 |
+| 9 | 10 | 0 | 16 | 0 | 64 | 0 | 0 | 1 | 1 |
 
 ### Others
 
@@ -202,16 +202,16 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :sparkles: Features
 
 1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :purple_heart:
-1. feat: support `applyInlineConfig` [#332](https://github.com/eslint/markdown/pull/332) :green_heart:
+1. feat: support `applyInlineConfig` [#332](https://github.com/eslint/markdown/pull/332) :purple_heart:
 1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :green_heart:
 
 #### :bug: Bug Fixes
 
 1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :green_heart:
 
-#### :memo: Documentation
+#### :toolbox: Chores
 
-1. docs: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :green_heart:
+1. chore: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :purple_heart:
 
 #### :test_tube: Tests
 
