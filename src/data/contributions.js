@@ -700,7 +700,7 @@ export default [
             type: 'feat',
             title: 'feat: support `applyInlineConfig`',
             highlight: true,
-            merged: false,
+            merged: true,
           },
           {
             number: 334,
@@ -725,9 +725,9 @@ export default [
           },
           {
             number: 337,
-            type: 'docs',
-            title: 'docs: create `PULL_REQUEST_TEMPLATE.md`',
-            merged: false,
+            type: 'chore',
+            title: 'chore: create `PULL_REQUEST_TEMPLATE.md`',
+            merged: true,
           },
         ],
         issues: [
