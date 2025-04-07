@@ -24,7 +24,7 @@
     "@types/node": "^22.14.0",
     "concurrently": "^9.1.0",
     "editorconfig-checker": "^6.0.1",
-    "eslint": "^9.23.0",
+    "eslint": "^9.24.0",
     "eslint-config-bananass": "^0.0.7",
     "eslint-plugin-mark": "^0.1.0-canary.1",
     "husky": "^9.1.7",
@@ -34,6 +34,6 @@
     "prettier-config-bananass": "^0.0.1",
     "textlint": "^14.6.0",
     "textlint-rule-allowed-uris": "^1.0.9",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   }
 }
