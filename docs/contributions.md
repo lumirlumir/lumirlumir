@@ -15,17 +15,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 21 | More than 101 |
+| 18 | 22 | More than 104 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 9 | 10 | 0 | 16 | 0 | 64 | 0 | 0 | 1 | 1 |
+| 10 | 11 | 0 | 16 | 0 | 64 | 0 | 0 | 1 | 2 |
 
 ### Others
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 19 | More than 13 |
+| More than 22 | More than 14 |
 
 ## Highlights
 
@@ -142,7 +142,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 #### :sparkles: Features
 
-1. feat: support `JSRuleDefinition` type [#19604](https://github.com/eslint/eslint/pull/19604) :green_heart:
+1. feat: support `JSRuleDefinition` type [#19604](https://github.com/eslint/eslint/pull/19604) :purple_heart:
 
 #### :toolbox: Chores
 
@@ -202,12 +202,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :sparkles: Features
 
 1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :purple_heart:
-1. feat: support `applyInlineConfig` [#332](https://github.com/eslint/markdown/pull/332) :purple_heart:
+1. feat: support `eslint` config comments [#332](https://github.com/eslint/markdown/pull/332) :purple_heart:
 1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :green_heart:
 
 #### :bug: Bug Fixes
 
-1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :green_heart:
+1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :purple_heart:
 
 #### :toolbox: Chores
 
@@ -224,6 +224,9 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
 1. Change Request: Support Math [#331](https://github.com/eslint/markdown/issues/331)
+1. Rule Change: Support `language` and `dialects` to `meta` [#339](https://github.com/eslint/markdown/issues/339)
+1. Change Request: Add more methods to `MarkdownSourceCode` class [#340](https://github.com/eslint/markdown/issues/340)
+1. Change Request: Narrowing the type in `MarkdownSourceCode` [#341](https://github.com/eslint/markdown/issues/341)
 
 #### :newspaper: Pull Request Comments
 
@@ -250,7 +253,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 #### :test_tube: Tests
 
-1. test: create tests for `JSONRuleDefinition` [#92](https://github.com/eslint/json/pull/92) :green_heart:
+1. test: create tests for `JSONRuleDefinition` [#92](https://github.com/eslint/json/pull/92) :purple_heart:
 
 ## [`actions`](https://github.com/actions)
 
@@ -267,6 +270,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: add missing backticks to `introduction-to-nodejs.md` [#7539](https://github.com/nodejs/nodejs.org/pull/7539) :purple_heart:
+
+### [`node`](https://github.com/nodejs/node) ![GitHub Repo Stars](https://img.shields.io/github/stars/nodejs/node)
+
+#### :newspaper: Pull Request Comments
+
+1. tools: update clang-format to v19 [#55201](https://github.com/nodejs/node/pull/55201#issuecomment-2431553348)
 
 ## [`algolia`](https://github.com/algolia)
 
