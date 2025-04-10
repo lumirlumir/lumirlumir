@@ -25,7 +25,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 22 | More than 13 |
+| More than 22 | More than 14 |
 
 ## Highlights
 
@@ -270,6 +270,12 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :memo: Documentation
 
 1. docs: add missing backticks to `introduction-to-nodejs.md` [#7539](https://github.com/nodejs/nodejs.org/pull/7539) :purple_heart:
+
+### [`node`](https://github.com/nodejs/node) ![GitHub Repo Stars](https://img.shields.io/github/stars/nodejs/node)
+
+#### :newspaper: Pull Request Comments
+
+1. tools: update clang-format to v19 [#55201](https://github.com/nodejs/node/pull/55201#issuecomment-2431553348)
 
 ## [`algolia`](https://github.com/algolia)
 

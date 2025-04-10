@@ -871,6 +871,17 @@ export default [
           },
         ],
       },
+      {
+        name: 'node',
+        pullRequestComments: [
+          {
+            number: 55201,
+            title: 'tools: update clang-format to v19',
+            highlight: true,
+            fragment: 'issuecomment-2431553348',
+          },
+        ],
+      },
     ],
   },
 
