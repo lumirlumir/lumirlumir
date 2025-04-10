@@ -25,7 +25,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 19 | More than 13 |
+| More than 21 | More than 13 |
 
 ## Highlights
 
@@ -224,6 +224,8 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Front Matter [#325](https://github.com/eslint/markdown/issues/325)
 1. Change Request: Support `applyInlineConfig` [#330](https://github.com/eslint/markdown/issues/330)
 1. Change Request: Support Math [#331](https://github.com/eslint/markdown/issues/331)
+1. Rule Change: Support `language` and `dialects` to `meta` [#339](https://github.com/eslint/markdown/issues/339)
+1. Change Request: Add more methods to `MarkdownSourceCode` class [#340](https://github.com/eslint/markdown/issues/340)
 
 #### :newspaper: Pull Request Comments
 

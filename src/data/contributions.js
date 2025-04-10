@@ -762,6 +762,16 @@ export default [
             type: 'feat',
             title: 'Change Request: Support Math',
           },
+          {
+            number: 339,
+            type: 'refactor',
+            title: 'Rule Change: Support `language` and `dialects` to `meta`',
+          },
+          {
+            number: 340,
+            type: 'feat',
+            title: 'Change Request: Add more methods to `MarkdownSourceCode` class',
+          },
         ],
         pullRequestComments: [
           {
