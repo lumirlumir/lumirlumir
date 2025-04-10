@@ -772,6 +772,11 @@ export default [
             type: 'feat',
             title: 'Change Request: Add more methods to `MarkdownSourceCode` class',
           },
+          {
+            number: 341,
+            type: 'feat',
+            title: 'Change Request: Narrowing the type in `MarkdownSourceCode`',
+          },
         ],
         pullRequestComments: [
           {

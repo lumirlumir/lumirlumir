@@ -25,7 +25,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 21 | More than 13 |
+| More than 22 | More than 13 |
 
 ## Highlights
 
@@ -226,6 +226,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 1. Change Request: Support Math [#331](https://github.com/eslint/markdown/issues/331)
 1. Rule Change: Support `language` and `dialects` to `meta` [#339](https://github.com/eslint/markdown/issues/339)
 1. Change Request: Add more methods to `MarkdownSourceCode` class [#340](https://github.com/eslint/markdown/issues/340)
+1. Change Request: Narrowing the type in `MarkdownSourceCode` [#341](https://github.com/eslint/markdown/issues/341)
 
 #### :newspaper: Pull Request Comments
 
