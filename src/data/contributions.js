@@ -733,6 +733,12 @@ export default [
             title: 'chore: create `PULL_REQUEST_TEMPLATE.md`',
             merged: true,
           },
+          {
+            number: 342,
+            type: 'docs',
+            title: 'docs: fix inaccurate description in `no-html.md`',
+            merged: true,
+          },
         ],
         issues: [
           {

@@ -15,11 +15,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 22 | More than 104 |
+| 18 | 22 | More than 105 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10 | 11 | 0 | 16 | 0 | 64 | 0 | 0 | 1 | 2 |
+| 10 | 11 | 0 | 16 | 0 | 65 | 0 | 0 | 1 | 2 |
 
 ### Others
 
@@ -212,6 +212,10 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :toolbox: Chores
 
 1. chore: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :purple_heart:
+
+#### :memo: Documentation
+
+1. docs: fix inaccurate description in `no-html.md` [#342](https://github.com/eslint/markdown/pull/342) :purple_heart:
 
 #### :test_tube: Tests
 
