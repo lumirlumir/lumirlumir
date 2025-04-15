@@ -709,6 +709,7 @@ export default [
             number: 334,
             type: 'feat',
             title: 'feat: add missing `mdast` types to `MarkdownRuleVisitor`',
+            description: 'contributor pool',
             highlight: true,
             merged: false,
           },
