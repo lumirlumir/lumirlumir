@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../../types').Type} Type
+ * @typedef {import('../../types/index.d.ts').Type} Type
  */
 
 /**
