@@ -7,7 +7,7 @@
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../types').Organization} Organization
+ * @typedef {import('../types/index.d.ts').Organization} Organization
  */
 
 // --------------------------------------------------------------------------------
@@ -709,6 +709,7 @@ export default [
             number: 334,
             type: 'feat',
             title: 'feat: add missing `mdast` types to `MarkdownRuleVisitor`',
+            description: 'contributor pool',
             highlight: true,
             merged: false,
           },
