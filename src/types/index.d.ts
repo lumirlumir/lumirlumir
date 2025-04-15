@@ -1,1 +1,1 @@
-export * from './contributions';
+export * from './contributions.d.ts';

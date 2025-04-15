@@ -29,12 +29,12 @@ import {
 // --------------------------------------------------------------------------------
 
 /**
- * @typedef {import('../types').Organization} Organization
- * @typedef {import('../types').PullRequest} PullRequest
- * @typedef {import('../types').Issue} Issue
- * @typedef {import('../types').PullRequestComment} PullRequestComment
- * @typedef {import('../types').IssueComment} IssueComment
- * @typedef {import('../types').DiscussionComment} DiscussionComment
+ * @typedef {import('../types/index.d.ts').Organization} Organization
+ * @typedef {import('../types/index.d.ts').PullRequest} PullRequest
+ * @typedef {import('../types/index.d.ts').Issue} Issue
+ * @typedef {import('../types/index.d.ts').PullRequestComment} PullRequestComment
+ * @typedef {import('../types/index.d.ts').IssueComment} IssueComment
+ * @typedef {import('../types/index.d.ts').DiscussionComment} DiscussionComment
  */
 
 // --------------------------------------------------------------------------------
