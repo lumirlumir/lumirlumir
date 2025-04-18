@@ -214,6 +214,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. chore: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :purple_heart:
 1. chore: add eslint fix command for Markdown files in lint-staged [#343](https://github.com/eslint/markdown/pull/343) :purple_heart:
+1. chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest [#345](https://github.com/eslint/markdown/pull/345) :green_heart:
 
 #### :memo: Documentation
 
@@ -241,7 +242,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :newspaper: Issue Comments
 
 1. Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts [#294](https://github.com/eslint/markdown/issues/294#issuecomment-2763192768)
-1. Bug: False positive with no-missing-label-refs on checkboxes [#335](https://github.com/eslint/markdown/issues/335##issuecomment-2804399639)
+1. Bug: False positive with no-missing-label-refs on checkboxes [#335](https://github.com/eslint/markdown/issues/335#issuecomment-2804399639)
 
 ### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
 

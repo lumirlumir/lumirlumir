@@ -755,6 +755,12 @@ export default [
             highlight: true,
             merged: true,
           },
+          {
+            number: 345,
+            type: 'chore',
+            title: 'chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest',
+            merged: false,
+          },
         ],
         issues: [
           {
@@ -819,7 +825,7 @@ export default [
           {
             number: 335,
             title: 'Bug: False positive with no-missing-label-refs on checkboxes',
-            fragment: '#issuecomment-2804399639',
+            fragment: 'issuecomment-2804399639',
           },
         ],
       },
