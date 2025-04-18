@@ -711,7 +711,7 @@ export default [
             title: 'feat: add missing `mdast` types to `MarkdownRuleVisitor`',
             description: 'contributor pool',
             highlight: true,
-            merged: false,
+            merged: true,
           },
           {
             number: 336,
@@ -739,6 +739,27 @@ export default [
             type: 'docs',
             title: 'docs: fix inaccurate description in `no-html.md`',
             merged: true,
+          },
+          {
+            number: 343,
+            type: 'chore',
+            title: 'chore: add eslint fix command for Markdown files in lint-staged',
+            merged: true,
+          },
+          {
+            number: 344,
+            type: 'fix',
+            title:
+              'fix: enhance fenced code language rule to support tilde as a delimiter',
+            description: 'contributor pool',
+            highlight: true,
+            merged: true,
+          },
+          {
+            number: 345,
+            type: 'chore',
+            title: 'chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest',
+            merged: false,
           },
         ],
         issues: [
@@ -800,6 +821,11 @@ export default [
             title: 'Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts',
             fragment: 'issuecomment-2763192768',
             highlight: true,
+          },
+          {
+            number: 335,
+            title: 'Bug: False positive with no-missing-label-refs on checkboxes',
+            fragment: 'issuecomment-2804399639',
           },
         ],
       },

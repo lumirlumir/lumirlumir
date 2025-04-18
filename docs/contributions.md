@@ -15,17 +15,17 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 22 | More than 105 |
+| 18 | 22 | More than 108 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 10 | 11 | 0 | 16 | 0 | 65 | 0 | 0 | 1 | 2 |
+| 11 | 12 | 0 | 17 | 0 | 65 | 0 | 0 | 1 | 2 |
 
 ### Others
 
 | Issues Created                   | Comments Created                                                                                             |
 | :------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| More than 22 | More than 14 |
+| More than 22 | More than 15 |
 
 ## Highlights
 
@@ -203,15 +203,18 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. feat: support front matter [#328](https://github.com/eslint/markdown/pull/328) :purple_heart:
 1. feat: support `eslint` config comments [#332](https://github.com/eslint/markdown/pull/332) :purple_heart:
-1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :green_heart:
+1. feat: add missing `mdast` types to `MarkdownRuleVisitor` [#334](https://github.com/eslint/markdown/pull/334) :purple_heart:
 
 #### :bug: Bug Fixes
 
 1. fix: replace `IMarkdownSourceCode` with `MarkdownSourceCode` [#336](https://github.com/eslint/markdown/pull/336) :purple_heart:
+1. fix: enhance fenced code language rule to support tilde as a delimiter [#344](https://github.com/eslint/markdown/pull/344) :purple_heart:
 
 #### :toolbox: Chores
 
 1. chore: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :purple_heart:
+1. chore: add eslint fix command for Markdown files in lint-staged [#343](https://github.com/eslint/markdown/pull/343) :purple_heart:
+1. chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest [#345](https://github.com/eslint/markdown/pull/345) :green_heart:
 
 #### :memo: Documentation
 
@@ -239,6 +242,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 #### :newspaper: Issue Comments
 
 1. Bug: False positive `markdown/no-missing-label-refs` on GFM Alerts [#294](https://github.com/eslint/markdown/issues/294#issuecomment-2763192768)
+1. Bug: False positive with no-missing-label-refs on checkboxes [#335](https://github.com/eslint/markdown/issues/335#issuecomment-2804399639)
 
 ### [`rewrite`](https://github.com/eslint/rewrite) ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/rewrite)
 
