@@ -15,11 +15,11 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 | Contributed Organizations                | Contributed Repositories                | Merged Pull Requests                         |
 | :--------------------------------------: | :-------------------------------------: | :------------------------------------------: |
-| 18 | 22 | More than 108 |
+| 18 | 22 | More than 109 |
 
 | :sparkles: feat | :bug: fix | :hammer_and_wrench: build | :toolbox: chore | :arrows_counterclockwise: ci | :memo: docs | :zap: perf | :recycle: refactor | :art: style | :test_tube: test |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 11 | 12 | 0 | 17 | 0 | 65 | 0 | 0 | 1 | 2 |
+| 11 | 12 | 0 | 18 | 0 | 65 | 0 | 0 | 1 | 2 |
 
 ### Others
 
@@ -214,7 +214,7 @@ Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir).
 
 1. chore: create `PULL_REQUEST_TEMPLATE.md` [#337](https://github.com/eslint/markdown/pull/337) :purple_heart:
 1. chore: add eslint fix command for Markdown files in lint-staged [#343](https://github.com/eslint/markdown/pull/343) :purple_heart:
-1. chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest [#345](https://github.com/eslint/markdown/pull/345) :green_heart:
+1. chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest [#345](https://github.com/eslint/markdown/pull/345) :purple_heart:
 
 #### :memo: Documentation
 

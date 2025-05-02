@@ -759,7 +759,7 @@ export default [
             number: 345,
             type: 'chore',
             title: 'chore: bump `@eslint/core` and `@eslint/plugin-kit` to latest',
-            merged: false,
+            merged: true,
           },
         ],
         issues: [
