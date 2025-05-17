@@ -704,12 +704,3 @@
     </div>
   </div>
   </details>
-
-<!-- Hits -->
-<h2></h2>
-<div align="center">
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flumirlumir&count_bg=%23D6BBF2&title_bg=%23161B22&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"
-    alt="Visitors"
-  />
-</div>
