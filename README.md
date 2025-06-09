@@ -9,14 +9,14 @@
 <!-- Title -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=800&height=75&lines=Hello+world.+It's+LuMir%2C+the+artist."
-    alt="Hello world. It's LuMir, the artist."
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+world!+It's+LuMir:)"
+    alt="Hello world! It's LuMir:)"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
   />
 </div>
 <br />
