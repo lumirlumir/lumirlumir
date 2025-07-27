@@ -94,9 +94,10 @@ Copyright © 2024-${new Date().getFullYear()} [루밀LuMir(lumirlumir)](${URL_GI
       if (repository.pullRequests !== undefined) {
         sortContributions(repository.pullRequests).forEach(
           (
-            /** @type {PullRequest} */ { number, type, title, merged },
+            // @ts-ignore -- TODO
+            { number, type, title, merged },
             idx,
-            /** @type {PullRequest[]} */ pullRequests,
+            pullRequests,
           ) => {
             if (idx === 0 || pullRequests[idx - 1].type !== type) {
               markdown += `\n#### ${typeToTitle(type)}\n\n`;
