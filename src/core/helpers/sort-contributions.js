@@ -16,8 +16,9 @@
 
 /**
  * Sort contributions by `type`.
- * @param {readonly Contribution[]} contributions
- * @returns
+ * @template {Contribution} T
+ * @param {Readonly<Array<T>>} contributions
+ * @returns {Readonly<Array<T>>}
  */
 export default function sortContributions(contributions) {
   const order = [
