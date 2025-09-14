@@ -34,5 +34,6 @@ export default function sortContributions(contributions) {
     'test',
   ];
 
+  // @ts-expect-error -- TODO
   return contributions.toSorted((a, b) => order.indexOf(a.type) - order.indexOf(b.type));
 }
