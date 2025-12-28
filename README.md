@@ -585,47 +585,12 @@
     <!-- Transcript -->
     <div>
       <img
-        src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black"
-        alt="컴퓨터공학부:전공"
-      />
-      <img
-        src="https://img.shields.io/badge/예술융합창작:부전공-FFFFFF?style=flat&logoColor=black"
-        alt="예술융합창작:부전공"
-      />
-      <img
-        src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="학점평균:4.08/4.5"
-      />
-      <img
-        src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="전공평균:4.06/4.5"
-      />
-      <img
-        src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="부전공평균:4.36/4.5"
-      />
-      <img
         src="https://img.shields.io/badge/작품경진대회:동상-FFFFFF?style=flat&logoColor=black"
         alt="작품경진대회:동상"
       />
       <img
         src="https://img.shields.io/badge/캡스톤디자인:장려상-FFFFFF?style=flat&logoColor=black"
         alt="캡스톤디자인:장려상"
-      />
-    </div>
-    <!-- Certificate -->
-    <div>
-      <img
-        src="https://img.shields.io/badge/정보처리기사-EFFFDF?style=flat&logoColor=black"
-        alt="정보처리기사"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터활용능력1급-CEFFC4?style=flat&logoColor=black"
-        alt="컴퓨터활용능력1급"
-      />
-      <img
-        src="https://img.shields.io/badge/정보처리기능사-B3F9FF?style=flat&logoColor=black"
-        alt="정보처리기능사"
       />
     </div>
     <!-- A+ -->
