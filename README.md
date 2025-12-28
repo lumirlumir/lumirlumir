@@ -36,13 +36,13 @@
   <!-- Stats 1st line -->
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="220"
       alt="루밀LuMir's GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="220"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      height="195"
       alt="루밀LuMir's Most Used Languages"
     />
   </div>
@@ -51,12 +51,12 @@
   <!-- Stats 2nd line -->
   <div align="center">
     <img
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       alt="루밀LuMir's GitHub Streak"
     />
     <img
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
-      height="200"
+      height="250"
       alt="루밀LuMir's Baekjoon Tier"
     />
   </div>
@@ -561,146 +561,3 @@
     </div>
   </details>
 </div>
-<br />
-
-<!-- Title -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=45&repeat=false&lines=Transcript+%26+Certificate"
-    alt="Transcript and Certificate"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
-  />
-</div>
-<br />
-
-<!-- Transcript Certificate -->
-<div align="center">
-  <details>
-    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
-    <!-- Transcript -->
-    <div>
-      <img
-        src="https://img.shields.io/badge/컴퓨터공학부:전공-FFFFFF?style=flat&logoColor=black"
-        alt="컴퓨터공학부:전공"
-      />
-      <img
-        src="https://img.shields.io/badge/예술융합창작:부전공-FFFFFF?style=flat&logoColor=black"
-        alt="예술융합창작:부전공"
-      />
-      <img
-        src="https://img.shields.io/badge/학점평균:4.08/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="학점평균:4.08/4.5"
-      />
-      <img
-        src="https://img.shields.io/badge/전공평균:4.06/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="전공평균:4.06/4.5"
-      />
-      <img
-        src="https://img.shields.io/badge/부전공평균:4.36/4.5-FFFFFF?style=flat&logoColor=black"
-        alt="부전공평균:4.36/4.5"
-      />
-      <img
-        src="https://img.shields.io/badge/작품경진대회:동상-FFFFFF?style=flat&logoColor=black"
-        alt="작품경진대회:동상"
-      />
-      <img
-        src="https://img.shields.io/badge/캡스톤디자인:장려상-FFFFFF?style=flat&logoColor=black"
-        alt="캡스톤디자인:장려상"
-      />
-    </div>
-    <!-- Certificate -->
-    <div>
-      <img
-        src="https://img.shields.io/badge/정보처리기사-EFFFDF?style=flat&logoColor=black"
-        alt="정보처리기사"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터활용능력1급-CEFFC4?style=flat&logoColor=black"
-        alt="컴퓨터활용능력1급"
-      />
-      <img
-        src="https://img.shields.io/badge/정보처리기능사-B3F9FF?style=flat&logoColor=black"
-        alt="정보처리기능사"
-      />
-    </div>
-    <!-- A+ -->
-    <div>
-      <img
-        src="https://img.shields.io/badge/C언어기초:A+-EDC9D4?style=flat&logoColor=black"
-        alt="C언어기초:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터프로그래밍의기초:A+-FFD3C9?style=flat&logoColor=black"
-        alt="컴퓨터프로그래밍의기초:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터공학총론:A+-FFF7CF?style=flat&logoColor=black"
-        alt="컴퓨터공학총론:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/알고리즘:A+-E4F0C9?style=flat&logoColor=black"
-        alt="알고리즘:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/운영체제:A+-C7E0FF?style=flat&logoColor=black"
-        alt="운영체제:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/프로그래밍언어론:A+-CFCFFF?style=flat&logoColor=black"
-        alt="프로그래밍언어론:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/자료구조:A+-BAC3FF?style=flat&logoColor=black"
-        alt="자료구조:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/리눅스프로그래밍:A+-EDC9D4?style=flat&logoColor=black"
-        alt="리눅스프로그래밍:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터네트워크:A+-FFD3C9?style=flat&logoColor=black"
-        alt="컴퓨터네트워크:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/소프트웨어공학:A+-FFF7CF?style=flat&logoColor=black"
-        alt="소프트웨어공학:A+"
-      />
-      <img
-        src="https://img.shields.io/badge/산학실전캡스톤:A+-E4F0C9?style=flat&logoColor=black"
-        alt="산학실전캡스톤:A+"
-      />
-    </div>
-    <!-- A -->
-    <div>
-      <img
-        src="https://img.shields.io/badge/C++프로그래밍:A-EDC9D4?style=flat&logoColor=black"
-        alt="C++프로그래밍:A"
-      />
-      <img
-        src="https://img.shields.io/badge/머신러닝개론:A-FFD3C9?style=flat&logoColor=black"
-        alt="머신러닝개론:A"
-      />
-      <img
-        src="https://img.shields.io/badge/객체지향프로그래밍:A-FFF7CF?style=flat&logoColor=black"
-        alt="객체지향프로그래밍:A"
-      />
-      <img
-        src="https://img.shields.io/badge/데이터베이스:A-E4F0C9?style=flat&logoColor=black"
-        alt="데이터베이스:A"
-      />
-      <img
-        src="https://img.shields.io/badge/컴퓨터구조:A-C7E0FF?style=flat&logoColor=black"
-        alt="컴퓨터구조:A"
-      />
-      <img
-        src="https://img.shields.io/badge/이산수학:A-CFCFFF?style=flat&logoColor=black"
-        alt="이산수학:A"
-      />
-    </div>
-  </div>
-  </details>
