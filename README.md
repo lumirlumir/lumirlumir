@@ -36,13 +36,13 @@
   <!-- Stats 1st line -->
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="220"
       alt="루밀LuMir's GitHub Stats"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="220"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      height="195"
       alt="루밀LuMir's Most Used Languages"
     />
   </div>
@@ -51,12 +51,12 @@
   <!-- Stats 2nd line -->
   <div align="center">
     <img
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=lumirlumir&hide_border=true&border_radius=10&card_width=405&card_height=200&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       alt="루밀LuMir's GitHub Streak"
     />
     <img
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
-      height="200"
+      height="250"
       alt="루밀LuMir's Baekjoon Tier"
     />
   </div>
