@@ -7,7 +7,7 @@
 
 Every contribution I have made to open source projects is listed here.
 
-Copyright © 2024-2025 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir). All rights reserved.
+Copyright © 2024-2026 [루밀LuMir(lumirlumir)](https://github.com/lumirlumir). All rights reserved.
 
 ## Overview
 
