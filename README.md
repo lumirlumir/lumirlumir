@@ -82,14 +82,14 @@
 <div align="center">
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
       alt="reactjs/ko.react.dev"
       title="Collaborator"
     />
   </a>
   <a href="https://github.com/vercel/next.js">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
       alt="vercel/next.js"
       title="Contributor"
     />
@@ -99,126 +99,126 @@
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
     <a href="https://github.com/lerna/lerna">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lerna&repo=lerna&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lerna&repo=lerna&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="lerna/lerna"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/llvm/llvm-project">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="llvm/llvm-project"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/eslint/eslint">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="eslint/eslint"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/reactjs/react.dev">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="reactjs/react.dev"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/actions/runner-images">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="actions/runner-images"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/nodejs/nodejs.org">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=nodejs&repo=nodejs.org&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nodejs&repo=nodejs.org&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="nodejs/nodejs.org"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/algolia/docsearch">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="algolia/docsearch"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/textlint/textlint">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="textlint/textlint"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/material-extensions/vscode-material-icon-theme">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="material-extensions/vscode-material-icon-theme"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/pronist/hello">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="pronist/hello"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/mdn/translated-content">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="mdn/translated-content"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/toss/es-hangul">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=toss&repo=es-hangul&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=toss&repo=es-hangul&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="toss/es-hangul"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/sindresorhus/yocto-spinner">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=sindresorhus&repo=yocto-spinner&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sindresorhus&repo=yocto-spinner&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="sindresorhus/yocto-spinner"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/pronist/tidory">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=pronist&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="pronist/tidory"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/yuyinws/vitepress-plugin-group-icons">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=yuyinws&repo=vitepress-plugin-group-icons&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yuyinws&repo=vitepress-plugin-group-icons&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="yuyinws/vitepress-plugin-group-icons"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/xvzc/boj-cli">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="xvzc/boj-cli"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/editorconfig-checker/editorconfig-checker.javascript">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=editorconfig-checker&repo=editorconfig-checker.javascript&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=editorconfig-checker&repo=editorconfig-checker.javascript&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="editorconfig-checker/editorconfig-checker.javascript"
         title="Contributor"
       />
     </a>
     <a href="https://github.com/lumirlumir/fork-tidory.github.io">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         alt="lumirlumir/fork-tidory.github.io"
         title="Contributor(This repository was deleted so I replaced it with a forked version)"
       />
