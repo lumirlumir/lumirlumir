@@ -22,7 +22,7 @@
     "lint:typescript": "npx tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^24.10.10",
+    "@types/node": "^24.10.11",
     "editorconfig-checker": "^6.1.1",
     "eslint": "^9.39.2",
     "eslint-config-bananass": "^0.5.2",
