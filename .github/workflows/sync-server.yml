@@ -10,6 +10,9 @@ on:
 permissions:
   contents: read
 
+env:
+  HUSKY: 0 # Skip Husky during CI: https://typicode.github.io/husky/how-to.html#ci-server-and-docker
+
 jobs:
   sync-server:
     runs-on: ubuntu-latest
@@ -25,7 +28,7 @@ jobs:
           cache: npm # https://github.com/actions/setup-node#caching-global-packages-data
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --no-audit --no-fund
 
       - name: Set up environment variables
         run: echo "SHORT_SHA=${GITHUB_SHA:0:7}" >> $GITHUB_ENV

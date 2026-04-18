@@ -18,7 +18,7 @@
     "lint:prettier": "prettier . --check --ignore-unknown",
     "lint:editorconfig": "editorconfig-checker",
     "lint:markdownlint": "markdownlint **/*.md",
-    "sync-client": "bash sync-client.sh"
+    "sync-client": "node sync-client.js"
   },
   "dependencies": {
     "yaml": "^2.8.3"
