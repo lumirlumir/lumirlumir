@@ -1,6 +1,9 @@
 # dependencies
 node_modules
 
+# cache
+.eslintcache
+
 # sync-server
 /.github/sync-server.yml
 
@@ -8,11 +11,12 @@ node_modules
 /.husky
 /.vscode
 /.editorconfig
+/.editorconfig-checker.json
 /.markdownlint.json
 /.markdownlintignore
 /.nvmrc
 /.prettierignore
 /VScode.code-workspace
-/eslint.config.mjs
-/lint-staged.config.mjs
-/prettier.config.mjs
+/eslint.config.js
+/lint-staged.config.js
+/prettier.config.js
