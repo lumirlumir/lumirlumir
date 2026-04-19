@@ -19,6 +19,7 @@ const entries = /** @type {const} */ ([
   ['../configs/.husky/pre-commit', '../.husky/pre-commit'],
   ['../configs/.vscode/settings.json', '../.vscode/settings.json'],
   ['../configs/.editorconfig', '../.editorconfig'],
+  ['../configs/.editorconfig-checker.json', '../.editorconfig-checker.json'],
   ['../configs/.markdownlint.json', '../.markdownlint.json'],
   ['../configs/.markdownlintignore', '../.markdownlintignore'],
   ['../configs/.nvmrc', '../.nvmrc'],
