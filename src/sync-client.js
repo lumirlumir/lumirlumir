@@ -25,9 +25,9 @@ const entries = /** @type {const} */ ([
   ['../configs/.nvmrc', '../.nvmrc'],
   ['../configs/.prettierignore', '../.prettierignore'],
   ['../configs/VScode.code-workspace', '../VScode.code-workspace'],
-  ['../configs/eslint.config.mjs', '../eslint.config.mjs'],
-  ['../configs/lint-staged.config.mjs', '../lint-staged.config.mjs'],
-  ['../configs/prettier.config.mjs', '../prettier.config.mjs'],
+  ['../configs/eslint.config.js', '../eslint.config.js'],
+  ['../configs/lint-staged.config.js', '../lint-staged.config.js'],
+  ['../configs/prettier.config.js', '../prettier.config.js'],
 ]);
 
 // --------------------------------------------------------------------------------
