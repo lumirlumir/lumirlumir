@@ -55,7 +55,7 @@
       alt="루밀LuMir's GitHub Streak"
     />
     <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
       height="250"
       alt="루밀LuMir's Baekjoon Tier"
     />
