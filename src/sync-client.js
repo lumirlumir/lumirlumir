@@ -15,6 +15,10 @@ import { cp } from 'node:fs/promises';
 // --------------------------------------------------------------------------------
 
 const entries = /** @type {const} */ ([
+  [
+    '../configs/.github/workflows/pull-request.yml',
+    '../.github/workflows/pull-request.yml',
+  ],
   ['../configs/.github/dependabot.yml', '../.github/dependabot.yml'],
   ['../configs/.husky/pre-commit', '../.husky/pre-commit'],
   ['../configs/.vscode/settings.json', '../.vscode/settings.json'],
