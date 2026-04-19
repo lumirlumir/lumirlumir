@@ -41,5 +41,3 @@ lumirlumir/lumirlumir-configs:
     dest: ./configs/lint-staged.config.mjs
   - source: ./prettier.config.mjs
     dest: ./configs/prettier.config.mjs
-  - source: ./tsconfig.json
-    dest: ./configs/tsconfig.json

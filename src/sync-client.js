@@ -1,0 +1,46 @@
+/**
+ * @fileoverview Script to sync local config files into the repository root.
+ */
+
+// @ts-check
+
+// --------------------------------------------------------------------------------
+// Import
+// --------------------------------------------------------------------------------
+
+import { cp } from 'node:fs/promises';
+
+// --------------------------------------------------------------------------------
+// Helper
+// --------------------------------------------------------------------------------
+
+const entries = /** @type {const} */ ([
+  ['../configs/.github/dependabot.yml', '../.github/dependabot.yml'],
+  ['../configs/.husky/pre-commit', '../.husky/pre-commit'],
+  ['../configs/.vscode/settings.json', '../.vscode/settings.json'],
+  ['../configs/.editorconfig', '../.editorconfig'],
+  ['../configs/.markdownlint.json', '../.markdownlint.json'],
+  ['../configs/.markdownlintignore', '../.markdownlintignore'],
+  ['../configs/.nvmrc', '../.nvmrc'],
+  ['../configs/.prettierignore', '../.prettierignore'],
+  ['../configs/VScode.code-workspace', '../VScode.code-workspace'],
+  ['../configs/eslint.config.mjs', '../eslint.config.mjs'],
+  ['../configs/lint-staged.config.mjs', '../lint-staged.config.mjs'],
+  ['../configs/prettier.config.mjs', '../prettier.config.mjs'],
+]);
+
+// --------------------------------------------------------------------------------
+// Copy files
+// --------------------------------------------------------------------------------
+
+Promise.all(
+  entries.map(([source, destination]) =>
+    cp(new URL(source, import.meta.url), new URL(destination, import.meta.url), {
+      force: true,
+      recursive: true,
+    }),
+  ),
+).catch(error => {
+  console.error(error); // eslint-disable-line no-console
+  process.exit(1);
+});

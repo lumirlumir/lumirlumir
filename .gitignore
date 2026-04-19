@@ -1,6 +1,9 @@
 # dependencies
 node_modules
 
+# cache
+.eslintcache
+
 # sync-server
 /.github/sync-server.yml
 
