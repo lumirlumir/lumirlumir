@@ -20,7 +20,7 @@ import yml from 'yaml';
 // --------------------------------------------------------------------------------
 
 const USER_NAME = 'lumirlumir';
-const REPOSITORY_NAME = 'lumirlumir-configs';
+const REPOSITORY_NAME = 'lumirlumir';
 const clientsDirPath = path.resolve(import.meta.dirname, '..', 'clients');
 const outputYmlFilePath = path.resolve(
   import.meta.dirname,

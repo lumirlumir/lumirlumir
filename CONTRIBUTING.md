@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-git clone https://github.com/lumirlumir/lumirlumir-configs.git && cd lumirlumir-configs && npm install
+git clone https://github.com/lumirlumir/lumirlumir.git && cd lumirlumir && npm install
 ```
