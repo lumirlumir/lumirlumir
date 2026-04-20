@@ -40,7 +40,7 @@ jobs:
       - name: Lint
         run: npm run lint
 
-  test:
+  coverage:
     runs-on: ubuntu-latest
 
     env:
