@@ -26,9 +26,9 @@
   <!-- Contribution Graph -->
   <div align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
       height="410vw"
-      alt="루밀LuMir's Contribution Graph"
+      alt="lumir's Contribution Graph"
     />
   </div>
   <br />
@@ -36,14 +36,14 @@
   <!-- Stats 1st line -->
   <div align="center">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      src="https://github-readme-stats-fast.vercel.app/api?username=lumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="220"
-      alt="루밀LuMir's GitHub Stats"
+      alt="lumir's GitHub Stats"
     />
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
       height="195"
-      alt="루밀LuMir's Most Used Languages"
+      alt="lumir's Most Used Languages"
     />
   </div>
   <br />
@@ -51,13 +51,13 @@
   <!-- Stats 2nd line -->
   <div align="center">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
-      alt="루밀LuMir's GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=lumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      alt="lumir's GitHub Streak"
     />
     <img
       src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
       height="250"
-      alt="루밀LuMir's Baekjoon Tier"
+      alt="lumir's Baekjoon Tier"
     />
   </div>
   <br />
@@ -216,10 +216,10 @@
         title="Contributor"
       />
     </a>
-    <a href="https://github.com/lumirlumir/fork-tidory.github.io">
+    <a href="https://github.com/lumir/fork-tidory.github.io">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        alt="lumirlumir/fork-tidory.github.io"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        alt="lumir/fork-tidory.github.io"
         title="Contributor(This repository was deleted so I replaced it with a forked version)"
       />
     </a>

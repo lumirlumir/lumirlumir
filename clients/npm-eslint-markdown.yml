@@ -1,4 +1,4 @@
-lumirlumir/lumirlumir:
+lumir/lumirlumir:
   - source: ./.github/sync-client.yml
     dest: ./clients/npm-eslint-markdown.yml
   # ./.github/workflows
