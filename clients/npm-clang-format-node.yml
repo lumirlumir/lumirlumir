@@ -1,4 +1,4 @@
-lumir/lumirlumir:
+lumirlumir/lumirlumir:
   - source: ./.github/sync-client.yml
     dest: ./clients/npm-clang-format-node.yml
   # ./.github/workflows
