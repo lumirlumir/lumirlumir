@@ -21,7 +21,7 @@
     "sync-client": "node src/sync-client.js"
   },
   "dependencies": {
-    "yaml": "^2.8.4"
+    "yaml": "^2.9.0"
   },
   "devDependencies": {
     "editorconfig-checker": "^6.1.1",
