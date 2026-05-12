@@ -235,7 +235,7 @@
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         height="128vw"
         alt="lumirlumir/fork-tidory.github.io"
-        title="contributor(This repository was deleted so I replaced it with a forked version)"
+        title="contributor (This repository was deleted so I replaced it with a forked version)"
       />
     </a>
   </details>
