@@ -19,7 +19,7 @@
   <div align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
-      height="427vw"
+      height="420vh"
       alt="lumir's contribution graph"
     />
   </div>
@@ -29,12 +29,12 @@
   <div align="center">
     <img
       src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="230vw"
+      height="220vh"
       alt="lumir's github stats"
     />
     <img
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="230vw"
+      height="220vh"
       alt="lumir's most used languages"
     />
   </div>
@@ -44,12 +44,12 @@
   <div align="center">
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
-      height="210vw"
+      height="200vh"
       alt="lumir's github streak"
     />
     <img
       src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
-      height="210vw"
+      height="200vh"
       alt="lumir's baekjoon tier"
     />
   </div>
@@ -78,7 +78,7 @@
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
-      height="128vw"
+      height="122vh"
       alt="reactjs/ko.react.dev"
       title="collaborator"
     />
@@ -86,7 +86,7 @@
   <a href="https://github.com/vercel/next.js">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-      height="128vw"
+      height="122vh"
       alt="vercel/next.js"
       title="contributor"
     />
@@ -97,7 +97,7 @@
     <a href="https://github.com/lerna/lerna">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lerna&repo=lerna&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="lerna/lerna"
         title="contributor"
       />
@@ -105,7 +105,7 @@
     <a href="https://github.com/llvm/llvm-project">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="llvm/llvm-project"
         title="contributor"
       />
@@ -113,7 +113,7 @@
     <a href="https://github.com/eslint/eslint">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="eslint/eslint"
         title="contributor"
       />
@@ -121,7 +121,7 @@
     <a href="https://github.com/reactjs/react.dev">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="reactjs/react.dev"
         title="contributor"
       />
@@ -129,7 +129,7 @@
     <a href="https://github.com/actions/runner-images">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="actions/runner-images"
         title="contributor"
       />
@@ -137,7 +137,7 @@
     <a href="https://github.com/nodejs/nodejs.org">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nodejs&repo=nodejs.org&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="nodejs/nodejs.org"
         title="contributor"
       />
@@ -145,7 +145,7 @@
     <a href="https://github.com/algolia/docsearch">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="algolia/docsearch"
         title="contributor"
       />
@@ -153,7 +153,7 @@
     <a href="https://github.com/textlint/textlint">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="textlint/textlint"
         title="contributor"
       />
@@ -161,7 +161,7 @@
     <a href="https://github.com/material-extensions/vscode-material-icon-theme">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="material-extensions/vscode-material-icon-theme"
         title="contributor"
       />
@@ -169,7 +169,7 @@
     <a href="https://github.com/pronist/hello">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="pronist/hello"
         title="contributor"
       />
@@ -177,7 +177,7 @@
     <a href="https://github.com/mdn/translated-content">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="mdn/translated-content"
         title="contributor"
       />
@@ -185,7 +185,7 @@
     <a href="https://github.com/toss/es-hangul">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=toss&repo=es-hangul&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="toss/es-hangul"
         title="contributor"
       />
@@ -193,7 +193,7 @@
     <a href="https://github.com/sindresorhus/yocto-spinner">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sindresorhus&repo=yocto-spinner&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="sindresorhus/yocto-spinner"
         title="contributor"
       />
@@ -201,7 +201,7 @@
     <a href="https://github.com/pronist/tidory">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="pronist/tidory"
         title="contributor"
       />
@@ -209,7 +209,7 @@
     <a href="https://github.com/yuyinws/vitepress-plugin-group-icons">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yuyinws&repo=vitepress-plugin-group-icons&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="yuyinws/vitepress-plugin-group-icons"
         title="contributor"
       />
@@ -217,7 +217,7 @@
     <a href="https://github.com/xvzc/boj-cli">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="xvzc/boj-cli"
         title="contributor"
       />
@@ -225,7 +225,7 @@
     <a href="https://github.com/editorconfig-checker/editorconfig-checker.javascript">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=editorconfig-checker&repo=editorconfig-checker.javascript&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="editorconfig-checker/editorconfig-checker.javascript"
         title="contributor"
       />
@@ -233,7 +233,7 @@
     <a href="https://github.com/lumirlumir/fork-tidory.github.io">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="128vw"
+        height="122vh"
         alt="lumirlumir/fork-tidory.github.io"
         title="contributor (This repository was deleted so I replaced it with a forked version)"
       />
