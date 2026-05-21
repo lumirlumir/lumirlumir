@@ -2,19 +2,31 @@
   "private": true,
   "name": "lumirlumir",
   "type": "module",
-  "packageManager": "npm@11.11.0",
+  "packageManager": "npm@11.12.1",
   "engines": {
-    "node": "^20.19.6"
+    "node": "^24.15.0"
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "^24.15.0",
+      "onFail": "error"
+    },
+    "packageManager": {
+      "name": "npm",
+      "version": ">=11.12.1",
+      "onFail": "error"
+    }
   },
   "scripts": {
-    "prepare": "npm run sync-client && husky",
-    "build": "node src/sync-server.js -d",
+    "prepare": "node --run sync-client && husky",
+    "build": "node src/sync-server.js",
     "fix": "npm-run-all -c -l -p fix:*",
-    "fix:eslint": "eslint --fix",
+    "fix:eslint": "eslint --fix --cache --cache-strategy content",
     "fix:prettier": "prettier . --write --ignore-unknown",
     "fix:markdownlint": "markdownlint **/*.md --fix",
     "lint": "npm-run-all -c -l -p lint:*",
-    "lint:eslint": "eslint",
+    "lint:eslint": "eslint --cache --cache-strategy content",
     "lint:prettier": "prettier . --check --ignore-unknown",
     "lint:editorconfig": "editorconfig-checker -config .editorconfig-checker.json",
     "lint:markdownlint": "markdownlint **/*.md",
@@ -27,11 +39,11 @@
     "editorconfig-checker": "^6.1.1",
     "eslint": "^9.39.4",
     "eslint-config-bananass": "^0.6.1",
-    "eslint-markdown": "^0.9.0",
+    "eslint-markdown": "^0.9.1",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
     "markdownlint-cli": "^0.48.0",
-    "npm-run-all2": "^8.0.4",
+    "npm-run-all2": "^9.0.0",
     "prettier": "^3.8.3"
   }
 }
