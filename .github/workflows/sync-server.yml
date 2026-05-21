@@ -28,13 +28,13 @@ jobs:
           cache: npm # https://github.com/actions/setup-node#caching-global-packages-data
 
       - name: Install dependencies
-        run: npm ci --no-audit --no-fund
+        run: npm ci --no-audit --no-fund --prefer-offline
 
       - name: Set up environment variables
         run: echo "SHORT_SHA=${GITHUB_SHA:0:7}" >> $GITHUB_ENV
 
       - name: Build
-        run: npm run build
+        run: node --run build
 
       - name: Sync
         uses: BetaHuhn/repo-file-sync-action@v1
