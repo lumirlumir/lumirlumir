@@ -44,11 +44,6 @@
     />
   </div>
   <br />
-  <!-- Stats 2nd line -->
-  <div align="center">
-
-  </div>
-  <br />
 </div>
 
 <!-- Title -->
