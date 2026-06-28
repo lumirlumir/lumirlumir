@@ -7,7 +7,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
     aria-hidden="true"
   />
 </div>
@@ -53,7 +53,7 @@
     aria-hidden="true"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=45&repeat=false&lines=Contributions"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=30&repeat=false&lines=Contributions"
     alt="contributions"
   />
   <img
@@ -65,10 +65,18 @@
 
 <!-- Contributions -->
 <div align="center">
+  <a href="https://github.com/eslint/eslint">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
+        height="81.5vh"
+        alt="eslint/eslint"
+        title="member"
+      />
+    </a>
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
-      height="122vh"
+      height="81.5vh"
       alt="reactjs/ko.react.dev"
       title="collaborator"
     />
@@ -76,7 +84,7 @@
   <a href="https://github.com/vercel/next.js">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-      height="122vh"
+      height="81.5vh"
       alt="vercel/next.js"
       title="contributor"
     />
@@ -87,7 +95,7 @@
     <a href="https://github.com/lerna/lerna">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lerna&repo=lerna&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="lerna/lerna"
         title="contributor"
       />
@@ -95,23 +103,15 @@
     <a href="https://github.com/llvm/llvm-project">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="llvm/llvm-project"
-        title="contributor"
-      />
-    </a>
-    <a href="https://github.com/eslint/eslint">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
-        alt="eslint/eslint"
         title="contributor"
       />
     </a>
     <a href="https://github.com/reactjs/react.dev">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="reactjs/react.dev"
         title="contributor"
       />
@@ -119,7 +119,7 @@
     <a href="https://github.com/actions/runner-images">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=actions&repo=runner-images&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="actions/runner-images"
         title="contributor"
       />
@@ -127,7 +127,7 @@
     <a href="https://github.com/nodejs/nodejs.org">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nodejs&repo=nodejs.org&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="nodejs/nodejs.org"
         title="contributor"
       />
@@ -135,7 +135,7 @@
     <a href="https://github.com/algolia/docsearch">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=algolia&repo=docsearch&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="algolia/docsearch"
         title="contributor"
       />
@@ -143,7 +143,7 @@
     <a href="https://github.com/textlint/textlint">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=textlint&repo=textlint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="textlint/textlint"
         title="contributor"
       />
@@ -151,7 +151,7 @@
     <a href="https://github.com/material-extensions/vscode-material-icon-theme">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=material-extensions&repo=vscode-material-icon-theme&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="material-extensions/vscode-material-icon-theme"
         title="contributor"
       />
@@ -159,7 +159,7 @@
     <a href="https://github.com/pronist/hello">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=hello&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="pronist/hello"
         title="contributor"
       />
@@ -167,7 +167,7 @@
     <a href="https://github.com/mdn/translated-content">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="mdn/translated-content"
         title="contributor"
       />
@@ -175,7 +175,7 @@
     <a href="https://github.com/toss/es-hangul">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=toss&repo=es-hangul&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="toss/es-hangul"
         title="contributor"
       />
@@ -183,7 +183,7 @@
     <a href="https://github.com/sindresorhus/yocto-spinner">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sindresorhus&repo=yocto-spinner&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="sindresorhus/yocto-spinner"
         title="contributor"
       />
@@ -191,7 +191,7 @@
     <a href="https://github.com/pronist/tidory">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pronist&repo=tidory&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="pronist/tidory"
         title="contributor"
       />
@@ -199,7 +199,7 @@
     <a href="https://github.com/yuyinws/vitepress-plugin-group-icons">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yuyinws&repo=vitepress-plugin-group-icons&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="yuyinws/vitepress-plugin-group-icons"
         title="contributor"
       />
@@ -207,7 +207,7 @@
     <a href="https://github.com/xvzc/boj-cli">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xvzc&repo=boj-cli&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="xvzc/boj-cli"
         title="contributor"
       />
@@ -215,7 +215,7 @@
     <a href="https://github.com/editorconfig-checker/editorconfig-checker.javascript">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=editorconfig-checker&repo=editorconfig-checker.javascript&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="editorconfig-checker/editorconfig-checker.javascript"
         title="contributor"
       />
@@ -223,7 +223,7 @@
     <a href="https://github.com/lumirlumir/fork-tidory.github.io">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=fork-tidory.github.io&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="122vh"
+        height="81.5vh"
         alt="lumirlumir/fork-tidory.github.io"
         title="contributor (This repository was deleted so I replaced it with a forked version)"
       />
@@ -234,7 +234,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
     aria-hidden="true"
   />
 </div>
