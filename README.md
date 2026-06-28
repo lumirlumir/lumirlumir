@@ -53,7 +53,7 @@
     aria-hidden="true"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=30&repeat=false&lines=Contributions"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=30&repeat=false&lines=Contributions"
     alt="contributions"
   />
   <img
