@@ -7,7 +7,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
     aria-hidden="true"
   />
 </div>
@@ -18,8 +18,8 @@
   <!-- Contribution Graph -->
   <div align="center">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=600"
-      height="420vh"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=400"
+      height="276.5vh"
       alt="lumir's contribution graph"
     />
   </div>
@@ -28,30 +28,25 @@
   <!-- Stats 1st line -->
   <div align="center">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="220vh"
-      alt="lumir's github stats"
-    />
-    <img
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
-      height="220vh"
+      height="140vh"
       alt="lumir's most used languages"
     />
-  </div>
-  <br />
-
-  <!-- Stats 2nd line -->
-  <div align="center">
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
-      height="200vh"
+      height="140vh"
       alt="lumir's github streak"
     />
     <img
-      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rpfos"
-      height="200vh"
-      alt="lumir's baekjoon tier"
+      src="https://github-readme-stats-fast.vercel.app/api?username=lumirlumir&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
+      height="140vh"
+      alt="lumir's github stats"
     />
+  </div>
+  <br />
+  <!-- Stats 2nd line -->
+  <div align="center">
+
   </div>
   <br />
 </div>
@@ -244,7 +239,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
     aria-hidden="true"
   />
 </div>
