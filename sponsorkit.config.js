@@ -33,26 +33,34 @@ export default defineConfig({
   includePastSponsors: true,
   tiers: [
     {
-      title: 'Past Sponsors',
+      title: 'PAST SPONSORS',
       monthlyDollars: -1,
       preset: tierPresets.xs,
     },
     {
-      title: 'Active Sponsors',
+      title: 'ACTIVE SPONSORS',
       preset: tierPresets.base,
     },
   ],
   svgInlineCSS: `
 text {
-  font-weight: 300;
+  font-weight: 700;
   font-size: 14px;
   fill: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
 }
 .sponsorkit-tier-title {
-  font-weight: 500;
+  font-weight: 700;
   font-size: 20px;
   fill: #d6bbf2;
+}
+@media (prefers-color-scheme: light) {
+  text {
+    fill: #3d3347;
+  }
+  .sponsorkit-tier-title {
+    fill: #7f4eac;
+  }
 }
 `,
 });

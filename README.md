@@ -1,8 +1,16 @@
 <!-- markdownlint-disable -->
 
 <!--
-  --fgColor-accent: #D6BBF2
-  --bgColor-muted: #151b23;
+  Dark mode:
+  --fgColor-accent: #D6BBF2;
+  --fgColor-default: #FFFFFF;
+  --bgColor-muted: #151B23;
+
+  Light mode:
+  --fgColor-accent: #7F4EAC;
+  --fgColor-accent-muted: #9B72C4;
+  --fgColor-default: #3D3347;
+  --bgColor-muted: #FAF7FC;
 -->
 
 <div align="center">
