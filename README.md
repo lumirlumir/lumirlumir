@@ -83,7 +83,7 @@
 <h2 align="center"><samp><strong>MAINTAINER</strong></samp></h2><br>
 
 <div align="center">
-  <a href="https://github.com/eslint">
+  <a href="https://github.com/eslint" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -101,7 +101,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/reactjs/ko.react.dev">
+  <a href="https://github.com/reactjs/ko.react.dev" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -119,7 +119,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/eslint/markdown">
+  <a href="https://github.com/eslint/markdown" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -140,14 +140,14 @@
 
   <details>
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
-    Maintaining the <a href="https://github.com/eslint">ESLint</a>, <a href="https://github.com/eslint-community">ESLint Community</a> and <a href="https://github.com/reactjs/ko.react.dev">React Documentation</a> Ecosystems
+    Maintaining the <a href="https://github.com/eslint" target="_blank" rel="noopener noreferrer">ESLint</a>, <a href="https://github.com/eslint-community" target="_blank" rel="noopener noreferrer">ESLint Community</a> and <a href="https://github.com/reactjs/ko.react.dev" target="_blank" rel="noopener noreferrer">React Documentation</a> Ecosystems
   </details>
 </div>
 
 <h2 align="center"><samp><strong>CREATOR</strong></samp></h2><br>
 
 <div align="center">
-  <a href="https://github.com/lumirlumir/npm-eslint-markdown">
+  <a href="https://github.com/lumirlumir/npm-eslint-markdown" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -165,7 +165,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/lumirlumir/npm-bananass">
+  <a href="https://github.com/lumirlumir/npm-bananass" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -183,7 +183,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/lumirlumir/npm-clang-format-node">
+  <a href="https://github.com/lumirlumir/npm-clang-format-node" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -204,7 +204,7 @@
 
   <details>
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
-    <a href="https://github.com/lumirlumir/textlint-rule-allowed-uris">
+    <a href="https://github.com/lumirlumir/textlint-rule-allowed-uris" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -228,7 +228,7 @@
 <h2 align="center"><samp><strong>CONTRIBUTOR</strong></samp></h2><br>
 
 <div align="center">
-  <a href="https://github.com/vercel/next.js">
+  <a href="https://github.com/vercel/next.js" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -246,7 +246,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/llvm/llvm-project">
+  <a href="https://github.com/llvm/llvm-project" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -264,7 +264,7 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/typescript-eslint/typescript-eslint">
+  <a href="https://github.com/typescript-eslint/typescript-eslint" target="_blank" rel="noopener noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -285,7 +285,7 @@
 
   <details>
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
-    <a href="https://github.com/vitejs/vite">
+    <a href="https://github.com/vitejs/vite" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -303,7 +303,7 @@
         />
       </picture>
     </a>    
-    <a href="https://github.com/lerna/lerna">
+    <a href="https://github.com/lerna/lerna" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -321,7 +321,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/swc-project/swc">
+    <a href="https://github.com/swc-project/swc" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -339,7 +339,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslint">
+    <a href="https://github.com/eslint/eslint" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -357,7 +357,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/rollup/rollup">
+    <a href="https://github.com/rollup/rollup" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -375,7 +375,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/oxc-project/oxc">
+    <a href="https://github.com/oxc-project/oxc" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -393,7 +393,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/renovatebot/renovate">
+    <a href="https://github.com/renovatebot/renovate" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -411,7 +411,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/actions/runner-images">
+    <a href="https://github.com/actions/runner-images" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -429,7 +429,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/reactjs/react.dev">
+    <a href="https://github.com/reactjs/react.dev" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -447,7 +447,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/nodejs/nodejs.org">
+    <a href="https://github.com/nodejs/nodejs.org" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -465,7 +465,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/algolia/docsearch">
+    <a href="https://github.com/algolia/docsearch" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -483,7 +483,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/textlint/textlint">
+    <a href="https://github.com/textlint/textlint" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -501,7 +501,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/material-extensions/vscode-material-icon-theme">
+    <a href="https://github.com/material-extensions/vscode-material-icon-theme" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -519,7 +519,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/js">
+    <a href="https://github.com/eslint/js" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -537,7 +537,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/pronist/hello">
+    <a href="https://github.com/pronist/hello" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -555,7 +555,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/mdn/translated-content">
+    <a href="https://github.com/mdn/translated-content" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -573,7 +573,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/toss/es-hangul">
+    <a href="https://github.com/toss/es-hangul" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -591,7 +591,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/config-inspector">
+    <a href="https://github.com/eslint/config-inspector" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -609,7 +609,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/reactjs/ko.react.dev">
+    <a href="https://github.com/reactjs/ko.react.dev" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -627,7 +627,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/markdown">
+    <a href="https://github.com/eslint/markdown" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -645,7 +645,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/humanwhocodes/momoa">
+    <a href="https://github.com/humanwhocodes/momoa" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -663,7 +663,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/rewrite">
+    <a href="https://github.com/eslint/rewrite" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -681,7 +681,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/sindresorhus/yocto-spinner">
+    <a href="https://github.com/sindresorhus/yocto-spinner" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -699,7 +699,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/css">
+    <a href="https://github.com/eslint/css" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -717,7 +717,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/generator-eslint">
+    <a href="https://github.com/eslint/generator-eslint" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -735,7 +735,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint-community/eslint-plugin-eslint-plugin">
+    <a href="https://github.com/eslint-community/eslint-plugin-eslint-plugin" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -753,7 +753,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/pronist/tidory">
+    <a href="https://github.com/pronist/tidory" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -771,7 +771,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/yuyinws/vitepress-plugin-group-icons">
+    <a href="https://github.com/yuyinws/vitepress-plugin-group-icons" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -789,7 +789,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslintrc">
+    <a href="https://github.com/eslint/eslintrc" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -807,7 +807,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint-community/eslint-plugin-es-x">
+    <a href="https://github.com/eslint-community/eslint-plugin-es-x" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -825,7 +825,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/json">
+    <a href="https://github.com/eslint/json" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -843,7 +843,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint-community/eslint-doc-generator">
+    <a href="https://github.com/eslint-community/eslint-doc-generator" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -861,7 +861,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/create-config">
+    <a href="https://github.com/eslint/create-config" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -879,7 +879,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslint.org">
+    <a href="https://github.com/eslint/eslint.org" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -897,7 +897,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/xvzc/boj-cli">
+    <a href="https://github.com/xvzc/boj-cli" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -915,7 +915,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/editorconfig-checker/editorconfig-checker.javascript">
+    <a href="https://github.com/editorconfig-checker/editorconfig-checker.javascript" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -933,7 +933,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslint-github-bot">
+    <a href="https://github.com/eslint/eslint-github-bot" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -951,7 +951,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/code-explorer">
+    <a href="https://github.com/eslint/code-explorer" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -969,7 +969,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/RanolP/awesome-baekjoon">
+    <a href="https://github.com/RanolP/awesome-baekjoon" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -987,7 +987,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslint-transforms">
+    <a href="https://github.com/eslint/eslint-transforms" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1005,7 +1005,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/tsc-meetings">
+    <a href="https://github.com/eslint/tsc-meetings" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1023,7 +1023,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/eslint-release">
+    <a href="https://github.com/eslint/eslint-release" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1041,7 +1041,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/csstree">
+    <a href="https://github.com/eslint/csstree" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1059,7 +1059,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/zh-hans.docs.eslint.org">
+    <a href="https://github.com/eslint/zh-hans.docs.eslint.org" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1077,7 +1077,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/codemods">
+    <a href="https://github.com/eslint/codemods" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1095,7 +1095,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/Han5991/fe-lab">
+    <a href="https://github.com/Han5991/fe-lab" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1113,7 +1113,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/workflows">
+    <a href="https://github.com/eslint/workflows" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1131,7 +1131,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/lumirlumir/fork-tidory.github.io">
+    <a href="https://github.com/lumirlumir/fork-tidory.github.io" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1149,7 +1149,7 @@
         />
       </picture>
     </a>
-    <a href="https://github.com/eslint/.github">
+    <a href="https://github.com/eslint/.github" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -1173,7 +1173,7 @@
 <h2 align="center"><samp><strong>SPONSORS</strong></samp></h2><br>
 
 <div align="center">
-  <a href="https://github.com/sponsors/lumirlumir">
+  <a href="https://github.com/sponsors/lumirlumir" target="_blank" rel="noopener noreferrer">
     <img src="./images/sponsors.svg" alt="Sponsors of lumirlumir" />
   </a>
 </div>
