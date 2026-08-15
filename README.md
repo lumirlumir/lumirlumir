@@ -148,7 +148,7 @@
 
   <details>
     <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
-    Maintaining the <a href="https://github.com/eslint" target="_blank" rel="noopener noreferrer">ESLint</a>, <a href="https://github.com/eslint-community" target="_blank" rel="noopener noreferrer">ESLint Community</a> and <a href="https://github.com/reactjs/ko.react.dev" target="_blank" rel="noopener noreferrer">React Documentation</a> Ecosystems
+    <samp><strong>Maintaining the <a href="https://github.com/eslint" target="_blank" rel="noopener noreferrer">ESLint</a>, <a href="https://github.com/eslint-community" target="_blank" rel="noopener noreferrer">ESLint Community</a> and <a href="https://github.com/reactjs/ko.react.dev" target="_blank" rel="noopener noreferrer">React Documentation</a> Ecosystems</strong></samp>
   </details>
 </div>
 
