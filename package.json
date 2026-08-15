@@ -21,6 +21,7 @@
   "scripts": {
     "prepare": "node --run sync-client && husky",
     "build": "node src/sync-server.js",
+    "build:s": "sponsorkit",
     "fix": "npm-run-all -c -l -p fix:*",
     "fix:eslint": "eslint --fix --cache --cache-strategy content",
     "fix:prettier": "prettier . --write --ignore-unknown",
@@ -44,6 +45,7 @@
     "lint-staged": "^17.0.5",
     "markdownlint-cli": "^0.49.1",
     "npm-run-all2": "^9.0.3",
-    "prettier": "^3.9.6"
+    "prettier": "^3.9.6",
+    "sponsorkit": "^18.0.0"
   }
 }
