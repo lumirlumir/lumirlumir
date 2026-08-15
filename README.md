@@ -7,15 +7,12 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
     aria-hidden="true"
   />
 </div>
-<br />
 
-<!-- Stats -->
 <div>
-  <!-- Contribution Graph -->
   <div align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=400"
@@ -23,9 +20,7 @@
       alt="lumir's contribution graph"
     />
   </div>
-  <br />
 
-  <!-- Stats 1st line -->
   <div align="center">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lumirlumir&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10"
@@ -43,44 +38,86 @@
       alt="lumir's github stats"
     />
   </div>
-  <br />
 </div>
 
-<!-- Title -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=header&reversal=false"
-    aria-hidden="true"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=D6BBF2&center=true&vCenter=true&random=false&width=500&height=30&repeat=false&lines=Contributions"
-    alt="contributions"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
-    aria-hidden="true"
-  />
-</div>
-<br />
+<h2 align="center"><samp><strong>MAINTAINER</strong></samp></h2><br>
 
-<!-- Contributions -->
 <div align="center">
-  <a href="https://github.com/eslint/eslint">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
-        height="81.5vh"
-        alt="eslint/eslint"
-        title="member"
-      />
-    </a>
+  <a href="https://github.com/eslint">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=eslint&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="eslint/eslint"
+      title="member"
+    />
+  </a>
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&description_lines_count=1"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
       height="81.5vh"
       alt="reactjs/ko.react.dev"
       title="collaborator"
     />
   </a>
+  <a href="https://github.com/eslint/markdown">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=eslint&repo=markdown&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="eslint/markdown"
+      title="member"
+    />
+  </a>
+
+  <details>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
+    Maintaining the <a href="https://github.com/eslint">ESLint</a>, <a href="https://github.com/eslint-community">ESLint Community</a> and <a href="https://github.com/reactjs/ko.react.dev">React Documentation</a> Ecosystems
+  </details>
+</div>
+
+<h2 align="center"><samp><strong>CREATOR</strong></samp></h2><br>
+
+<div align="center">
+  <a href="https://github.com/lumirlumir/npm-eslint-markdown">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=npm-eslint-markdown&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="lumirlumir/npm-eslint-markdown"
+      title="creator"
+    />
+  </a>
+  <a href="https://github.com/lumirlumir/npm-bananass">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=npm-bananass&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="lumirlumir/npm-bananass"
+      title="creator"
+    />
+  </a>
+  <a href="https://github.com/lumirlumir/npm-clang-format-node">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=npm-clang-format-node&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="lumirlumir/npm-clang-format-node"
+      title="creator"
+    />
+  </a>
+
+  <details>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
+    <a href="https://github.com/lumirlumir/textlint-rule-allowed-uris">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lumirlumir&repo=textlint-rule-allowed-uris&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+        height="81.5vh"
+        alt="lumirlumir/textlint-rule-allowed-uris"
+        title="creator"
+      />
+    </a>
+  </details>
+</div>
+
+<h2 align="center"><samp><strong>CONTRIBUTOR</strong></samp></h2><br>
+
+<div align="center">
   <a href="https://github.com/vercel/next.js">
     <img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vercel&repo=next.js&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
@@ -89,22 +126,22 @@
       title="contributor"
     />
   </a>
+  <a href="https://github.com/llvm/llvm-project">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
+      height="81.5vh"
+      alt="llvm/llvm-project"
+      title="contributor"
+    />
+  </a>
 
   <details>
-    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary>
+    <summary><kbd>D</kbd><kbd>E</kbd><kbd>T</kbd><kbd>A</kbd><kbd>I</kbd><kbd>L</kbd><kbd>S</kbd></summary><br>
     <a href="https://github.com/lerna/lerna">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lerna&repo=lerna&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
         height="81.5vh"
         alt="lerna/lerna"
-        title="contributor"
-      />
-    </a>
-    <a href="https://github.com/llvm/llvm-project">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=llvm&repo=llvm-project&icon_color=D6BBF2&text_color=FFFFFF&title_color=D6BBF2&bg_color=151B23&border_radius=10&hide_border=true&description_lines_count=1"
-        height="81.5vh"
-        alt="llvm/llvm-project"
         title="contributor"
       />
     </a>
@@ -232,9 +269,17 @@
 </div>
 <br />
 
+<h2 align="center"><samp><strong>SPONSORS</strong></samp></h2><br>
+
+<div align="center">
+  <a href="https://github.com/sponsors/lumirlumir">
+    <img src="./images/sponsors.svg" alt="Sponsors of lumirlumir" />
+  </a>
+</div>
+
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F2E5D5,100:D6BBF2&section=footer&reversal=false"
     aria-hidden="true"
   />
 </div>
