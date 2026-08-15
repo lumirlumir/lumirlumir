@@ -267,7 +267,6 @@
     </a>
   </details>
 </div>
-<br />
 
 <h2 align="center"><samp><strong>SPONSORS</strong></samp></h2><br>
 
