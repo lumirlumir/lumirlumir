@@ -4,6 +4,11 @@ node_modules
 # cache
 .eslintcache
 
+# env
+.env
+.env.development
+.env.production
+
 # sync-server
 /.github/sync-server.yml
 
