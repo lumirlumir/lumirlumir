@@ -25,14 +25,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=400"
+        srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=lumirlumir&theme=react-dark&bg_color=151B23&point=FFFFFF&hide_border=true&line=D6BBF2&color=D6BBF2&radius=10&height=400"
       />
       <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=9B72C4&color=7F4EAC&radius=10&height=400"
+        srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=lumirlumir&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=9B72C4&color=7F4EAC&radius=10&height=400"
       />
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=lumirlumir&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=9B72C4&color=7F4EAC&radius=10&height=400"
+        src="https://github-readme-activity-graphkayan.vercel.app/graph?username=lumirlumir&theme=minimal&bg_color=FAF7FC&point=3D3347&hide_border=true&line=9B72C4&color=7F4EAC&radius=10&height=400"
         height="276.5vh"
         alt="lumir's contribution graph"
       />
@@ -58,14 +58,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+        srcset="https://streak-stats.demolab.com/?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=151B23&ring=D6BBF256&fire=D6BBF2&currStreakLabel=FFFFFF&currStreakNum=D6BBF2&sideNums=D6BBF2&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       />
       <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
+        srcset="https://streak-stats.demolab.com/?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
       />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
+        src="https://streak-stats.demolab.com/?user=lumirlumir&hide_border=true&border_radius=10&card_width=370&card_height=185&background=FAF7FC&ring=9B72C466&fire=9B72C4&currStreakLabel=3D3347&currStreakNum=7F4EAC&sideNums=7F4EAC&sideLabels=3D3347&dates=3D334799&stroke=3D334733"
         height="140vh"
         alt="lumir's github streak"
       />
