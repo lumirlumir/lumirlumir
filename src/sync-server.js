@@ -38,14 +38,19 @@ const createYmlFile = () => {
 
   inputYmlFilePaths.forEach(inputYmlFilePath => {
     const ymlFileParsed = yml.parse(fs.readFileSync(inputYmlFilePath, 'utf-8'));
+    const repositoryName = path.parse(inputYmlFilePath).name;
+    const repositorySlug =
+      repositoryName === 'npm-eslint-markdown'
+        ? 'eslint-markdown/eslint-markdown'
+        : `${USER_NAME}/${repositoryName}`;
 
     const ymlFileParsedProcessed = {
-      [`${USER_NAME}/${path.parse(inputYmlFilePath).name}`]: ymlFileParsed[
-        `${USER_NAME}/${REPOSITORY_NAME}`
-      ].map(({ dest, source }) => ({
-        source: dest,
-        dest: source,
-      })),
+      [repositorySlug]: ymlFileParsed[`${USER_NAME}/${REPOSITORY_NAME}`].map(
+        ({ dest, source }) => ({
+          source: dest,
+          dest: source,
+        }),
+      ),
     };
 
     // Should use LF line endings because every file in the repository uses LF line endings due to the `.editorconfig` file.
