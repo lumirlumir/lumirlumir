@@ -17,8 +17,6 @@ node_modules
 /.vscode
 /.editorconfig
 /.editorconfig-checker.json
-/.markdownlint.json
-/.markdownlintignore
 /.nvmrc
 /.prettierignore
 /VScode.code-workspace
