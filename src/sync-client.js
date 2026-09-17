@@ -24,8 +24,6 @@ const entries = /** @type {const} */ ([
   ['../configs/.vscode/settings.json', '../.vscode/settings.json'],
   ['../configs/.editorconfig', '../.editorconfig'],
   ['../configs/.editorconfig-checker.json', '../.editorconfig-checker.json'],
-  ['../configs/.markdownlint.json', '../.markdownlint.json'],
-  ['../configs/.markdownlintignore', '../.markdownlintignore'],
   ['../configs/.nvmrc', '../.nvmrc'],
   ['../configs/.prettierignore', '../.prettierignore'],
   ['../configs/VScode.code-workspace', '../VScode.code-workspace'],

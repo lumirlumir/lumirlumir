@@ -25,12 +25,10 @@
     "fix": "npm-run-all -c -l -p fix:*",
     "fix:eslint": "eslint --fix --cache --cache-strategy content",
     "fix:prettier": "prettier . --write --ignore-unknown",
-    "fix:markdownlint": "markdownlint **/*.md --fix",
     "lint": "npm-run-all -c -l -p lint:*",
     "lint:eslint": "eslint --cache --cache-strategy content",
     "lint:prettier": "prettier . --check --ignore-unknown",
     "lint:editorconfig": "editorconfig-checker -config .editorconfig-checker.json",
-    "lint:markdownlint": "markdownlint **/*.md",
     "sync-client": "node src/sync-client.js"
   },
   "dependencies": {
@@ -43,7 +41,6 @@
     "eslint-markdown": "^0.17.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.5.1",
-    "markdownlint-cli": "^0.49.1",
     "npm-run-all2": "^9.0.3",
     "prettier": "^3.9.7",
     "sponsorkit": "^18.0.0"

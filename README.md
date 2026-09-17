@@ -1,4 +1,4 @@
-<!-- markdownlint-disable -->
+<!-- eslint-disable -->
 
 <!--
   Dark mode:
