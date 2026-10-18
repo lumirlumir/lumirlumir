@@ -12,7 +12,6 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { log } from 'node:console';
 import yml from 'yaml';
 
 // --------------------------------------------------------------------------------
@@ -58,6 +57,8 @@ const createYmlFile = () => {
 
     // Debug mode.
     if (secondArgv === '-d' || secondArgv === '--debug') {
+      const { log } = console;
+
       log('inputYmlFilePath:');
       log(inputYmlFilePath);
       log('----------------------------------------------------------------------');
