@@ -16,7 +16,6 @@ node_modules
 /.husky
 /.vscode
 /.editorconfig
-/.editorconfig-checker.json
 /.nvmrc
 /.prettierignore
 /VScode.code-workspace
