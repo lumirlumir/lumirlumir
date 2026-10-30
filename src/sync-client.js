@@ -23,11 +23,9 @@ const entries = /** @type {const} */ ([
   ['../configs/.husky/pre-commit', '../.husky/pre-commit'],
   ['../configs/.vscode/settings.json', '../.vscode/settings.json'],
   ['../configs/.editorconfig', '../.editorconfig'],
-  ['../configs/.editorconfig-checker.json', '../.editorconfig-checker.json'],
   ['../configs/.nvmrc', '../.nvmrc'],
   ['../configs/.prettierignore', '../.prettierignore'],
   ['../configs/VScode.code-workspace', '../VScode.code-workspace'],
-  ['../configs/eslint.config.js', '../eslint.config.js'],
   ['../configs/lint-staged.config.js', '../lint-staged.config.js'],
   ['../configs/prettier.config.js', '../prettier.config.js'],
 ]);
