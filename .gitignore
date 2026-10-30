@@ -19,6 +19,5 @@ node_modules
 /.nvmrc
 /.prettierignore
 /VScode.code-workspace
-/eslint.config.js
 /lint-staged.config.js
 /prettier.config.js
