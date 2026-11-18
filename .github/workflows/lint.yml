@@ -35,4 +35,6 @@ jobs:
         run: npm ci --no-audit --no-fund --prefer-offline
 
       - name: Lint
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: node --run lint
